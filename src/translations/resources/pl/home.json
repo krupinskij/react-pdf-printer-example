@@ -1,0 +1,9 @@
+{
+  "column": {
+    "name": "Nazwa miasta",
+    "voivodeship": "Województwo",
+    "population": "Populacja",
+    "area": "Pow. (km²)"
+  },
+  "print": "Drukuj"
+}

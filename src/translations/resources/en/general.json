@@ -1,0 +1,8 @@
+{
+  "title": "The Largest Cities in Poland",
+  "number": "{{ val, number }}",
+  "float": "{{ val, number(minimumFractionDigits: 2) }}",
+  "loading": "Loading...",
+  "error": "Error occured!",
+  "refresh": "Refresh"
+}
