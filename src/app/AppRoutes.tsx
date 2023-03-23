@@ -1,19 +1,40 @@
-import { Navigate, Route } from 'react-router';
-import { Routes } from 'react-router-dom';
+import { createBrowserRouter, Navigate, RouterProvider } from 'react-router-dom';
 
+import { cities } from 'api';
 import CityPage from 'pages/CityPage';
 import HomePage from 'pages/HomePage';
 import Layout from 'pages/Layout';
 
-const AppRoutes = () => (
-  <Routes>
-    <Route element={<Layout />}>
-      <Route path="/" element={<HomePage />} />
-      <Route path="/city/:city" element={<CityPage />} />
-    </Route>
-    <Route path="/report" element={<div>Report</div>} />
-    <Route path="*" element={<Navigate to="/" />} />
-  </Routes>
-);
+const router = createBrowserRouter([
+  {
+    element: <Layout />,
+    children: [
+      {
+        path: '/',
+        element: <HomePage />,
+      },
+      {
+        path: '/city/:city',
+        loader: ({ params }) => {
+          if (!cities.includes(params.city || '')) throw new Error();
+
+          return null;
+        },
+        // errorElement: <Navigate to="/" />,
+        element: <CityPage />,
+      },
+    ],
+  },
+  {
+    path: '/report',
+    element: <div>Report</div>,
+  },
+  {
+    path: '*',
+    element: <Navigate to="/" />,
+  },
+]);
+
+const AppRoutes = () => <RouterProvider router={router} />;
 
 export default AppRoutes;
