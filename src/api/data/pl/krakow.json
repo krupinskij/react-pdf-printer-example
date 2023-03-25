@@ -1,4 +1,23 @@
 {
   "id": "krakow",
-  "description": "Historyczna stolica Polski. Perła narodowego dziedzictwa kultury."
+  "description": "Historyczna stolica Polski. Perła narodowego dziedzictwa kultury.",
+  "tourism": [
+    {
+      "name": "Zamek Królewski na Wawelu",
+      "photos": []
+    },
+    {
+      "name": "Sukiennice",
+      "photos": []
+    },
+    {
+      "name": "Bazylika Mariacka",
+      "photos": []
+    },
+    {
+      "name": "Brama Floriańska",
+      "photos": []
+    }
+  ],
+  "sources": ["https://podroztrwa.pl/krakow-zabytki/"]
 }

@@ -1,5 +1,8 @@
+import { Suspense } from 'react';
 import { useTranslation } from 'react-i18next';
 import { Outlet } from 'react-router-dom';
+
+import { Spinner } from 'components/Info';
 
 import LanguageSwitch from './LanguageSwitch';
 import * as Styled from './Layout.styles';
@@ -19,7 +22,9 @@ const Layout = () => {
         <Menu />
       </Styled.SideBar>
       <Styled.Main>
-        <Outlet />
+        <Suspense fallback={<Spinner text />}>
+          <Outlet />
+        </Suspense>
       </Styled.Main>
       <Styled.Footer>React PDF Printer | {t('title')}</Styled.Footer>
     </>

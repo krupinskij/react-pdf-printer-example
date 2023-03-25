@@ -1,4 +1,95 @@
 {
   "id": "warsaw",
-  "description": "Stolica oraz największe miasto w Polsce. Centrum polityczne, kulturalne i gospodarcze kraju."
+  "description": "Stolica oraz największe miasto w Polsce. Centrum polityczne, kulturalne i gospodarcze kraju.",
+  "tourism": [
+    {
+      "name": "Łazienki Królewskie",
+      "description": "Zespół pałacowo-ogrodowy. Letnia rezydencja króla Stanisława Augusta.",
+      "photos": [
+        {
+          "caption": "Pałac Na Wyspie, fasada północna",
+          "source": "https://commons.wikimedia.org/wiki/File:Pa%C5%82ac_na_wodzie_w_%C5%81azienkach_Kr%C3%B3lewskich_(cropped).jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Pa%C5%82ac_na_wodzie_w_%C5%81azienkach_Kr%C3%B3lewskich_%28cropped%29.jpg/800px-Pa%C5%82ac_na_wodzie_w_%C5%81azienkach_Kr%C3%B3lewskich_%28cropped%29.jpg"
+        },
+        {
+          "caption": "Nowa Pomarańczarnia",
+          "source": "https://pl.wikipedia.org/wiki/Plik:Nowa_Pomara%C5%84czarnia_%C5%81azienki_Kr%C3%B3lewskie_Warszawa_05.JPG",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Nowa_Pomara%C5%84czarnia_%C5%81azienki_Kr%C3%B3lewskie_Warszawa_05.JPG/800px-Nowa_Pomara%C5%84czarnia_%C5%81azienki_Kr%C3%B3lewskie_Warszawa_05.JPG"
+        },
+        {
+          "caption": "Pomnik Fryderyka Chopina",
+          "source": "https://commons.wikimedia.org/wiki/File:4_Warszawa-Lazienki_Krolewskie_107.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/f/ff/4_Warszawa-Lazienki_Krolewskie_107.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Stare Miasto i Zamek Królewski",
+      "description": "Dawne miasto Stara Warszawa. Najstarszy ośrodek miejski Warszawy będący zwartym zespołem architektury zabytkowej.",
+      "photos": [
+        {
+          "caption": "Plac Zamkowy",
+          "source": "https://www.pexels.com/pl-pl/zdjecie/ludzie-zgromadzeni-przed-budynkiem-2988562/",
+          "src": "/src/assets/views/warsaw/plac_zamkowy.jpg"
+        },
+        {
+          "caption": "Syrenka Warszawska na Starym Mieście",
+          "source": "https://commons.wikimedia.org/wiki/File:Syrenka_Warszawska.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Syrenka_Warszawska.jpg/499px-Syrenka_Warszawska.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Muzeum Narodowe",
+      "description": "Muzeum sztuki w Warszawie. Jedno z największych muzeów w Polsce i największe w Warszawie",
+      "photos": [
+        {
+          "caption": "Wejście do Muzeum Narodowego w Warszawie",
+          "source": "https://commons.wikimedia.org/wiki/File:Muzeum_Narodowe_w_Warszawie.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/9/91/Muzeum_Narodowe_w_Warszawie.jpg"
+        },
+        {
+          "caption": "Eksponaty Muzeum Narodowego w Warszawie",
+          "source": "https://commons.wikimedia.org/wiki/File:Muzeum_Narodowe_w_Warszawie_05_05.JPG",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Muzeum_Narodowe_w_Warszawie_05_05.JPG/800px-Muzeum_Narodowe_w_Warszawie_05_05.JPG"
+        },
+        {
+          "caption": "Obraz \"Bitwa pod Grunwaldem\"",
+          "src": "/src/assets/views/warsaw/bitwa_pod_grunwaldem.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Muzeum Pałacu Króla Jana III w Wilanowie",
+      "description": "Barokowy pałac królewski. Został wzniesiony dla króla Jana III Sobieskiego i Marii Kazimiery.",
+      "photos": [
+        {
+          "caption": "Pałac w Wilanowie - elewacja wschodnia",
+          "source": "https://pl.wikipedia.org/wiki/Plik:Wilan%C3%B3w_Palace.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Wilan%C3%B3w_Palace.jpg/800px-Wilan%C3%B3w_Palace.jpg"
+        },
+        {
+          "caption": "Kolekcja wilanowska",
+          "source": "https://pl.wikipedia.org/wiki/Plik:Wilan%C3%B3w_Palace_interior_01.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Wilan%C3%B3w_Palace_interior_01.jpg/800px-Wilan%C3%B3w_Palace_interior_01.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Muzeum Powstania Warszawskiego",
+      "description": "Muzeum dokumentuje historię, prowadzi działalność naukowo-badawczą oraz edukacyjną poświęconą dziejom powstania warszawskiego, a także historii i działalności Polskiego Państwa Podziemnego.",
+      "photos": [
+        {
+          "caption": "Muzeum Powstania Warszawskiego",
+          "source": "https://commons.wikimedia.org/wiki/File:Budynek_Muzeum_Powstania_Warszawskiego_2017.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Budynek_Muzeum_Powstania_Warszawskiego_2017.jpg/800px-Budynek_Muzeum_Powstania_Warszawskiego_2017.jpg"
+        },
+        {
+          "caption": "Sala Małego Powstańca",
+          "source": "https://commons.wikimedia.org/wiki/File:Sala_Ma%C5%82ego_Powsta%C5%84ca_MPW_04.JPG",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Sala_Ma%C5%82ego_Powsta%C5%84ca_MPW_04.JPG/800px-Sala_Ma%C5%82ego_Powsta%C5%84ca_MPW_04.JPG"
+        }
+      ]
+    }
+  ]
 }

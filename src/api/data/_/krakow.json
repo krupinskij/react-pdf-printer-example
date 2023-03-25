@@ -3,5 +3,6 @@
   "voivodeship": "pl-12",
   "area": 326.8,
   "population": 800653,
-  "position": { "x": 57.3676, "y": 79.0556 }
+  "position": { "x": 57.3676, "y": 79.0556 },
+  "image": "/src/assets/views/krakow/rynek_glowny.jpg"
 }

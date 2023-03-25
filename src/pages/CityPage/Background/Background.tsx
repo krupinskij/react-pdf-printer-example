@@ -1,14 +1,14 @@
 import * as Styled from './Background.styles';
 
 type Props = {
-  city: string;
+  src: string;
 };
 
-const Background = ({ city }: Props) => {
+const Background = ({ src }: Props) => {
   return (
     <Styled.Wrapper>
       <Styled.Shadow />
-      <Styled.Image width="1000" src={`/src/assets/views/${city}/title.jpg`} />
+      <Styled.Image width="1000" src={src} />
     </Styled.Wrapper>
   );
 };

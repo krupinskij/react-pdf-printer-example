@@ -6,7 +6,21 @@ export type City = {
 };
 
 export type CityDetail = City & {
+  image: string;
   description: string;
   position: { x: number; y: number };
   onlyCoa?: boolean;
+  tourism: Tourism[];
+};
+
+export type Image = {
+  caption: string;
+  source?: string;
+  src: string;
+};
+
+export type Tourism = {
+  name: string;
+  description: string;
+  photos: Image[];
 };

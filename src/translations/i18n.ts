@@ -15,6 +15,9 @@ i18n
     backend: {
       loadPath: '/src/translations/resources/{{lng}}/{{ns}}.json',
     },
+    react: {
+      useSuspense: true,
+    },
   })
   .then((t) => {
     document.title = `React PDF Printer | ${t('title', { ns: 'general' })}`;

@@ -8,17 +8,17 @@ import { Error, Spinner } from 'components/Info';
 import Background from './Background';
 import * as Styled from './CityPage.styles';
 import Info from './Info';
+import Tourism from './Tourism';
 
 const CityPage = () => {
-  const { city } = useParams();
+  const { city = '' } = useParams();
 
   const { t } = useTranslation('cities');
 
   const { data, isLoading, isError, refetch } = useQuery([QUERY.CITY, city], () =>
-    API.getCity(city || '')
+    API.getCity(city)
   );
 
-  if (!city) return <Navigate to="/" />;
   if (isLoading) return <Spinner text />;
   if (isError) return <Error onClick={refetch} />;
   return (
@@ -29,9 +29,10 @@ const CityPage = () => {
           <Styled.SubTitle>{data.description}</Styled.SubTitle>
         </Styled.TitleWrapper>
         <Styled.Map position={data.position} />
-        <Background city={city} />
+        <Background src={data.image} />
       </Styled.Cover>
       <Info city={city} voivodeship={data.voivodeship} onlyCoa={data.onlyCoa} />
+      <Tourism tourismList={data.tourism} />
     </Styled.City>
   );
 };
