@@ -10,10 +10,7 @@ export const City = styled.div`
 `;
 
 export const Cover = styled.div`
-  height: calc(
-    ${({ theme }) =>
-      `100vh - (${theme.lineHeight.xl} + ${theme.font.xl} + ${theme.lineHeight.md} + ${theme.font.md})`}
-  );
+  height: 600px;
   position: relative;
   overflow: hidden;
   margin-bottom: 48px;
@@ -24,7 +21,7 @@ export const TitleWrapper = styled.div`
   top: 400px;
   background-color: #ffffffdd;
   padding-left: ${leftMargin};
-  z-index: 1;
+  z-index: 2;
 `;
 
 export const Title = styled.h2`

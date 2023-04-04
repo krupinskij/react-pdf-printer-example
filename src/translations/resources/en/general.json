@@ -4,5 +4,9 @@
   "float": "{{ val, number(minimumFractionDigits: 2) }}",
   "loading": "Loading...",
   "error": "Error occured!",
-  "refresh": "Refresh"
+  "refresh": "Refresh",
+  "image": {
+    "source": "Source",
+    "private": "Private collection"
+  }
 }

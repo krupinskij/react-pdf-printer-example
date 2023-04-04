@@ -1,5 +1,7 @@
 import styled from 'styled-components';
 
+import ImageC from 'components/Image';
+
 export const Wrapper = styled.div`
   margin: 60px 100px;
 `;
@@ -17,6 +19,11 @@ export const Images = styled.div`
   display: flex;
   flex-wrap: wrap;
   gap: 16px;
+`;
+
+export const Image = styled(ImageC)`
+  width: auto;
+  height: 200px;
 `;
 
 export const Description = styled.p`

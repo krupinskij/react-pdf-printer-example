@@ -1,14 +1,14 @@
+import { Image } from 'api/model';
+
 import * as Styled from './Background.styles';
 
-type Props = {
-  src: string;
-};
+type Props = Image;
 
-const Background = ({ src }: Props) => {
+const Background = ({ caption, source, src }: Props) => {
   return (
     <Styled.Wrapper>
       <Styled.Shadow />
-      <Styled.Image width="1000" src={src} />
+      <Styled.Image caption={{ text: caption, position: 'top-right' }} source={source} src={src} />
     </Styled.Wrapper>
   );
 };

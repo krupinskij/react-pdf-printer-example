@@ -5,7 +5,7 @@ const sidebardWidth = '200px';
 export const Header = styled.header`
   position: fixed;
   inset: 0 0 auto 0;
-  z-index: 2;
+  z-index: 3;
 `;
 
 export const Title = styled.h1`
@@ -32,7 +32,7 @@ export const SideBar = styled.aside`
   width: ${sidebardWidth};
   background: white;
 
-  z-index: 1;
+  z-index: 2;
 `;
 
 export const Main = styled.main`
@@ -42,6 +42,7 @@ export const Main = styled.main`
         `${theme.lineHeight.xl} + ${theme.font.xl} + ${theme.lineHeight.md} + ${theme.font.md}`}
     )
     0 calc(${({ theme }) => `${theme.lineHeight.sm} + 2 * ${theme.font.sm}`}) ${sidebardWidth};
+  z-index: 1;
 `;
 
 export const Footer = styled.div`

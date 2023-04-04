@@ -1,5 +1,4 @@
 import { Tourism as TourismList } from 'api/model';
-import Image from 'components/Image';
 
 import * as Styled from './Tourism.styles';
 
@@ -16,7 +15,12 @@ const Tourism = ({ tourismList }: Props) => {
           <Styled.Description key={i}>{description}</Styled.Description>
           <Styled.Images>
             {photos.map(({ caption, source, src }) => (
-              <Image key={src} src={src} caption={caption} source={source} />
+              <Styled.Image
+                key={src}
+                src={src}
+                caption={{ text: caption, position: 'bottom-right' }}
+                source={source}
+              />
             ))}
           </Styled.Images>
         </Styled.Item>
