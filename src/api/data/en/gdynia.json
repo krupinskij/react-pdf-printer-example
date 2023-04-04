@@ -1,5 +1,80 @@
 {
   "id": "gdynia",
-  "description": "New and the largest non-voivodeship city located near the sea.",
-  "tourism": []
+  "description": "Located near the sea, young and the largest non-voivodeship city.",
+  "background": {
+    "caption": "\"Dar Pomorza\" (Gift of Pomerania)",
+    "source": "https://pixabay.com/pl/photos/%c5%bcaglowiec-dar-pomorza-historia-2533691/",
+    "src": "/src/assets/views/gdynia/dar_pomorza.jpg"
+  },
+  "tourism": [
+    {
+      "name": "Nadmorski boulevard",
+      "description": "A 1.5-kilometre-long promenade.",
+      "photos": [
+        {
+          "caption": "Promenade",
+          "source": "https://pl.wikipedia.org/wiki/Plik:Bulwar_Nadmorski_Gdynia1.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bulwar_Nadmorski_Gdynia1.jpg/800px-Bulwar_Nadmorski_Gdynia1.jpg"
+        },
+        {
+          "caption": "\"Gdyńskie Rybki\" (Gdynia fish)",
+          "source": "https://pl.wikipedia.org/wiki/Plik:Bulwar_Nadmorski_Gdynia2.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Bulwar_Nadmorski_Gdynia2.jpg/450px-Bulwar_Nadmorski_Gdynia2.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Kościuszko Square",
+      "description": "The representative street of Gdynia.",
+      "photos": [
+        {
+          "caption": "Kościuszko Square",
+          "source": "https://pl.wikipedia.org/wiki/Plik:SKWER_TADEUSZA_KO%C5%9ACIUSZKI_06.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/SKWER_TADEUSZA_KO%C5%9ACIUSZKI_06.jpg/800px-SKWER_TADEUSZA_KO%C5%9ACIUSZKI_06.jpg"
+        },
+        {
+          "caption": "Monuments",
+          "source": "https://pixabay.com/pl/photos/skwer-ko%c5%9bciuszki-gdynia-polska-2577963/",
+          "src": "/src/assets/views/gdynia/kosciuszko_square.jpg"
+        }
+      ]
+    },
+    {
+      "name": "\"Dar Pomorza\" (Gift of Pomerania)",
+      "description": "A museum ship. Sail training ship in Germany, France, and Poland.",
+      "photos": [
+        {
+          "caption": "Dar Pomorza",
+          "source": "https://pl.wikipedia.org/wiki/Plik:Dar_Pomorza_w_dzie%C5%84.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Dar_Pomorza_w_dzie%C5%84.jpg/800px-Dar_Pomorza_w_dzie%C5%84.jpg"
+        },
+        {
+          "caption": "Bowsprit",
+          "source": "https://pl.wikipedia.org/wiki/Plik:Dar_Pomorza_bukszpryt.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Dar_Pomorza_bukszpryt.jpg/397px-Dar_Pomorza_bukszpryt.jpg"
+        },
+        {
+          "caption": "Officer's cabin on the ship",
+          "source": "https://pl.wikipedia.org/wiki/Plik:Dar_Pomorza_001.JPG",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Dar_Pomorza_001.JPG/800px-Dar_Pomorza_001.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Gdynia Aquarium",
+      "description": "ZOO presenting exhibitions on oceanography and hydrobiology, while the aquarium contains both sea and freshwater flora and fauna.",
+      "photos": [
+        {
+          "caption": "Museum building",
+          "source": "https://en.wikipedia.org/wiki/File:Gdynia_akwarium_10.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Gdynia_akwarium_10.jpg/800px-Gdynia_akwarium_10.jpg"
+        },
+        {
+          "caption": "Exhibition",
+          "source": "https://en.wikipedia.org/wiki/File:Akwarium_Gdy%C5%84skie_02.JPG",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Akwarium_Gdy%C5%84skie_02.JPG/800px-Akwarium_Gdy%C5%84skie_02.JPG"
+        }
+      ]
+    }
+  ]
 }

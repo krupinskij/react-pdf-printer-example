@@ -6,7 +6,7 @@ export type City = {
 };
 
 export type CityDetail = City & {
-  image: string;
+  background: Image;
   description: string;
   position: { x: number; y: number };
   onlyCoa?: boolean;

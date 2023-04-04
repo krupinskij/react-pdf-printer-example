@@ -1,5 +1,88 @@
 {
   "id": "lodz",
   "description": "Academic, cultural and industrial center. Former center of textile and film industry.",
-  "tourism": []
+  "background": {
+    "caption": "Łódź Fabryczna railway station",
+    "src": "/src/assets/views/lodz/lodz_fabryczna.jpg"
+  },
+  "tourism": [
+    {
+      "name": "Piotrkowska Street",
+      "description": "The main artery of Łódź. One of the longest commercial thoroughfares in Europe.",
+      "photos": [
+        {
+          "caption": "Piotrkowska Street",
+          "source": "https://pl.wikipedia.org/wiki/Plik:Ulica_Piotrkowska_in_Lodz.JPG",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Ulica_Piotrkowska_in_Lodz.JPG/800px-Ulica_Piotrkowska_in_Lodz.JPG"
+        },
+        {
+          "caption": "Facades of bouildings",
+          "src": "/src/assets/views/lodz/budynki.jpg"
+        },
+        {
+          "caption": "\"Reymont's Trunk (Kufer Reymonta)\" (Galeria Wielkich Łodzian)",
+          "src": "/src/assets/views/lodz/reymont.jpg"
+        },
+        {
+          "caption": "Mural near Piotrkowska Street",
+          "src": "/src/assets/views/lodz/mural.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Manufaktura",
+      "description": "Arts centre, shopping mall, and leisure complex in the former industrial complex founded by Izrael Poznański.",
+      "photos": [
+        {
+          "caption": "One of the entrances to the Manufaktura",
+          "source": "https://pl.wikipedia.org/wiki/Plik:Lodz_manufaktura_01.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Lodz_manufaktura_01.jpg"
+        },
+        {
+          "caption": "The main shopping hall",
+          "source": "https://pl.wikipedia.org/wiki/Plik:Manufaktura29.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Manufaktura29.jpg/450px-Manufaktura29.jpg"
+        },
+        {
+          "caption": "Manufaktura by night",
+          "src": "/src/assets/views/lodz/manufaktura_noc.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Church of Pentecost",
+      "description": "Catholic church near Piotrkowska street.",
+      "photos": [
+        {
+          "caption": "Outside view",
+          "src": "/src/assets/views/lodz/kosciol_zesl_ds.jpg"
+        },
+        {
+          "caption": "Interior",
+          "source": "https://pl.wikipedia.org/wiki/Plik:Wn%C4%99trze_Parafii_Rzymskokatolickiej_pod_wezwaniem_Zes%C5%82ania_Ducha_%C5%9Awi%C4%99tego_w_%C5%81odzi.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Wn%C4%99trze_Parafii_Rzymskokatolickiej_pod_wezwaniem_Zes%C5%82ania_Ducha_%C5%9Awi%C4%99tego_w_%C5%81odzi.jpg/800px-Wn%C4%99trze_Parafii_Rzymskokatolickiej_pod_wezwaniem_Zes%C5%82ania_Ducha_%C5%9Awi%C4%99tego_w_%C5%81odzi.jpg"
+        },
+        {
+          "caption": "Altar dedicated to Blessed Virgin Mary",
+          "src": "/src/assets/views/lodz/oltarz.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Alexander Nevsky Cathedral",
+      "description": "Christian Orthodox church located in the city of Łódź",
+      "photos": [
+        {
+          "caption": "Outside view",
+          "source": "https://pl.wikipedia.org/wiki/Plik:SM_%C5%81%C3%B3d%C5%BA_Cerkiew_katedralna_%C5%9Bw_Aleksandra_Newskiego_2017_(1)_ID_613040.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/SM_%C5%81%C3%B3d%C5%BA_Cerkiew_katedralna_%C5%9Bw_Aleksandra_Newskiego_2017_%281%29_ID_613040.jpg/468px-SM_%C5%81%C3%B3d%C5%BA_Cerkiew_katedralna_%C5%9Bw_Aleksandra_Newskiego_2017_%281%29_ID_613040.jpg"
+        },
+        {
+          "caption": "Interior",
+          "source": "https://pl.wikipedia.org/wiki/Plik:Cerkiew_Newskiego_w_%C5%81odzi_wn%C4%99trze.JPG",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Cerkiew_Newskiego_w_%C5%81odzi_wn%C4%99trze.JPG/800px-Cerkiew_Newskiego_w_%C5%81odzi_wn%C4%99trze.JPG"
+        }
+      ]
+    }
+  ]
 }

@@ -29,7 +29,7 @@ const CityPage = () => {
           <Styled.SubTitle>{data.description}</Styled.SubTitle>
         </Styled.TitleWrapper>
         <Styled.Map position={data.position} />
-        <Background src={data.image} />
+        <Background src={data.background.src} />
       </Styled.Cover>
       <Info city={city} voivodeship={data.voivodeship} onlyCoa={data.onlyCoa} />
       <Tourism tourismList={data.tourism} />

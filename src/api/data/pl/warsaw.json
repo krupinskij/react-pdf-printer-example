@@ -1,6 +1,11 @@
 {
   "id": "warsaw",
   "description": "Stolica oraz największe miasto w Polsce. Centrum polityczne, kulturalne i gospodarcze kraju.",
+  "background": {
+    "caption": "Syrenka Warszawska",
+    "source": "https://pixabay.com/pl/photos/warszawa-syrenka-pomnik-rze%c5%baba-2842681/",
+    "src": "/src/assets/views/warsaw/syrenka.jpg"
+  },
   "tourism": [
     {
       "name": "Łazienki Królewskie",

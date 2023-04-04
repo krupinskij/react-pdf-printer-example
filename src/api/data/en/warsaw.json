@@ -1,6 +1,11 @@
 {
   "id": "warsaw",
   "description": "Capital and the largest city in Poland. Political, cultural and economic center of the country.",
+  "background": {
+    "caption": "Mermaid of Warsaw",
+    "source": "https://pixabay.com/pl/photos/warszawa-syrenka-pomnik-rze%c5%baba-2842681/",
+    "src": "/src/assets/views/warsaw/syrenka.jpg"
+  },
   "tourism": [
     {
       "name": "Łazienki Park",

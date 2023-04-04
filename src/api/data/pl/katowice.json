@@ -1,5 +1,64 @@
 {
   "id": "katowice",
   "description": "Ważny ośrodek gospodarczy. Centrum wielkiej aglomeracji śląskiej.",
-  "tourism": []
+  "background": {
+    "caption": "\"Spodek\" - hala widowiskowo-sportowa",
+    "source": "https://en.wikipedia.org/wiki/File:Katowice_05.15_Spodek.JPG",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Katowice_05.15_Spodek.JPG/1280px-Katowice_05.15_Spodek.JPG"
+  },
+  "tourism": [
+    {
+      "name": "Muzeum Śląskie w Katowicach",
+      "description": "Muzeum zajmujące się dziedzictwem śląska oraz Polski. Znajduje się w dawnej kopalni węglą kamiennego.",
+      "photos": [
+        {
+          "caption": "Siedziba Muzeum Śląskiego",
+          "source": "https://pl.wikipedia.org/wiki/Plik:Katowice_nowe_Muzeum_%C5%9Al%C4%85skie.JPG",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Katowice_nowe_Muzeum_%C5%9Al%C4%85skie.JPG/800px-Katowice_nowe_Muzeum_%C5%9Al%C4%85skie.JPG"
+        },
+        {
+          "caption": "Szyb \"Warszawa II\" na terenie muzeum",
+          "source": "https://pl.wikipedia.org/wiki/Plik:02015_0121_Schlesisches_Museum_(Kattowitz).JPG",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/02015_0121_Schlesisches_Museum_%28Kattowitz%29.JPG/397px-02015_0121_Schlesisches_Museum_%28Kattowitz%29.JPG"
+        },
+        {
+          "caption": "Korytarze pod ziemią",
+          "source": "https://pl.wikipedia.org/wiki/Plik:02015_Schlesische_Museum_in_Kattowitz.JPG",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/02015_Schlesische_Museum_in_Kattowitz.JPG/800px-02015_Schlesische_Museum_in_Kattowitz.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Strefa Kultury",
+      "description": "Wyznaczony obszar kulturalno-rozrywkowy",
+      "photos": [
+        {
+          "caption": "Siedziba Narodowej Orkiestry Symfonicznej Polskiego Radia",
+          "source": "https://pl.wikipedia.org/wiki/Plik:NOSPR_w_Katowicach.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/c/cc/NOSPR_w_Katowicach.jpg"
+        },
+        {
+          "caption": "Międzynarodowe Centrum Kongresowe",
+          "source": "https://pl.wikipedia.org/wiki/Plik:Katowice_05.15_MCK_3.JPG",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Katowice_05.15_MCK_3.JPG/800px-Katowice_05.15_MCK_3.JPG"
+        },
+        {
+          "caption": "Spodek",
+          "source": "https://pl.wikipedia.org/wiki/Plik:Katowice-Spodek_(4).jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Katowice-Spodek_%284%29.jpg/800px-Katowice-Spodek_%284%29.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Pomnik Powstańców Śląskich",
+      "description": "Pomnik upamiętniający trzy wystąpienia zbrojne ludności śląskiej przeciwko władzom niemieckim.",
+      "photos": [
+        {
+          "caption": "Pomnik Powstańców Śląskich",
+          "source": "https://pl.wikipedia.org/wiki/Plik:Katowice_-_Pomnik_Powsta%C5%84c%C3%B3w_%C5%9Al%C4%85skich.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Katowice_-_Pomnik_Powsta%C5%84c%C3%B3w_%C5%9Al%C4%85skich.jpg/449px-Katowice_-_Pomnik_Powsta%C5%84c%C3%B3w_%C5%9Al%C4%85skich.jpg"
+        }
+      ]
+    }
+  ]
 }

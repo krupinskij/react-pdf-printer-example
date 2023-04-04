@@ -1,5 +1,80 @@
 {
   "id": "gdynia",
-  "description": "Młode i największe niewojewódzkie miasto położone nad morzem.",
-  "tourism": []
+  "description": "Położone nad morzem młode i największe niewojewódzkie miasto.",
+  "background": {
+    "caption": "\"Dar Pomorza\"",
+    "source": "https://pixabay.com/pl/photos/%c5%bcaglowiec-dar-pomorza-historia-2533691/",
+    "src": "/src/assets/views/gdynia/dar_pomorza.jpg"
+  },
+  "tourism": [
+    {
+      "name": "Bulwar Nadmorski",
+      "description": "Promenada o długości 1,5 km prowadząca brzegiem morza.",
+      "photos": [
+        {
+          "caption": "Promenada",
+          "source": "https://pl.wikipedia.org/wiki/Plik:Bulwar_Nadmorski_Gdynia1.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bulwar_Nadmorski_Gdynia1.jpg/800px-Bulwar_Nadmorski_Gdynia1.jpg"
+        },
+        {
+          "caption": "\"Gdyńskie Rybki\"",
+          "source": "https://pl.wikipedia.org/wiki/Plik:Bulwar_Nadmorski_Gdynia2.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Bulwar_Nadmorski_Gdynia2.jpg/450px-Bulwar_Nadmorski_Gdynia2.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Skwer Kościuszki",
+      "description": "Reprezentacyjna ulica Śródmieścia Gdyni",
+      "photos": [
+        {
+          "caption": "Skwer Kościuszki",
+          "source": "https://pl.wikipedia.org/wiki/Plik:SKWER_TADEUSZA_KO%C5%9ACIUSZKI_06.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/SKWER_TADEUSZA_KO%C5%9ACIUSZKI_06.jpg/800px-SKWER_TADEUSZA_KO%C5%9ACIUSZKI_06.jpg"
+        },
+        {
+          "caption": "Pomniki",
+          "source": "https://pixabay.com/pl/photos/skwer-ko%c5%9bciuszki-gdynia-polska-2577963/",
+          "src": "/src/assets/views/gdynia/kosciuszko_square.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Dar Pomorza",
+      "description": "Statek-muzeum. Trzymasztowy żaglowiec szkolny, fregata.",
+      "photos": [
+        {
+          "caption": "Dar Pomorza",
+          "source": "https://pl.wikipedia.org/wiki/Plik:Dar_Pomorza_w_dzie%C5%84.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Dar_Pomorza_w_dzie%C5%84.jpg/800px-Dar_Pomorza_w_dzie%C5%84.jpg"
+        },
+        {
+          "caption": "Bukszpryt",
+          "source": "https://pl.wikipedia.org/wiki/Plik:Dar_Pomorza_bukszpryt.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Dar_Pomorza_bukszpryt.jpg/397px-Dar_Pomorza_bukszpryt.jpg"
+        },
+        {
+          "caption": "Kajuta oficerska na statku",
+          "source": "https://pl.wikipedia.org/wiki/Plik:Dar_Pomorza_001.JPG",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Dar_Pomorza_001.JPG/800px-Dar_Pomorza_001.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Akwarium Gdyńskie",
+      "description": "Ogród zoologiczny prezentujący faunę i florę związaną ze środowiskiem wodnym i wodno-lądowym.",
+      "photos": [
+        {
+          "caption": "Budynek muzeum",
+          "source": "https://en.wikipedia.org/wiki/File:Gdynia_akwarium_10.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Gdynia_akwarium_10.jpg/800px-Gdynia_akwarium_10.jpg"
+        },
+        {
+          "caption": "Wystawa",
+          "source": "https://en.wikipedia.org/wiki/File:Akwarium_Gdy%C5%84skie_02.JPG",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Akwarium_Gdy%C5%84skie_02.JPG/800px-Akwarium_Gdy%C5%84skie_02.JPG"
+        }
+      ]
+    }
+  ]
 }
