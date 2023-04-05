@@ -15,12 +15,6 @@ export const Title = styled.h3`
   margin-block: 16px;
 `;
 
-export const Images = styled.div`
-  display: flex;
-  flex-wrap: wrap;
-  gap: 16px;
-`;
-
 export const Image = styled(ImageC)`
   width: auto;
   height: 200px;

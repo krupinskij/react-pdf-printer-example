@@ -1,4 +1,5 @@
 import { Tourism as TourismList } from 'api/model';
+import { ImageList } from 'components/Image';
 
 import * as Styled from './Tourism.styles';
 
@@ -10,19 +11,19 @@ const Tourism = ({ tourismList }: Props) => {
   return (
     <Styled.Wrapper>
       {tourismList.map(({ name, description, photos }, i) => (
-        <Styled.Item key={i}>
+        <Styled.Item key={name}>
           <Styled.Title>{name}</Styled.Title>
-          <Styled.Description key={i}>{description}</Styled.Description>
-          <Styled.Images>
+          <Styled.Description>{description}</Styled.Description>
+          <ImageList carousel>
             {photos.map(({ caption, source, src }) => (
               <Styled.Image
                 key={src}
                 src={src}
-                caption={{ text: caption, position: 'bottom-right' }}
+                caption={{ text: caption, position: 'bottom-left' }}
                 source={source}
               />
             ))}
-          </Styled.Images>
+          </ImageList>
         </Styled.Item>
       ))}
     </Styled.Wrapper>
