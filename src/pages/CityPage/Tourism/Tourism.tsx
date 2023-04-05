@@ -21,6 +21,7 @@ const Tourism = ({ tourismList }: Props) => {
                 src={src}
                 caption={{ text: caption, position: 'bottom-left' }}
                 source={source}
+                preview
               />
             ))}
           </ImageList>

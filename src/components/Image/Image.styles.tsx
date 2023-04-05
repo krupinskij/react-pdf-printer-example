@@ -10,6 +10,28 @@ export const Figure = styled.figure`
   width: min-content;
 `;
 
+export const Preview = styled.span`
+  position: absolute;
+  inset: 0;
+  z-index: 2;
+
+  opacity: 0;
+  color: white;
+  background-color: #0008;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  transition: opacity 0.3s;
+  cursor: pointer;
+  user-select: none;
+
+  :hover {
+    opacity: 1;
+  }
+`;
+
 export const Image = styled.img`
   background-color: ${({ theme }) => theme.color.background.shadow};
   vertical-align: bottom;
@@ -33,6 +55,7 @@ export const Caption = styled.figcaption<{ $position: Position }>`
   background-color: #ffffffcc;
   padding: 0.5em 1em;
   --rounded: 0.25em;
+  z-index: 3;
 
   ${({ $position }) =>
     $position === 'top-left'
@@ -59,5 +82,12 @@ export const Caption = styled.figcaption<{ $position: Position }>`
           right: 0;
           border-top-left-radius: var(--rounded);
         `
-      : ''}
+      : ''};
+`;
+
+export const ModalImage = styled.img`
+  max-height: 80vh;
+  max-width: 80vw;
+  height: auto;
+  width: auto;
 `;

@@ -17,7 +17,7 @@ export const Title = styled.h3`
 
 export const Image = styled(ImageC)`
   width: auto;
-  height: 200px;
+  height: 220px;
 `;
 
 export const Description = styled.p`

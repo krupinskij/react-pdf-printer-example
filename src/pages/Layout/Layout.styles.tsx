@@ -37,6 +37,7 @@ export const SideBar = styled.aside`
 
 export const Main = styled.main`
   display: flex;
+  position: relative;
   margin: calc(
       ${({ theme }) =>
         `${theme.lineHeight.xl} + ${theme.font.xl} + ${theme.lineHeight.md} + ${theme.font.md}`}
@@ -48,7 +49,7 @@ export const Main = styled.main`
 export const Footer = styled.div`
   position: fixed;
   inset: auto 0 0 0;
-  z-index: 1;
+  z-index: 2;
 
   display: flex;
   justify-content: center;

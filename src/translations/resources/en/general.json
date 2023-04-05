@@ -7,6 +7,7 @@
   "refresh": "Refresh",
   "image": {
     "source": "Source",
-    "private": "Private collection"
+    "private": "Private collection",
+    "preview": "Open preview"
   }
 }
