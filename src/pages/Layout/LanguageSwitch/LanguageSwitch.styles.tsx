@@ -1,10 +1,6 @@
 import styled from 'styled-components';
 
 export const LangWrapper = styled.div`
-  position: absolute;
-  right: 10px;
-  top: 5px;
-
   display: flex;
   gap: 2px;
 `;

@@ -14,7 +14,8 @@ export const MenuItem = styled.li`
 
 export const MenuLink = styled(Link)`
   color: ${({ theme }) => theme.color.font.primary};
-  display: flex;
+  display: grid;
+  grid-template-columns: 30px 1fr;
   align-items: center;
   gap: 5px;
 `;

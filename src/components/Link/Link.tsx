@@ -1,7 +1,16 @@
-import { LinkProps } from 'react-router-dom';
+import { LinkProps, useMatch, useResolvedPath } from 'react-router-dom';
 
 import * as Styled from './Link.styles';
 
-const Link = (props: LinkProps) => <Styled.Link {...props} />;
+type Props = LinkProps & {
+  checkCurrent?: boolean;
+};
+
+const Link = ({ checkCurrent, ...props }: Props) => {
+  const resolved = useResolvedPath(props.to);
+  const match = useMatch({ path: resolved.pathname, end: true });
+
+  return <Styled.Link aria-current={match && checkCurrent ? 'page' : undefined} {...props} />;
+};
 
 export default Link;

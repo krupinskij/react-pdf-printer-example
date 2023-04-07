@@ -6,8 +6,12 @@ const Navbar = () => {
   const { t } = useTranslation('layout');
   return (
     <Styled.Navbar>
-      <Styled.NavLink to="/">{t('navbar.home')}</Styled.NavLink>
-      <Styled.NavLink to="/report">{t('navbar.report')}</Styled.NavLink>
+      <Styled.NavLink to="/" checkCurrent>
+        {t('navbar.home')}
+      </Styled.NavLink>
+      <Styled.NavLink to="/report" checkCurrent>
+        {t('navbar.report')}
+      </Styled.NavLink>
     </Styled.Navbar>
   );
 };

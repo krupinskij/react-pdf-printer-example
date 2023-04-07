@@ -10,24 +10,27 @@ export const Figure = styled.figure`
   width: min-content;
 `;
 
-export const Preview = styled.span`
+export const Preview = styled.button`
   position: absolute;
   inset: 0;
-  z-index: 2;
 
   opacity: 0;
   color: white;
   background-color: #0008;
+  border: none;
+  width: 100%;
 
   display: flex;
   justify-content: center;
   align-items: center;
 
+  z-index: 2;
   transition: opacity 0.3s;
   cursor: pointer;
   user-select: none;
 
-  :hover {
+  :hover,
+  :focus {
     opacity: 1;
   }
 `;

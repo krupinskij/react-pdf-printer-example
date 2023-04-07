@@ -1,4 +1,4 @@
-import { useRef } from 'react';
+import { useEffect, useId, useRef } from 'react';
 import { useTranslation } from 'react-i18next';
 
 import Modal from 'components/Modal';
@@ -24,15 +24,21 @@ type Props = {
 const Image = ({ src, caption: { text, position }, source, preview, className }: Props) => {
   const { t } = useTranslation('general', { keyPrefix: 'image' });
   const modalRef = useRef<HTMLDialogElement>(null);
+  const modalId = useId();
 
   const handleShowDialog = () => {
     modalRef.current?.showModal();
   };
+
   return (
     <>
       <Styled.Figure>
-        {preview && <Styled.Preview onClick={handleShowDialog}>{t('preview')}</Styled.Preview>}
-        <Styled.Image src={src} alt={text} className={className} />
+        {preview && (
+          <Styled.Preview aria-controls={modalId} aria-haspopup="dialog" onClick={handleShowDialog}>
+            {t('preview')}
+          </Styled.Preview>
+        )}
+        <Styled.Image loading="lazy" src={src} alt={text} className={className} />
         <Styled.Caption $position={position}>
           {text} |{' '}
           {source ? (
@@ -44,7 +50,7 @@ const Image = ({ src, caption: { text, position }, source, preview, className }:
           )}
         </Styled.Caption>
       </Styled.Figure>
-      <Modal ref={modalRef}>
+      <Modal id={modalId} ref={modalRef}>
         <Styled.ModalImage src={src} alt={text} />
       </Modal>
     </>

@@ -7,11 +7,14 @@ type Props = {
 };
 
 const Voivodeship = ({ code }: Props) => {
-  const { t } = useTranslation('voivodeships');
+  const { t } = useTranslation(['voivodeships', 'city']);
   return (
     <Styled.VoivodeshipWrapper>
-      <Styled.FlagImg src={`/src/assets/voivodeship/flag/${code}.svg`} />
-      <Styled.Name>{t(code)}</Styled.Name>
+      <Styled.FlagImg
+        src={`/src/assets/voivodeship/flag/${code}.svg`}
+        alt={t('flag', { ns: 'city', owner: code, context: 'voivodeship' }) as string}
+      />
+      <Styled.Name>{t(code, { ns: 'voivodeships' })}</Styled.Name>
     </Styled.VoivodeshipWrapper>
   );
 };

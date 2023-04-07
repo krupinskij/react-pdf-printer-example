@@ -7,14 +7,17 @@ type Props = {
 };
 
 const City = ({ code }: Props) => {
-  const { t } = useTranslation('cities');
+  const { t } = useTranslation(['cities', 'city']);
   return (
     <Styled.CityWrapper>
       <Styled.ImgWrapper>
-        <Styled.CoaImg src={`/src/assets/city/coa/${code}.svg`} />
+        <Styled.CoaImg
+          src={`/src/assets/city/coa/${code}.svg`}
+          alt={t('flag', { ns: 'city', owner: code, context: 'city' }) as string}
+        />
       </Styled.ImgWrapper>
       <Styled.Link to={`/city/${code}`}>
-        <Styled.Name bold={true}>{t(code)}</Styled.Name>
+        <Styled.Name bold={true}>{t(code, { ns: 'cities' })}</Styled.Name>
       </Styled.Link>
     </Styled.CityWrapper>
   );

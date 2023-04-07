@@ -4,7 +4,6 @@ import { Outlet } from 'react-router-dom';
 
 import { Spinner } from 'components/Info';
 
-import LanguageSwitch from './LanguageSwitch';
 import * as Styled from './Layout.styles';
 import Menu from './Menu';
 import Navbar from './Navbar';
@@ -14,19 +13,22 @@ const Layout = () => {
   return (
     <>
       <Styled.Header>
-        <LanguageSwitch />
+        <Styled.SkipButton />
+        <Styled.LanguageSwitch />
         <Styled.Title>{t('title')}</Styled.Title>
         <Navbar />
       </Styled.Header>
       <Styled.SideBar>
         <Menu />
       </Styled.SideBar>
-      <Styled.Main>
+      <Styled.Main id="main">
         <Suspense fallback={<Spinner text />}>
           <Outlet />
         </Suspense>
       </Styled.Main>
-      <Styled.Footer>React PDF Printer | {t('title')}</Styled.Footer>
+      <Styled.Footer>
+        <span translate="no">React PDF Printer</span> | {t('title')}
+      </Styled.Footer>
     </>
   );
 };

@@ -1,12 +1,14 @@
-import React from 'react';
+import React, { HTMLAttributes } from 'react';
+import { useTranslation } from 'react-i18next';
 
 import * as Styled from './Modal.styles';
 
-type Props = {
+type Props = HTMLAttributes<HTMLDialogElement> & {
   children: React.ReactNode;
 };
 
-const Modal = ({ children }: Props, ref: React.ForwardedRef<HTMLDialogElement>) => {
+const Modal = ({ children, ...attr }: Props, ref: React.ForwardedRef<HTMLDialogElement>) => {
+  const { t } = useTranslation('general', { keyPrefix: 'modal' });
   const handleCloseModal = () => {
     if (typeof ref === 'function') return;
 
@@ -28,8 +30,8 @@ const Modal = ({ children }: Props, ref: React.ForwardedRef<HTMLDialogElement>) 
   };
 
   return (
-    <Styled.Modal ref={ref} onClick={handleCloseModalBackdrop}>
-      <Styled.CloseButton onClick={handleCloseModal}>
+    <Styled.Modal ref={ref} onClick={handleCloseModalBackdrop} {...attr}>
+      <Styled.CloseButton aria-label={t('close') as string} onClick={handleCloseModal}>
         <Styled.Icon src={`/src/assets/icon/close.svg`} />
       </Styled.CloseButton>
       {children}

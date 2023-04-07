@@ -1,6 +1,8 @@
 {
   "coa_city": "Coat of arms of $t({{owner}}, { \"context\": \"gen\", \"ns\": \"cities\"})",
   "coa_voivodeship": "Coat of arms of the $t({{owner}}, { \"context\": \"gen\", \"ns\": \"voivodeships\"}) Voivodeship",
+  "flag_city": "Flag of $t({{owner}}, { \"context\": \"gen\", \"ns\": \"cities\"})",
+  "flag_voivodeship": "Flag of the $t({{owner}}, { \"context\": \"gen\", \"ns\": \"voivodeships\"}) Voivodeship",
   "coa-flag_city": "Coat of arms and flag of $t({{owner}}, { \"context\": \"gen\", \"ns\": \"cities\"})",
   "coa-flag_voivodeship": "Coat of arms and flag of the $t({{owner}}, { \"context\": \"gen\", \"ns\": \"voivodeships\"}) Voivodeship"
 }

@@ -1,5 +1,8 @@
 import styled from 'styled-components';
 
+import LanguageSwitchC from './LanguageSwitch';
+import SkipButtonC from './SkipButton';
+
 const sidebardWidth = '200px';
 
 export const Header = styled.header`
@@ -31,6 +34,7 @@ export const SideBar = styled.aside`
 
   width: ${sidebardWidth};
   background: white;
+  border-right: 1px solid ${({ theme }) => theme.color.border.shadow};
 
   z-index: 2;
 `;
@@ -59,4 +63,22 @@ export const Footer = styled.div`
   color: ${({ theme }) => theme.color.font.secondary};
   padding: 1em;
   background-color: ${({ theme }) => theme.color.background.shadow};
+`;
+
+export const SkipButton = styled(SkipButtonC)`
+  position: absolute;
+  left: 10px;
+  top: 5px;
+
+  transform: translateY(-200%);
+
+  :focus {
+    transform: translateY(0%);
+  }
+`;
+
+export const LanguageSwitch = styled(LanguageSwitchC)`
+  position: absolute;
+  right: 10px;
+  top: 5px;
 `;

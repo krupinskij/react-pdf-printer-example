@@ -4,7 +4,8 @@ import styled from 'styled-components';
 export const Link = styled(RouterLink)`
   text-decoration: none;
 
-  :hover {
+  :hover,
+  &[aria-current] {
     text-decoration: underline;
   }
 `;
