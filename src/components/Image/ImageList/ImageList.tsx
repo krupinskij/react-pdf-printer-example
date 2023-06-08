@@ -17,21 +17,6 @@ const ImageList = ({ carousel, children }: Props) => {
     setIsRightScrollDisabled(Math.abs(elem.scrollWidth - elem.clientWidth - elem.scrollLeft) < 5);
   };
 
-  useEffect(() => {
-    const elem = listRef.current;
-    if (!elem) return;
-
-    const ro = new ResizeObserver(([elem]) => {
-      setTimeout(() => setDisabled(elem.target as HTMLDivElement), 1);
-    });
-
-    ro.observe(elem);
-
-    return () => {
-      ro.unobserve(elem);
-    };
-  }, []);
-
   const handleScrollLeft = () => {
     const elem = listRef.current;
     if (!elem) return;
@@ -52,11 +37,9 @@ const ImageList = ({ carousel, children }: Props) => {
     setDisabled(elem);
   };
 
-  const isScrollDisabled = !carousel || (isLeftScrollDisabled && isRightScrollDisabled);
-
   return (
     <Styled.Wrapper>
-      {!isScrollDisabled && (
+      {carousel && (
         <Styled.LeftButton disabled={isLeftScrollDisabled} onClick={handleScrollLeft}>
           <Styled.Icon src={`/src/assets/icon/arrow.svg`} alt="" />
         </Styled.LeftButton>
@@ -68,7 +51,7 @@ const ImageList = ({ carousel, children }: Props) => {
       >
         {children}
       </Styled.List>
-      {!isScrollDisabled && (
+      {carousel && (
         <Styled.RightButton disabled={isRightScrollDisabled} onClick={handleScrollRight}>
           <Styled.Icon src={`/src/assets/icon/arrow.svg`} $flip alt="" />
         </Styled.RightButton>
