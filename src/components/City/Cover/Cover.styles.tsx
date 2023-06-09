@@ -1,13 +1,8 @@
-import styled from 'styled-components';
+import styled, { css } from 'styled-components';
 
-import MapC from 'components/City/Cover/Map';
+import MapC from './Map';
 
 const leftMargin = '60px';
-
-export const City = styled.div`
-  width: 100%;
-  margin-bottom: 32px;
-`;
 
 export const Cover = styled.div`
   height: 600px;
@@ -37,9 +32,21 @@ export const SubTitle = styled.p`
   padding: 1.5em 2em 1.5em 0;
 `;
 
-export const Map = styled(MapC)`
+export const Map = styled(MapC)<{ $print: boolean }>`
   position: absolute;
   top: 60px;
   left: ${leftMargin};
   z-index: 1;
+
+  ${({ $print }) =>
+    $print &&
+    css`
+      span {
+        height: 12px;
+        width: 12px;
+      }
+      img {
+        width: 200px;
+      }
+    `}
 `;

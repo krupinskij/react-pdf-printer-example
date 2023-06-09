@@ -2,10 +2,10 @@ import styled from 'styled-components';
 
 import ImageC from 'components/Image';
 
-export const Wrapper = styled.div`
+export const Wrapper = styled.div<{ $print: boolean }>`
   position: absolute;
   right: 0;
-  left: 320px;
+  left: ${({ $print }) => ($print ? '270px' : '320px')};
 
   figure {
     width: 100%;
@@ -22,7 +22,7 @@ export const Shadow = styled.div`
   bottom: 0;
   left: 0px;
   width: 300px;
-  background: linear-gradient(90deg, white 20%, transparent 100%);
+  background: linear-gradient(90deg, white 20%, #fff0 100%);
   z-index: 1;
 `;
 

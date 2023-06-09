@@ -6,7 +6,7 @@ import * as Styled from './styles';
 
 type Props = {
   className?: string;
-  onClick: () => void;
+  onClick?: () => void;
 };
 
 const Error = ({ onClick, className }: Props) => {
@@ -15,7 +15,7 @@ const Error = ({ onClick, className }: Props) => {
     <Styled.Wrapper className={className}>
       <Styled.Icon src={error} />
       <Styled.Text>{t('error')}</Styled.Text>
-      <Styled.Button onClick={() => onClick()}>{t('refresh')}</Styled.Button>
+      <Styled.Button onClick={() => onClick?.()}>{t('refresh')}</Styled.Button>
     </Styled.Wrapper>
   );
 };

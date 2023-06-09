@@ -4,6 +4,7 @@ import { cities } from 'api';
 import CityPage from 'pages/CityPage';
 import HomePage from 'pages/HomePage';
 import Layout from 'pages/Layout';
+import ReportPage from 'pages/ReportPage';
 
 const router = createBrowserRouter([
   {
@@ -27,7 +28,7 @@ const router = createBrowserRouter([
   },
   {
     path: '/report',
-    element: <div>Report</div>,
+    element: <ReportPage />,
   },
   {
     path: '*',

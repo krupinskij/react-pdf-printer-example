@@ -1,3 +1,5 @@
+import { usePrinter } from 'react-pdf-printer';
+
 import { Tourism as TourismList } from 'api/model';
 import { ImageList } from 'components/Image';
 
@@ -8,13 +10,14 @@ type Props = {
 };
 
 const Tourism = ({ tourismList }: Props) => {
+  const { isPrinter } = usePrinter();
   return (
-    <Styled.Wrapper>
+    <Styled.Wrapper data-printer-divisible $print={isPrinter}>
       {tourismList.map(({ name, description, photos }, i) => (
         <Styled.Item key={name}>
-          <Styled.Title>{name}</Styled.Title>
-          <Styled.Description>{description}</Styled.Description>
-          <ImageList carousel>
+          <Styled.Title $print={isPrinter}>{name}</Styled.Title>
+          <Styled.Description $print={isPrinter}>{description}</Styled.Description>
+          <ImageList carousel={!isPrinter}>
             {photos.map(({ caption, source, src }) => (
               <Styled.Image
                 key={src}
@@ -22,6 +25,7 @@ const Tourism = ({ tourismList }: Props) => {
                 caption={{ text: caption, position: 'bottom-left' }}
                 source={source}
                 preview
+                $print={isPrinter}
               />
             ))}
           </ImageList>

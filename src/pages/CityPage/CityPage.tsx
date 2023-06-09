@@ -3,17 +3,13 @@ import { useTranslation } from 'react-i18next';
 import { useParams } from 'react-router-dom';
 
 import API, { QUERY } from 'api';
+import { Cover, Info, Tourism } from 'components/City';
 import { Error, Spinner } from 'components/Info';
 
-import Background from './Background';
 import * as Styled from './CityPage.styles';
-import Info from './Info';
-import Tourism from './Tourism';
 
 const CityPage = () => {
   const { city = '' } = useParams();
-
-  const { t } = useTranslation('cities');
 
   const { data, isLoading, isError, refetch } = useQuery([QUERY.CITY, city], () =>
     API.getCity(city)
@@ -23,14 +19,12 @@ const CityPage = () => {
   if (isError) return <Error onClick={refetch} />;
   return (
     <Styled.City>
-      <Styled.Cover>
-        <Styled.TitleWrapper>
-          <Styled.Title>{t(city)}</Styled.Title>
-          <Styled.SubTitle>{data.description}</Styled.SubTitle>
-        </Styled.TitleWrapper>
-        <Styled.Map position={data.position} />
-        <Background {...data.background} />
-      </Styled.Cover>
+      <Cover
+        city={city}
+        description={data.description}
+        position={data.position}
+        background={data.background}
+      />
       <Info city={city} voivodeship={data.voivodeship} onlyCoa={data.onlyCoa} />
       <Tourism tourismList={data.tourism} />
     </Styled.City>

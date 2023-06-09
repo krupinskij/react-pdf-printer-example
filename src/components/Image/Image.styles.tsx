@@ -52,9 +52,9 @@ export const SourceLink = styled(Link)`
   }
 `;
 
-export const Caption = styled.figcaption<{ $position: Position }>`
+export const Caption = styled.figcaption<{ $position: Position; $print: boolean }>`
   position: absolute;
-  font-size: ${({ theme }) => theme.font.sm};
+  font-size: ${({ theme, $print }) => ($print ? theme.font.xs : theme.font.sm)};
   background-color: #ffffffcc;
   padding: 0.5em 1em;
   --rounded: 0.25em;

@@ -1,5 +1,6 @@
 import { useEffect, useId, useRef } from 'react';
 import { useTranslation } from 'react-i18next';
+import { usePrinter } from 'react-pdf-printer';
 
 import Modal from 'components/Modal';
 
@@ -22,6 +23,7 @@ type Props = {
 };
 
 const Image = ({ src, caption: { text, position }, source, preview, className }: Props) => {
+  const { subscribe, run, isPrinter } = usePrinter(src);
   const { t } = useTranslation('general', { keyPrefix: 'image' });
   const modalRef = useRef<HTMLDialogElement>(null);
   const modalId = useId();
@@ -29,6 +31,21 @@ const Image = ({ src, caption: { text, position }, source, preview, className }:
   const handleShowDialog = () => {
     modalRef.current?.showModal();
   };
+
+  const imageRef = useRef<HTMLImageElement>(null);
+
+  useEffect(() => {
+    subscribe();
+    const image = imageRef.current;
+
+    if (!image) return;
+
+    image.addEventListener('load', run);
+
+    return () => {
+      image.removeEventListener('load', run);
+    };
+  }, []);
 
   return (
     <>
@@ -38,8 +55,14 @@ const Image = ({ src, caption: { text, position }, source, preview, className }:
             {t('preview')}
           </Styled.Preview>
         )}
-        <Styled.Image loading="lazy" src={src} alt={text} className={className} />
-        <Styled.Caption $position={position}>
+        <Styled.Image
+          ref={imageRef}
+          loading={isPrinter ? 'eager' : 'lazy'}
+          src={src}
+          alt={text}
+          className={className}
+        />
+        <Styled.Caption $position={position} $print={isPrinter}>
           {text} |{' '}
           {source ? (
             <Styled.SourceLink to={source} target="_blank">

@@ -20,4 +20,6 @@ export const Point = styled.span<{ x: number; y: number }>`
 
 export const MapImage = styled.img`
   vertical-align: middle;
+  width: 250px;
+  height: auto;
 `;

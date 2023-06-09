@@ -1,5 +1,3 @@
-import { useTranslation } from 'react-i18next';
-
 import * as Styled from './Info.styles';
 import Symbols from './Symbols';
 
