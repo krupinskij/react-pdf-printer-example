@@ -1,3 +1,5 @@
 {
-  "pagination": "Page #p of #c"
+  "pagination": "Page #p of #c",
+  "print": "Print",
+  "goBack": "Bo back"
 }

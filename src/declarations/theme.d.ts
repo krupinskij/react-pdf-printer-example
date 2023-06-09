@@ -31,5 +31,19 @@ declare module 'styled-components' {
       lg: string;
       xl: string;
     };
+    btn: {
+      bg: {
+        contained: string;
+        outlined: string;
+      };
+      border: {
+        contained: string;
+        outlined: string;
+      };
+      color: {
+        contained: string;
+        outlined: string;
+      };
+    };
   }
 }

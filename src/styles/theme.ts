@@ -1,9 +1,9 @@
 import { DefaultTheme } from 'styled-components';
 
-export const theme: DefaultTheme = {
+const palette = {
   color: {
-    primary: '#771d32',
-    secondary: '#e65758 ',
+    primary: '#D4213D  ',
+    secondary: '#c61f26  ',
     background: {
       shadow: '#eee',
     },
@@ -29,5 +29,23 @@ export const theme: DefaultTheme = {
     md: '1.25rem',
     lg: '1.5rem',
     xl: '2.5rem',
+  },
+};
+
+export const theme: DefaultTheme = {
+  ...palette,
+  btn: {
+    bg: {
+      contained: `linear-gradient(12deg, ${palette.color.secondary} 0%, ${palette.color.primary} 100%)`,
+      outlined: '#fff',
+    },
+    border: {
+      contained: 'none',
+      outlined: `1px solid ${palette.color.font.secondary}`,
+    },
+    color: {
+      contained: '#fff',
+      outlined: palette.color.font.primary,
+    },
   },
 };

@@ -15,7 +15,11 @@ const Layout = () => {
       <Styled.Header>
         <Styled.SkipButton />
         <Styled.LanguageSwitch />
-        <Styled.Title>{t('title')}</Styled.Title>
+        <Styled.Title>
+          <img src={`/src/assets/logo/logo_mid.png`} width="50" />
+          {t('title')}
+          <img src={`/src/assets/logo/logo_mid.png`} width="50" />
+        </Styled.Title>
         <Navbar />
       </Styled.Header>
       <Styled.SideBar>

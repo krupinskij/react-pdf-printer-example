@@ -14,7 +14,7 @@ const Spinner = ({ text, className }: Props) => {
   return (
     <Styled.Wrapper className={className}>
       <Styled.Spinner src={spinner} />
-      {text && <Styled.Text>{t('loading')}</Styled.Text>}
+      {text && <Styled.Text>{t('loading')}...</Styled.Text>}
     </Styled.Wrapper>
   );
 };

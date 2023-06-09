@@ -1,5 +1,6 @@
+import { useRef } from 'react';
 import { useTranslation } from 'react-i18next';
-import { Page, StaticDocument } from 'react-pdf-printer';
+import { StaticDocument, DocumentRef } from 'react-pdf-printer';
 
 import { cities } from 'api';
 import { Footer, Header } from 'components/Document';
@@ -9,19 +10,23 @@ import Screen from './Screen';
 
 const ReportPage = () => {
   const { t } = useTranslation('pdf');
-  const pagination = t('pagination');
+
+  const documentRef = useRef<DocumentRef>(null);
 
   return (
     <StaticDocument
+      ref={documentRef}
       header={<Header />}
       footer={<Footer />}
-      screen={<Screen />}
+      screen={(isLoading) => (
+        <Screen isLoading={isLoading} onRenderClick={() => documentRef.current?.render()} />
+      )}
       configuration={{
         pagination: {
-          format: pagination,
+          format: t('pagination') as string,
         },
       }}
-      // onRender={() => {}}
+      renderOnInit={false}
     >
       {cities.map((city) => (
         <City key={city} city={city} />

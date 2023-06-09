@@ -2,7 +2,7 @@
   "title": "Największe Miasta w Polsce",
   "number": "{{ val, number }}",
   "float": "{{ val, number(minimumFractionDigits: 2) }}",
-  "loading": "Ładowanie...",
+  "loading": "Ładowanie",
   "error": "Wystąpił błąd!",
   "refresh": "Odśwież",
   "image": {

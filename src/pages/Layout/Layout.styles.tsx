@@ -4,32 +4,34 @@ import LanguageSwitchC from './LanguageSwitch';
 import SkipButtonC from './SkipButton';
 
 const sidebardWidth = '200px';
+const headerHeight = '120px';
+const footerHeight = '40px';
 
 export const Header = styled.header`
   position: fixed;
   inset: 0 0 auto 0;
   z-index: 3;
+  height: ${headerHeight};
+  display: grid;
+  grid-template-rows: 1fr 40px;
 `;
 
 export const Title = styled.h1`
   display: flex;
   justify-content: center;
+  align-items: center;
+  gap: 8px;
 
   font-size: ${({ theme }) => theme.font.xl};
   line-height: ${({ theme }) => theme.lineHeight.xl};
   color: ${({ theme }) => theme.color.font.primary};
   background-color: #fff;
-  padding: 0.5em;
   margin: 0;
 `;
 
 export const SideBar = styled.aside`
   position: fixed;
-  inset: calc(
-      ${({ theme }) =>
-        `${theme.lineHeight.xl} + ${theme.font.xl} + ${theme.lineHeight.md} + ${theme.font.md}`}
-    )
-    auto calc(${({ theme }) => `${theme.lineHeight.sm} + 2 * ${theme.font.sm}`}) 0;
+  inset: ${headerHeight} auto ${footerHeight} 0;
   overflow: auto;
 
   width: ${sidebardWidth};
@@ -42,11 +44,7 @@ export const SideBar = styled.aside`
 export const Main = styled.main`
   display: flex;
   position: relative;
-  margin: calc(
-      ${({ theme }) =>
-        `${theme.lineHeight.xl} + ${theme.font.xl} + ${theme.lineHeight.md} + ${theme.font.md}`}
-    )
-    0 calc(${({ theme }) => `${theme.lineHeight.sm} + 2 * ${theme.font.sm}`}) ${sidebardWidth};
+  margin: ${headerHeight} 0 ${footerHeight} ${sidebardWidth};
   z-index: 1;
 `;
 
@@ -57,11 +55,12 @@ export const Footer = styled.div`
 
   display: flex;
   justify-content: center;
+  align-items: center;
+  height: ${footerHeight};
 
   font-size: ${({ theme }) => theme.font.sm};
   line-height: ${({ theme }) => theme.lineHeight.sm};
   color: ${({ theme }) => theme.color.font.secondary};
-  padding: 1em;
   background-color: ${({ theme }) => theme.color.background.shadow};
 `;
 

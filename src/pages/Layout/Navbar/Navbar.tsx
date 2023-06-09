@@ -10,7 +10,7 @@ const Navbar = () => {
         {t('navbar.home')}
       </Styled.NavLink>
       <Styled.NavLink to="/report" checkCurrent>
-        {t('navbar.report')}
+        {t('navbar.print')}
       </Styled.NavLink>
     </Styled.Navbar>
   );

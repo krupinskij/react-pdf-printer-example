@@ -1,3 +1,5 @@
 {
-  "pagination": "Strona #p z #c"
+  "pagination": "Strona #p z #c",
+  "print": "Wydrukuj",
+  "goBack": "Powrót"
 }

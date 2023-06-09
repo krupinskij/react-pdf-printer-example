@@ -2,7 +2,7 @@
   "title": "The Largest Cities in Poland",
   "number": "{{ val, number }}",
   "float": "{{ val, number(minimumFractionDigits: 2) }}",
-  "loading": "Loading...",
+  "loading": "Loading",
   "error": "Error occured!",
   "refresh": "Refresh",
   "image": {
