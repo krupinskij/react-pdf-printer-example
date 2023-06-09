@@ -1,15 +1,21 @@
 import { useQuery } from '@tanstack/react-query';
+import { MouseEvent, useEffect, useRef, useState } from 'react';
 import { useTranslation } from 'react-i18next';
+import { Document, DocumentRef, usePrinter } from 'react-pdf-printer';
 
 import API, { QUERY } from 'api';
 import Button from 'components/Button';
+import { Footer, Header } from 'components/Document';
+import { City as PDFCity } from 'components/PDF';
 import { Column } from 'components/Table/Table';
+import i18n from 'translations/i18n';
 
 import * as Styled from './HomePage.styles';
 import { City, Voivodeship } from './TableItem';
 
 const HomePage = () => {
   const { t } = useTranslation('home');
+  const { isRendering } = usePrinter();
   const { data, isLoading, isFetching, isError, refetch } = useQuery(
     [QUERY.CITIES_LIST],
     API.getCitiesList,
@@ -17,6 +23,15 @@ const HomePage = () => {
       refetchOnWindowFocus: false,
     }
   );
+
+  const [selectedCity, setSelectedCity] = useState<string>();
+  const documentRef = useRef<DocumentRef>(null);
+
+  const handlePrint = (event: MouseEvent<HTMLButtonElement>) => {
+    const { city } = event.currentTarget.dataset;
+    setSelectedCity(city);
+    documentRef.current?.render();
+  };
 
   if (isLoading || (isError && isFetching)) return <Styled.Spinner text />;
   if (isError) return <Styled.Error onClick={refetch} />;
@@ -70,10 +85,27 @@ const HomePage = () => {
     area: (
       <Styled.Cell textAlign="right">{t('float', { val: row.area, ns: 'general' })}</Styled.Cell>
     ),
-    print: <Button size="sm">{t('print')}</Button>,
+    print: (
+      <Button
+        loading={isRendering && selectedCity === row.id}
+        disabled={isRendering}
+        data-city={row.id}
+        size="sm"
+        onClick={handlePrint}
+      >
+        {t('print')}
+      </Button>
+    ),
   }));
 
-  return <Styled.Table columns={columns} dataSource={dataSource} isLoading={isFetching} />;
+  return (
+    <>
+      <Styled.Table columns={columns} dataSource={dataSource} isLoading={isFetching} />
+      <Document ref={documentRef} header={<Header />} footer={<Footer />}>
+        {selectedCity && <PDFCity city={selectedCity} />}
+      </Document>
+    </>
+  );
 };
 
 export default HomePage;

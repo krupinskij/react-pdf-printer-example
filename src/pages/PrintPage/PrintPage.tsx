@@ -4,8 +4,8 @@ import { StaticDocument, DocumentRef } from 'react-pdf-printer';
 
 import { cities } from 'api';
 import { Footer, Header } from 'components/Document';
+import { City } from 'components/PDF';
 
-import City from './City';
 import Screen from './Screen';
 
 const ReportPage = () => {
@@ -26,7 +26,7 @@ const ReportPage = () => {
           format: t('pagination') as string,
         },
       }}
-      renderOnInit={false}
+      // renderOnInit={false}
     >
       {cities.map((city) => (
         <City key={city} city={city} />
