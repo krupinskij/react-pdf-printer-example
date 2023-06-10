@@ -8,13 +8,12 @@ import Button from 'components/Button';
 import { Footer, Header } from 'components/Document';
 import { City as PDFCity } from 'components/PDF';
 import { Column } from 'components/Table/Table';
-import i18n from 'translations/i18n';
 
 import * as Styled from './HomePage.styles';
 import { City, Voivodeship } from './TableItem';
 
 const HomePage = () => {
-  const { t } = useTranslation('home');
+  const { t } = useTranslation(['home', 'pdf']);
   const { isRendering } = usePrinter();
   const { data, isLoading, isFetching, isError, refetch } = useQuery(
     [QUERY.CITIES_LIST],
@@ -105,7 +104,16 @@ const HomePage = () => {
   return (
     <>
       <Styled.Table columns={columns} dataSource={dataSource} isLoading={isFetching} />
-      <Document ref={documentRef} header={<Header />} footer={<Footer />}>
+      <Document
+        ref={documentRef}
+        header={<Header />}
+        footer={<Footer />}
+        configuration={{
+          pagination: {
+            format: t('pagination', { ns: 'pdf' }) as string,
+          },
+        }}
+      >
         {selectedCity && <PDFCity city={selectedCity} />}
       </Document>
     </>

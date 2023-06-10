@@ -26,7 +26,7 @@ const ReportPage = () => {
           format: t('pagination') as string,
         },
       }}
-      // renderOnInit={false}
+      renderOnInit={false}
     >
       {cities.map((city) => (
         <City key={city} city={city} />

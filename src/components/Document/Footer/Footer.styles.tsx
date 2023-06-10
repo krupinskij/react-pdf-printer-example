@@ -12,5 +12,5 @@ export const Wrapper = styled.div`
 
 export const Pagination = styled(PdfPagination)`
   display: block;
-  margin: auto 20px 8px;
+  margin: auto 20px 12px;
 `;
