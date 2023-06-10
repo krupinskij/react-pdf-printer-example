@@ -54,22 +54,26 @@ const HomePage = () => {
     {
       dataIndex: 'population',
       title: <Styled.Column textAlign="right">{t('column.population')}</Styled.Column>,
+      align: 'right',
       style: {
-        textAlign: 'right',
         minWidth: '150px',
       },
     },
     {
       dataIndex: 'area',
       title: <Styled.Column textAlign="right">{t('column.area')}</Styled.Column>,
+      align: 'right',
       style: {
-        textAlign: 'right',
         minWidth: '150px',
       },
     },
     {
       dataIndex: 'print',
       title: '',
+      align: 'center',
+      style: {
+        minWidth: '150px',
+      },
     },
   ];
 

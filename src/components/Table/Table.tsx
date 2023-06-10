@@ -1,10 +1,13 @@
 import * as Styled from './Table.styles';
 
+export type Align = 'left' | 'center' | 'right';
+
 export type Column = {
   title: React.ReactNode;
   dataIndex: string;
   key?: string;
   style?: React.CSSProperties;
+  align?: Align;
 };
 
 export type DataSource = {
@@ -41,9 +44,11 @@ const Table = <T extends DataSource>({ columns, dataSource, className, isLoading
         <tbody>
           {dataSource.map((row) => (
             <Styled.TableRow key={row.id}>
-              {columns.map(({ dataIndex, key }) => (
+              {columns.map(({ dataIndex, key, align }) => (
                 <td key={key || dataIndex}>
-                  <Styled.TableRowCell>{row[dataIndex]}</Styled.TableRowCell>
+                  <Styled.TableRowCell $align={align || 'left'}>
+                    {row[dataIndex]}
+                  </Styled.TableRowCell>
                 </td>
               ))}
             </Styled.TableRow>

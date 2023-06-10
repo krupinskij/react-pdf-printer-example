@@ -1,4 +1,4 @@
-import React, { HTMLAttributes, useEffect, useState } from 'react';
+import React, { HTMLAttributes, MouseEvent, useEffect, useState } from 'react';
 import { useTranslation } from 'react-i18next';
 
 import * as Styled from './Button.styles';
@@ -11,7 +11,7 @@ type Props = HTMLAttributes<HTMLButtonElement> & {
   variant?: Variant;
   disabled?: boolean;
   loading?: boolean;
-  onClick?: (event: React.FormEvent<HTMLButtonElement>) => void;
+  onClick?: (event: MouseEvent<HTMLButtonElement>) => void;
   children: React.ReactNode;
 };
 

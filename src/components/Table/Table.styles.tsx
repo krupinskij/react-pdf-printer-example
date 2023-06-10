@@ -2,6 +2,8 @@ import styled, { css } from 'styled-components';
 
 import { Spinner as SpinnerC } from 'components/Info';
 
+import { Align } from './Table';
+
 export const Spinner = styled(SpinnerC)`
   position: absolute;
   visibility: hidden;
@@ -29,10 +31,23 @@ export const TableRow = styled.tr`
   }
 `;
 
-export const TableRowCell = styled.span`
-  display: block;
+export const TableRowCell = styled.span<{ $align: Align }>`
+  display: flex;
   margin: 4px 0;
   padding: 0 20px;
+
+  & > * {
+    margin-inline: ${({ $align }) => {
+      switch ($align) {
+        case 'left':
+          return '0 auto';
+        case 'center':
+          return 'auto';
+        case 'right':
+          return 'auto 0';
+      }
+    }};
+  }
 `;
 
 export const Wrapper = styled.div<{ isLoading?: boolean }>`
