@@ -13,6 +13,7 @@ export type Position = `${Vertical}-${Horizontal}`;
 
 type Props = {
   src: string;
+  thumb?: string;
   caption: {
     text: string;
     position: Position;
@@ -22,7 +23,14 @@ type Props = {
   className?: string;
 };
 
-const Image = ({ src, caption: { text, position }, source, preview, className }: Props) => {
+const Image = ({
+  src,
+  thumb = src,
+  caption: { text, position },
+  source,
+  preview,
+  className,
+}: Props) => {
   const { subscribe, run, isPrinter } = usePrinter(src);
   const { t } = useTranslation('general', { keyPrefix: 'image' });
   const modalRef = useRef<HTMLDialogElement>(null);
@@ -36,15 +44,6 @@ const Image = ({ src, caption: { text, position }, source, preview, className }:
 
   useEffect(() => {
     subscribe();
-    const image = imageRef.current;
-
-    if (!image) return;
-
-    image.addEventListener('load', run);
-
-    return () => {
-      image.removeEventListener('load', run);
-    };
   }, []);
 
   return (
@@ -58,9 +57,10 @@ const Image = ({ src, caption: { text, position }, source, preview, className }:
         <Styled.Image
           ref={imageRef}
           loading={isPrinter ? 'eager' : 'lazy'}
-          src={src}
+          src={thumb}
           alt={text}
           className={className}
+          onLoad={() => run()}
         />
         <Styled.Caption $position={position} $print={isPrinter}>
           {text} |{' '}
@@ -73,9 +73,11 @@ const Image = ({ src, caption: { text, position }, source, preview, className }:
           )}
         </Styled.Caption>
       </Styled.Figure>
-      <Modal id={modalId} ref={modalRef}>
-        <Styled.ModalImage src={src} alt={text} />
-      </Modal>
+      {!isPrinter && preview && (
+        <Modal id={modalId} ref={modalRef}>
+          <Styled.ModalImage src={src} alt={text} />
+        </Modal>
+      )}
     </>
   );
 };

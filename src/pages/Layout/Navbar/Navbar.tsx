@@ -12,6 +12,9 @@ const Navbar = () => {
       <Styled.NavLink to="/report" checkCurrent>
         {t('navbar.print')}
       </Styled.NavLink>
+      <Styled.NavLink to="/test" checkCurrent>
+        Test
+      </Styled.NavLink>
     </Styled.Navbar>
   );
 };

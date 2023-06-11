@@ -5,6 +5,10 @@ import { initReactI18next } from 'react-i18next';
 
 import { queryClient } from 'app/AppProviders';
 
+export const supportedLngs = ['pl', 'en'] as const;
+
+export type SupportedLng = (typeof supportedLngs)[number];
+
 i18n
   .use(Backend)
   .use(LanguageDetector)
@@ -12,7 +16,7 @@ i18n
   .init({
     fallbackLng: 'en',
     ns: ['general', 'cities', 'voivodeships'],
-    supportedLngs: ['pl', 'en'],
+    supportedLngs,
     backend: {
       loadPath: '/src/translations/resources/{{lng}}/{{ns}}.json',
     },

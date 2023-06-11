@@ -5,6 +5,7 @@ import CityPage from 'pages/CityPage';
 import HomePage from 'pages/HomePage';
 import Layout from 'pages/Layout';
 import PrintPage from 'pages/PrintPage';
+import TestPage from 'pages/TestPage/TestPage';
 
 const router = createBrowserRouter([
   {
@@ -29,6 +30,10 @@ const router = createBrowserRouter([
   {
     path: '/report',
     element: <PrintPage />,
+  },
+  {
+    path: '/test',
+    element: <TestPage />,
   },
   {
     path: '*',

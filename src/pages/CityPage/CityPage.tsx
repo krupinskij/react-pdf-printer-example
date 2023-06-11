@@ -1,9 +1,8 @@
 import { useQuery } from '@tanstack/react-query';
-import { useTranslation } from 'react-i18next';
 import { useParams } from 'react-router-dom';
 
 import API, { QUERY } from 'api';
-import { Cover, Info, Tourism } from 'components/City';
+import { Cover, Info, Attractions } from 'components/City';
 import { Error, Spinner } from 'components/Info';
 
 import * as Styled from './CityPage.styles';
@@ -26,7 +25,7 @@ const CityPage = () => {
         background={data.background}
       />
       <Info city={city} voivodeship={data.voivodeship} onlyCoa={data.onlyCoa} />
-      <Tourism tourismList={data.tourism} />
+      <Attractions attractions={data.attractions} />
     </Styled.City>
   );
 };

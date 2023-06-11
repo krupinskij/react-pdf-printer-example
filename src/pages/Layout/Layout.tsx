@@ -31,7 +31,7 @@ const Layout = () => {
         </Suspense>
       </Styled.Main>
       <Styled.Footer>
-        <span translate="no">React PDF Printer</span> | {t('title')}
+        <span translate="no">React PDF Printer </span>&nbsp;| {t('title')}
       </Styled.Footer>
     </>
   );
