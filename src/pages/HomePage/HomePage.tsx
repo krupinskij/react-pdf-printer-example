@@ -1,7 +1,7 @@
 import { useQuery } from '@tanstack/react-query';
-import { MouseEvent, useEffect, useRef, useState } from 'react';
+import { MouseEvent, useRef, useState } from 'react';
 import { useTranslation } from 'react-i18next';
-import { Document, DocumentRef, usePrinter } from 'react-pdf-printer';
+import { DocumentRef, PortalDocument, usePrinter } from 'react-pdf-printer';
 
 import API, { QUERY } from 'api';
 import Button from 'components/Button';
@@ -104,7 +104,7 @@ const HomePage = () => {
   return (
     <>
       <Styled.Table columns={columns} dataSource={dataSource} isLoading={isFetching} />
-      <Document
+      <PortalDocument
         ref={documentRef}
         header={<Header />}
         footer={<Footer />}
@@ -115,7 +115,7 @@ const HomePage = () => {
         }}
       >
         {selectedCity && <PDFCity city={selectedCity} />}
-      </Document>
+      </PortalDocument>
     </>
   );
 };
