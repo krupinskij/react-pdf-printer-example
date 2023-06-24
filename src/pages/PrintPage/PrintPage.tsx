@@ -18,14 +18,15 @@ const ReportPage = () => {
       ref={documentRef}
       header={<Header />}
       footer={<Footer />}
-      screen={(isLoading) => (
-        <Screen isLoading={isLoading} onRenderClick={() => documentRef.current?.render()} />
+      screen={({ isPrinting }) => (
+        <Screen isLoading={isPrinting} onRenderClick={() => documentRef.current?.render()} />
       )}
       configuration={{
         pagination: {
           format: t('pagination') as string,
         },
       }}
+      title={t('title') as string}
       renderOnInit={false}
     >
       {cities.map((city) => (
