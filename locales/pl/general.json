@@ -15,18 +15,20 @@
   },
   "skip": "Pomiń nawigację",
   "poland": {
-    "map": "Mapa polski",
-    "flag": "Flaga polski",
-    "lang": {
-      "choose": "Przetłumacz stronę na język polski"
-    }
+    "map": "Mapa polski"
   },
-  "english": {
-    "lang": {
+  "lang": {
+    "pl": {
+      "lang": "Język polski",
+      "choose": "Przetłumacz stronę na język polski"
+    },
+    "en": {
+      "lang": "Język angielski",
       "choose": "Przetłumacz stronę na język angielski"
     }
   },
-  "br-am": {
-    "flag": "Flaga brytyjsko-amerykańska"
+  "swipe": {
+    "left": "Przewiń w lewo",
+    "right": "Przewiń w prawo"
   }
 }
