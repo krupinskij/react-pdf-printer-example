@@ -30,7 +30,8 @@
           },
           "source": "https://commons.wikimedia.org/wiki/File:Pa%C5%82ac_na_wodzie_w_%C5%81azienkach_Kr%C3%B3lewskich_(cropped).jpg",
           "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Pa%C5%82ac_na_wodzie_w_%C5%81azienkach_Kr%C3%B3lewskich_%28cropped%29.jpg/800px-Pa%C5%82ac_na_wodzie_w_%C5%81azienkach_Kr%C3%B3lewskich_%28cropped%29.jpg",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Pa%C5%82ac_na_wodzie_w_%C5%81azienkach_Kr%C3%B3lewskich_%28cropped%29.jpg/320px-Pa%C5%82ac_na_wodzie_w_%C5%81azienkach_Kr%C3%B3lewskich_%28cropped%29.jpg"
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Pa%C5%82ac_na_wodzie_w_%C5%81azienkach_Kr%C3%B3lewskich_%28cropped%29.jpg/320px-Pa%C5%82ac_na_wodzie_w_%C5%81azienkach_Kr%C3%B3lewskich_%28cropped%29.jpg",
+          "external": true
         },
         {
           "caption": {
@@ -39,7 +40,8 @@
           },
           "source": "https://pl.wikipedia.org/wiki/Plik:Nowa_Pomara%C5%84czarnia_%C5%81azienki_Kr%C3%B3lewskie_Warszawa_05.JPG",
           "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Nowa_Pomara%C5%84czarnia_%C5%81azienki_Kr%C3%B3lewskie_Warszawa_05.JPG/800px-Nowa_Pomara%C5%84czarnia_%C5%81azienki_Kr%C3%B3lewskie_Warszawa_05.JPG",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Nowa_Pomara%C5%84czarnia_%C5%81azienki_Kr%C3%B3lewskie_Warszawa_05.JPG/320px-Nowa_Pomara%C5%84czarnia_%C5%81azienki_Kr%C3%B3lewskie_Warszawa_05.JPG"
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Nowa_Pomara%C5%84czarnia_%C5%81azienki_Kr%C3%B3lewskie_Warszawa_05.JPG/320px-Nowa_Pomara%C5%84czarnia_%C5%81azienki_Kr%C3%B3lewskie_Warszawa_05.JPG",
+          "external": true
         },
         {
           "caption": {
@@ -48,7 +50,8 @@
           },
           "source": "https://commons.wikimedia.org/wiki/File:4_Warszawa-Lazienki_Krolewskie_107.jpg",
           "src": "https://upload.wikimedia.org/wikipedia/commons/f/ff/4_Warszawa-Lazienki_Krolewskie_107.jpg",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/f/ff/4_Warszawa-Lazienki_Krolewskie_107.jpg"
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/f/ff/4_Warszawa-Lazienki_Krolewskie_107.jpg",
+          "external": true
         }
       ]
     },
@@ -78,7 +81,8 @@
           },
           "source": "https://commons.wikimedia.org/wiki/File:Syrenka_Warszawska.jpg",
           "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Syrenka_Warszawska.jpg/499px-Syrenka_Warszawska.jpg",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Syrenka_Warszawska.jpg/200px-Syrenka_Warszawska.jpg"
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Syrenka_Warszawska.jpg/200px-Syrenka_Warszawska.jpg",
+          "external": true
         }
       ]
     },
@@ -99,7 +103,8 @@
           },
           "source": "https://commons.wikimedia.org/wiki/File:Muzeum_Narodowe_w_Warszawie.jpg",
           "src": "https://upload.wikimedia.org/wikipedia/commons/9/91/Muzeum_Narodowe_w_Warszawie.jpg",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/9/91/Muzeum_Narodowe_w_Warszawie.jpg"
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/9/91/Muzeum_Narodowe_w_Warszawie.jpg",
+          "external": true
         },
         {
           "caption": {
@@ -108,7 +113,8 @@
           },
           "source": "https://commons.wikimedia.org/wiki/File:Muzeum_Narodowe_w_Warszawie_05_05.JPG",
           "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Muzeum_Narodowe_w_Warszawie_05_05.JPG/800px-Muzeum_Narodowe_w_Warszawie_05_05.JPG",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Muzeum_Narodowe_w_Warszawie_05_05.JPG/320px-Muzeum_Narodowe_w_Warszawie_05_05.JPG"
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Muzeum_Narodowe_w_Warszawie_05_05.JPG/320px-Muzeum_Narodowe_w_Warszawie_05_05.JPG",
+          "external": true
         },
         {
           "caption": {
@@ -137,7 +143,8 @@
           },
           "source": "https://pl.wikipedia.org/wiki/Plik:Wilan%C3%B3w_Palace.jpg",
           "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Wilan%C3%B3w_Palace.jpg/800px-Wilan%C3%B3w_Palace.jpg",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Wilan%C3%B3w_Palace.jpg/320px-Wilan%C3%B3w_Palace.jpg"
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Wilan%C3%B3w_Palace.jpg/320px-Wilan%C3%B3w_Palace.jpg",
+          "external": true
         },
         {
           "caption": {
@@ -146,7 +153,8 @@
           },
           "source": "https://pl.wikipedia.org/wiki/Plik:Wilan%C3%B3w_Palace_interior_01.jpg",
           "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Wilan%C3%B3w_Palace_interior_01.jpg/800px-Wilan%C3%B3w_Palace_interior_01.jpg",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Wilan%C3%B3w_Palace_interior_01.jpg/320px-Wilan%C3%B3w_Palace_interior_01.jpg"
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Wilan%C3%B3w_Palace_interior_01.jpg/320px-Wilan%C3%B3w_Palace_interior_01.jpg",
+          "external": true
         }
       ]
     },
@@ -167,7 +175,8 @@
           },
           "source": "https://commons.wikimedia.org/wiki/File:Budynek_Muzeum_Powstania_Warszawskiego_2017.jpg",
           "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Budynek_Muzeum_Powstania_Warszawskiego_2017.jpg/800px-Budynek_Muzeum_Powstania_Warszawskiego_2017.jpg",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Budynek_Muzeum_Powstania_Warszawskiego_2017.jpg/320px-Budynek_Muzeum_Powstania_Warszawskiego_2017.jpg"
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Budynek_Muzeum_Powstania_Warszawskiego_2017.jpg/320px-Budynek_Muzeum_Powstania_Warszawskiego_2017.jpg",
+          "external": true
         },
         {
           "caption": {
@@ -176,7 +185,8 @@
           },
           "source": "https://commons.wikimedia.org/wiki/File:Sala_Ma%C5%82ego_Powsta%C5%84ca_MPW_04.JPG",
           "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Sala_Ma%C5%82ego_Powsta%C5%84ca_MPW_04.JPG/800px-Sala_Ma%C5%82ego_Powsta%C5%84ca_MPW_04.JPG",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Sala_Ma%C5%82ego_Powsta%C5%84ca_MPW_04.JPG/320px-Sala_Ma%C5%82ego_Powsta%C5%84ca_MPW_04.JPG"
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Sala_Ma%C5%82ego_Powsta%C5%84ca_MPW_04.JPG/320px-Sala_Ma%C5%82ego_Powsta%C5%84ca_MPW_04.JPG",
+          "external": true
         }
       ]
     }
