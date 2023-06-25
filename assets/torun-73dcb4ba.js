@@ -1,0 +1,1 @@
+const o="torun",t="pl-04",n=115.75,p=195690,i={x:44.9637,y:33.5043},a={id:o,voivodeship:t,area:115.75,population:195690,position:i};export{n as area,a as default,o as id,p as population,i as position,t as voivodeship};

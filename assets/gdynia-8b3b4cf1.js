@@ -1,0 +1,1 @@
+const o="gdynia",i="pl-22",n=391.6,t=242874,a={x:44.2939,y:10.4744},p={id:o,voivodeship:i,area:391.6,population:242874,position:a};export{n as area,p as default,o as id,t as population,a as position,i as voivodeship};

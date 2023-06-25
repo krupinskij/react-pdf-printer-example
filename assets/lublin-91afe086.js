@@ -1,0 +1,1 @@
+const o="lublin",i="pl-06",t=147,p=331243,n={x:81.9315,y:60.7692},a={id:o,voivodeship:i,area:147,population:331243,position:n};export{t as area,a as default,o as id,p as population,n as position,i as voivodeship};

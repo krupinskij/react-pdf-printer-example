@@ -1,0 +1,1 @@
+const o="bydgoszcz",i="pl-04",t=175.98,p=330038,s={x:39.3562,y:31.9231},a={id:o,voivodeship:i,area:175.98,population:330038,position:s};export{t as area,a as default,o as id,p as population,s as position,i as voivodeship};

@@ -1,0 +1,1 @@
+const o="szczecin",i="pl-32",s=301,t=391566,n={x:6.93666,y:27.1068},p={id:o,voivodeship:i,area:301,population:391566,position:n};export{s as area,p as default,o as id,t as population,n as position,i as voivodeship};

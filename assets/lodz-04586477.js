@@ -1,0 +1,1 @@
+const o="lodz",i="pl-10",p=293.25,a=658444,t={x:52.8479,y:52.6667},n={id:o,voivodeship:i,area:293.25,population:658444,position:t};export{p as area,n as default,o as id,a as population,t as position,i as voivodeship};
