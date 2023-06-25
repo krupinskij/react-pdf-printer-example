@@ -12,7 +12,7 @@ const City = ({ code }: Props) => {
     <Styled.CityWrapper>
       <Styled.ImgWrapper>
         <Styled.CoaImg
-          src={`/src/assets/city/coa/${code}.svg`}
+          src={`${import.meta.env.BASE_URL}/assets/coa/city/${code}.svg`}
           alt={t('flag', { ns: 'city', owner: code, context: 'city' }) as string}
         />
       </Styled.ImgWrapper>

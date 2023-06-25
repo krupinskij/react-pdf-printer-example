@@ -1,4 +1,5 @@
 import React, { useEffect, useLayoutEffect, useRef, useState } from 'react';
+import { useTranslation } from 'react-i18next';
 
 import * as Styled from './ImageList.styles';
 
@@ -8,6 +9,8 @@ type Props = {
 };
 
 const ImageList = ({ carousel, children }: Props) => {
+  const { t } = useTranslation();
+
   const listRef = useRef<HTMLDivElement | null>(null);
   const [isLeftScrollDisabled, setIsLeftScrollDisabled] = useState(true);
   const [isRightScrollDisabled, setIsRightScrollDisabled] = useState(false);
@@ -40,20 +43,37 @@ const ImageList = ({ carousel, children }: Props) => {
   return (
     <Styled.Wrapper>
       {carousel && (
-        <Styled.LeftButton disabled={isLeftScrollDisabled} onClick={handleScrollLeft}>
-          <Styled.Icon src={`/src/assets/icon/arrow.svg`} alt="" />
+        <Styled.LeftButton
+          disabled={isLeftScrollDisabled}
+          onClick={handleScrollLeft}
+          aria-label={t('swipe.left') as string}
+        >
+          <Styled.Icon
+            src={`${import.meta.env.BASE_URL}/assets/icon/arrow.svg`}
+            alt={t('swipe.left') as string}
+            aria-hidden="true"
+          />
         </Styled.LeftButton>
       )}
       <Styled.List
-        ref={(elem) => (listRef.current = elem)}
+        ref={listRef}
         onScroll={(event) => handleScroll(event.currentTarget)}
         $wrap={!carousel}
       >
         {children}
       </Styled.List>
       {carousel && (
-        <Styled.RightButton disabled={isRightScrollDisabled} onClick={handleScrollRight}>
-          <Styled.Icon src={`/src/assets/icon/arrow.svg`} $flip alt="" />
+        <Styled.RightButton
+          disabled={isRightScrollDisabled}
+          onClick={handleScrollRight}
+          aria-label={t('swipe.right') as string}
+        >
+          <Styled.Icon
+            src={`${import.meta.env.BASE_URL}/assets/icon/arrow.svg`}
+            alt={t('swipe.right') as string}
+            aria-hidden="true"
+            $flip
+          />
         </Styled.RightButton>
       )}
     </Styled.Wrapper>

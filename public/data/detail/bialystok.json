@@ -10,7 +10,7 @@
       "pl": "Pałac Branickich"
     },
     "source": "https://pixabay.com/pl/photos/pa%c5%82ac-branickich-bia%c5%82ystok-4398369/",
-    "src": "/src/assets/views/bialystok/palac.jpg"
+    "src": "/assets/photo/bialystok/palac.jpg"
   },
   "attractions": [
     {
@@ -29,8 +29,8 @@
             "pl": "Pałac Branickich"
           },
           "source": "https://pixabay.com/pl/photos/polska-bia%c5%82ystok-pa%c5%82ac-branickich-6238991/",
-          "src": "/src/assets/views/bialystok/dziedziniec.jpg",
-          "thumb": "/src/assets/views/bialystok/dziedziniec_thumb.jpg"
+          "src": "/assets/photo/bialystok/dziedziniec.jpg",
+          "thumb": "/assets/photo/bialystok/dziedziniec_thumb.jpg"
         },
         {
           "caption": {
@@ -39,7 +39,8 @@
           },
           "source": "https://pl.wikipedia.org/wiki/Plik:Ogr%C3%B3d_czesc_zach.jpg",
           "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Ogr%C3%B3d_czesc_zach.jpg/800px-Ogr%C3%B3d_czesc_zach.jpg",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Ogr%C3%B3d_czesc_zach.jpg/320px-Ogr%C3%B3d_czesc_zach.jpg"
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Ogr%C3%B3d_czesc_zach.jpg/320px-Ogr%C3%B3d_czesc_zach.jpg",
+          "external": true
         },
         {
           "caption": {
@@ -48,7 +49,8 @@
           },
           "source": "https://pl.wikipedia.org/wiki/Plik:Bia%C5%82ystok_Pa%C5%82ac_Branickich_brama_5.JPG",
           "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Bia%C5%82ystok_Pa%C5%82ac_Branickich_brama_5.JPG/800px-Bia%C5%82ystok_Pa%C5%82ac_Branickich_brama_5.JPG",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Bia%C5%82ystok_Pa%C5%82ac_Branickich_brama_5.JPG/320px-Bia%C5%82ystok_Pa%C5%82ac_Branickich_brama_5.JPG"
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Bia%C5%82ystok_Pa%C5%82ac_Branickich_brama_5.JPG/320px-Bia%C5%82ystok_Pa%C5%82ac_Branickich_brama_5.JPG",
+          "external": true
         }
       ]
     },
@@ -69,7 +71,8 @@
           },
           "source": "https://en.wikipedia.org/wiki/File:6325_August_2019_in_Bialystok.jpg",
           "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/6325_August_2019_in_Bialystok.jpg/800px-6325_August_2019_in_Bialystok.jpg",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/6325_August_2019_in_Bialystok.jpg/320px-6325_August_2019_in_Bialystok.jpg"
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/6325_August_2019_in_Bialystok.jpg/320px-6325_August_2019_in_Bialystok.jpg",
+          "external": true
         },
         {
           "caption": {
@@ -78,7 +81,8 @@
           },
           "source": "https://pl.wikipedia.org/wiki/Plik:Bialystok_-_ratusz_miejski_fc05.jpg",
           "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Bialystok_-_ratusz_miejski_fc05.jpg/800px-Bialystok_-_ratusz_miejski_fc05.jpg",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Bialystok_-_ratusz_miejski_fc05.jpg/320px-Bialystok_-_ratusz_miejski_fc05.jpg"
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Bialystok_-_ratusz_miejski_fc05.jpg/320px-Bialystok_-_ratusz_miejski_fc05.jpg",
+          "external": true
         },
         {
           "caption": {
@@ -87,7 +91,8 @@
           },
           "source": "https://pl.wikipedia.org/wiki/Plik:Fontanna_i_Ratusz,_Rynek_Ko%C5%9Bciuszki,_Bia%C5%82ystok_noc%C4%85_2011.jpg",
           "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Fontanna_i_Ratusz%2C_Rynek_Ko%C5%9Bciuszki%2C_Bia%C5%82ystok_noc%C4%85_2011.jpg/800px-Fontanna_i_Ratusz%2C_Rynek_Ko%C5%9Bciuszki%2C_Bia%C5%82ystok_noc%C4%85_2011.jpg",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Fontanna_i_Ratusz%2C_Rynek_Ko%C5%9Bciuszki%2C_Bia%C5%82ystok_noc%C4%85_2011.jpg/320px-Fontanna_i_Ratusz%2C_Rynek_Ko%C5%9Bciuszki%2C_Bia%C5%82ystok_noc%C4%85_2011.jpg"
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Fontanna_i_Ratusz%2C_Rynek_Ko%C5%9Bciuszki%2C_Bia%C5%82ystok_noc%C4%85_2011.jpg/320px-Fontanna_i_Ratusz%2C_Rynek_Ko%C5%9Bciuszki%2C_Bia%C5%82ystok_noc%C4%85_2011.jpg",
+          "external": true
         }
       ]
     },
@@ -108,7 +113,8 @@
           },
           "source": "https://pl.wikipedia.org/wiki/Plik:Zesp%C3%B3%C5%82_bazyliki_archikatedralnej_Wniebowzi%C4%99cia_NMP_w_Bia%C5%82ymstoku_(2010).JPG",
           "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Zesp%C3%B3%C5%82_bazyliki_archikatedralnej_Wniebowzi%C4%99cia_NMP_w_Bia%C5%82ymstoku_%282010%29.JPG/576px-Zesp%C3%B3%C5%82_bazyliki_archikatedralnej_Wniebowzi%C4%99cia_NMP_w_Bia%C5%82ymstoku_%282010%29.JPG",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Zesp%C3%B3%C5%82_bazyliki_archikatedralnej_Wniebowzi%C4%99cia_NMP_w_Bia%C5%82ymstoku_%282010%29.JPG/231px-Zesp%C3%B3%C5%82_bazyliki_archikatedralnej_Wniebowzi%C4%99cia_NMP_w_Bia%C5%82ymstoku_%282010%29.JPG"
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Zesp%C3%B3%C5%82_bazyliki_archikatedralnej_Wniebowzi%C4%99cia_NMP_w_Bia%C5%82ymstoku_%282010%29.JPG/231px-Zesp%C3%B3%C5%82_bazyliki_archikatedralnej_Wniebowzi%C4%99cia_NMP_w_Bia%C5%82ymstoku_%282010%29.JPG",
+          "external": true
         },
         {
           "caption": {
@@ -117,7 +123,8 @@
           },
           "source": "https://pl.wikipedia.org/wiki/Plik:Bia%C5%82ystok,_o%C5%82tarz_starego_ko%C5%9Bcio%C5%82a_farnego.jpg",
           "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bia%C5%82ystok%2C_o%C5%82tarz_starego_ko%C5%9Bcio%C5%82a_farnego.jpg/800px-Bia%C5%82ystok%2C_o%C5%82tarz_starego_ko%C5%9Bcio%C5%82a_farnego.jpg",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bia%C5%82ystok%2C_o%C5%82tarz_starego_ko%C5%9Bcio%C5%82a_farnego.jpg/320px-Bia%C5%82ystok%2C_o%C5%82tarz_starego_ko%C5%9Bcio%C5%82a_farnego.jpg"
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bia%C5%82ystok%2C_o%C5%82tarz_starego_ko%C5%9Bcio%C5%82a_farnego.jpg/320px-Bia%C5%82ystok%2C_o%C5%82tarz_starego_ko%C5%9Bcio%C5%82a_farnego.jpg",
+          "external": true
         },
         {
           "caption": {
@@ -126,7 +133,8 @@
           },
           "source": "https://pl.wikipedia.org/wiki/Plik:Minor_basilica_in_Bialystok_1.jpg",
           "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Minor_basilica_in_Bialystok_1.jpg/450px-Minor_basilica_in_Bialystok_1.jpg",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Minor_basilica_in_Bialystok_1.jpg/180px-Minor_basilica_in_Bialystok_1.jpg"
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Minor_basilica_in_Bialystok_1.jpg/180px-Minor_basilica_in_Bialystok_1.jpg",
+          "external": true
         },
         {
           "caption": {
@@ -135,7 +143,8 @@
           },
           "source": "https://pl.wikipedia.org/wiki/Plik:Bialystok_katedra_fc02.jpg",
           "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Bialystok_katedra_fc02.jpg/450px-Bialystok_katedra_fc02.jpg",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Bialystok_katedra_fc02.jpg/180px-Bialystok_katedra_fc02.jpg"
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Bialystok_katedra_fc02.jpg/180px-Bialystok_katedra_fc02.jpg",
+          "external": true
         }
       ]
     }

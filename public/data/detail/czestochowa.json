@@ -10,7 +10,7 @@
       "pl": "Aleja Najświętszej Maryi Panny"
     },
     "source": "https://pixabay.com/pl/photos/cz%c4%99stochowa-deptak-aleja-miasto-5326068/",
-    "src": "/src/assets/views/czestochowa/deptak.jpg"
+    "src": "/assets/photo/czestochowa/deptak.jpg"
   },
   "attractions": [
     {
@@ -30,7 +30,8 @@
           },
           "source": "https://en.wikipedia.org/wiki/File:Cz%C4%99stochowa_klasztor_Jasna_G%C3%B3ra-2162.jpg",
           "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cz%C4%99stochowa_klasztor_Jasna_G%C3%B3ra-2162.jpg/800px-Cz%C4%99stochowa_klasztor_Jasna_G%C3%B3ra-2162.jpg",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cz%C4%99stochowa_klasztor_Jasna_G%C3%B3ra-2162.jpg/320px-Cz%C4%99stochowa_klasztor_Jasna_G%C3%B3ra-2162.jpg"
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cz%C4%99stochowa_klasztor_Jasna_G%C3%B3ra-2162.jpg/320px-Cz%C4%99stochowa_klasztor_Jasna_G%C3%B3ra-2162.jpg",
+          "external": true
         },
         {
           "caption": {
@@ -39,7 +40,8 @@
           },
           "source": "https://pl.wikipedia.org/wiki/Plik:Czestochowa-bazylika.jpg",
           "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Czestochowa-bazylika.jpg/389px-Czestochowa-bazylika.jpg",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Czestochowa-bazylika.jpg/155px-Czestochowa-bazylika.jpg"
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Czestochowa-bazylika.jpg/155px-Czestochowa-bazylika.jpg",
+          "external": true
         },
         {
           "caption": {
@@ -48,7 +50,8 @@
           },
           "source": "https://en.wikipedia.org/wiki/File:O%C5%82tarz_g%C5%82%C3%B3wny_Bazyliki_Jasnog%C3%B3rskiej.jpg",
           "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/O%C5%82tarz_g%C5%82%C3%B3wny_Bazyliki_Jasnog%C3%B3rskiej.jpg/450px-O%C5%82tarz_g%C5%82%C3%B3wny_Bazyliki_Jasnog%C3%B3rskiej.jpg",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/O%C5%82tarz_g%C5%82%C3%B3wny_Bazyliki_Jasnog%C3%B3rskiej.jpg/180px-O%C5%82tarz_g%C5%82%C3%B3wny_Bazyliki_Jasnog%C3%B3rskiej.jpg"
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/O%C5%82tarz_g%C5%82%C3%B3wny_Bazyliki_Jasnog%C3%B3rskiej.jpg/180px-O%C5%82tarz_g%C5%82%C3%B3wny_Bazyliki_Jasnog%C3%B3rskiej.jpg",
+          "external": true
         },
         {
           "caption": {
@@ -57,7 +60,8 @@
           },
           "source": "https://pl.wikipedia.org/wiki/Plik:Cz%C4%99stochowa_-_Jasna_G%C3%B3ra,_Kaplica_Naj%C5%9Bwi%C4%99tszej_Marii_Panny_AL15.JPG",
           "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Cz%C4%99stochowa_-_Jasna_G%C3%B3ra%2C_Kaplica_Naj%C5%9Bwi%C4%99tszej_Marii_Panny_AL15.JPG/450px-Cz%C4%99stochowa_-_Jasna_G%C3%B3ra%2C_Kaplica_Naj%C5%9Bwi%C4%99tszej_Marii_Panny_AL15.JPG",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Cz%C4%99stochowa_-_Jasna_G%C3%B3ra%2C_Kaplica_Naj%C5%9Bwi%C4%99tszej_Marii_Panny_AL15.JPG/180px-Cz%C4%99stochowa_-_Jasna_G%C3%B3ra%2C_Kaplica_Naj%C5%9Bwi%C4%99tszej_Marii_Panny_AL15.JPG"
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Cz%C4%99stochowa_-_Jasna_G%C3%B3ra%2C_Kaplica_Naj%C5%9Bwi%C4%99tszej_Marii_Panny_AL15.JPG/180px-Cz%C4%99stochowa_-_Jasna_G%C3%B3ra%2C_Kaplica_Naj%C5%9Bwi%C4%99tszej_Marii_Panny_AL15.JPG",
+          "external": true
         },
         {
           "caption": {
@@ -66,7 +70,8 @@
           },
           "source": "https://pl.wikipedia.org/wiki/Plik:Czestochowa_MB_Czestochowska.jpg",
           "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Czestochowa_MB_Czestochowska.jpg/386px-Czestochowa_MB_Czestochowska.jpg",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Czestochowa_MB_Czestochowska.jpg/154px-Czestochowa_MB_Czestochowska.jpg"
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Czestochowa_MB_Czestochowska.jpg/154px-Czestochowa_MB_Czestochowska.jpg",
+          "external": true
         }
       ]
     },
@@ -87,7 +92,8 @@
           },
           "source": "https://pl.wikipedia.org/wiki/Plik:Panorama_of_Cz%C4%99stochowa.jpg",
           "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Panorama_of_Cz%C4%99stochowa.jpg/800px-Panorama_of_Cz%C4%99stochowa.jpg",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Panorama_of_Cz%C4%99stochowa.jpg/800px-Panorama_of_Cz%C4%99stochowa.jpg"
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Panorama_of_Cz%C4%99stochowa.jpg/800px-Panorama_of_Cz%C4%99stochowa.jpg",
+          "external": true
         },
         {
           "caption": {
@@ -96,7 +102,8 @@
           },
           "source": "https://en.wikipedia.org/wiki/File:Park_Staszica_Cz%C4%99stochowa.jpg",
           "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Park_Staszica_Cz%C4%99stochowa.jpg/800px-Park_Staszica_Cz%C4%99stochowa.jpg",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Park_Staszica_Cz%C4%99stochowa.jpg/320px-Park_Staszica_Cz%C4%99stochowa.jpg"
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Park_Staszica_Cz%C4%99stochowa.jpg/320px-Park_Staszica_Cz%C4%99stochowa.jpg",
+          "external": true
         },
         {
           "caption": {
@@ -105,7 +112,8 @@
           },
           "source": "https://pl.wikipedia.org/wiki/Plik:Cz%C4%99stochowa_Park_Staszica_Fontanna.JPG",
           "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Cz%C4%99stochowa_Park_Staszica_Fontanna.JPG/800px-Cz%C4%99stochowa_Park_Staszica_Fontanna.JPG",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Cz%C4%99stochowa_Park_Staszica_Fontanna.JPG/320px-Cz%C4%99stochowa_Park_Staszica_Fontanna.JPG"
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Cz%C4%99stochowa_Park_Staszica_Fontanna.JPG/320px-Cz%C4%99stochowa_Park_Staszica_Fontanna.JPG",
+          "external": true
         },
         {
           "caption": {
@@ -114,7 +122,8 @@
           },
           "source": "https://pl.wikipedia.org/wiki/Plik:Park_3_maja_w_Cz%C4%99stochowie.jpg",
           "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Park_3_maja_w_Cz%C4%99stochowie.jpg/800px-Park_3_maja_w_Cz%C4%99stochowie.jpg",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Park_3_maja_w_Cz%C4%99stochowie.jpg/320px-Park_3_maja_w_Cz%C4%99stochowie.jpg"
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Park_3_maja_w_Cz%C4%99stochowie.jpg/320px-Park_3_maja_w_Cz%C4%99stochowie.jpg",
+          "external": true
         }
       ]
     },
@@ -135,7 +144,8 @@
           },
           "source": "https://pl.wikipedia.org/wiki/Plik:1%262DM_Workshop_Cz%C4%99stochowa.jpg",
           "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/1%262DM_Workshop_Cz%C4%99stochowa.jpg/800px-1%262DM_Workshop_Cz%C4%99stochowa.jpg",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/1%262DM_Workshop_Cz%C4%99stochowa.jpg/320px-1%262DM_Workshop_Cz%C4%99stochowa.jpg"
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/1%262DM_Workshop_Cz%C4%99stochowa.jpg/320px-1%262DM_Workshop_Cz%C4%99stochowa.jpg",
+          "external": true
         },
         {
           "caption": {
@@ -144,7 +154,8 @@
           },
           "source": "https://pl.wikipedia.org/wiki/Plik:Pa%C5%82ac_biskupi_Cz%C4%99stochowa.JPG",
           "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Pa%C5%82ac_biskupi_Cz%C4%99stochowa.JPG/800px-Pa%C5%82ac_biskupi_Cz%C4%99stochowa.JPG",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Pa%C5%82ac_biskupi_Cz%C4%99stochowa.JPG/320px-Pa%C5%82ac_biskupi_Cz%C4%99stochowa.JPG"
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Pa%C5%82ac_biskupi_Cz%C4%99stochowa.JPG/320px-Pa%C5%82ac_biskupi_Cz%C4%99stochowa.JPG",
+          "external": true
         },
         {
           "caption": {
@@ -153,7 +164,8 @@
           },
           "source": "https://pl.wikipedia.org/wiki/Plik:MGRZ3.jpg",
           "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/MGRZ3.jpg/800px-MGRZ3.jpg",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/MGRZ3.jpg/320px-MGRZ3.jpg"
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/MGRZ3.jpg/320px-MGRZ3.jpg",
+          "external": true
         }
       ]
     },
@@ -174,7 +186,8 @@
           },
           "source": "https://pl.wikipedia.org/wiki/Plik:Cz%C4%99stochowa_4IX05_06.JPG",
           "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Cz%C4%99stochowa_4IX05_06.JPG/800px-Cz%C4%99stochowa_4IX05_06.JPG",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Cz%C4%99stochowa_4IX05_06.JPG/320px-Cz%C4%99stochowa_4IX05_06.JPG"
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Cz%C4%99stochowa_4IX05_06.JPG/320px-Cz%C4%99stochowa_4IX05_06.JPG",
+          "external": true
         },
         {
           "caption": {
@@ -183,7 +196,8 @@
           },
           "source": "https://pl.wikipedia.org/wiki/Plik:Cz%C4%99stochowa_Stary_Rynek_p%C3%B3%C5%82nocna_pierzeja_19.08.09_p.jpg",
           "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Cz%C4%99stochowa_Stary_Rynek_p%C3%B3%C5%82nocna_pierzeja_19.08.09_p.jpg/800px-Cz%C4%99stochowa_Stary_Rynek_p%C3%B3%C5%82nocna_pierzeja_19.08.09_p.jpg",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Cz%C4%99stochowa_Stary_Rynek_p%C3%B3%C5%82nocna_pierzeja_19.08.09_p.jpg/320px-Cz%C4%99stochowa_Stary_Rynek_p%C3%B3%C5%82nocna_pierzeja_19.08.09_p.jpg"
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Cz%C4%99stochowa_Stary_Rynek_p%C3%B3%C5%82nocna_pierzeja_19.08.09_p.jpg/320px-Cz%C4%99stochowa_Stary_Rynek_p%C3%B3%C5%82nocna_pierzeja_19.08.09_p.jpg",
+          "external": true
         }
       ]
     }

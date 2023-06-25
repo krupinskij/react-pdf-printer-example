@@ -1,5 +1,24 @@
 import { SupportedLng } from 'translations';
 
+export const cities = [
+  'warsaw',
+  'krakow',
+  'wroclaw',
+  'lodz',
+  'poznan',
+  'gdansk',
+  'szczecin',
+  'bydgoszcz',
+  'lublin',
+  'bialystok',
+  'katowice',
+  'gdynia',
+  'czestochowa',
+  'radom',
+  'torun',
+  'rzeszow',
+];
+
 type Translated = Record<SupportedLng, string>;
 
 export type City = {
@@ -10,7 +29,7 @@ export type City = {
 };
 
 export type Detail = {
-  background: Image;
+  background: BackgroundImage;
   description: string;
   position: { x: number; y: number };
   onlyCoa?: boolean;
@@ -18,7 +37,7 @@ export type Detail = {
 };
 
 export type DetailDto = {
-  background: ImageDto;
+  background: BackgroundImageDto;
   description: Translated;
   position: { x: number; y: number };
   onlyCoa?: boolean;
@@ -31,15 +50,20 @@ export type Image = {
   caption: string;
   source?: string;
   src: string;
-  thumb?: string;
+  thumb: string;
 };
+
+export type BackgroundImage = Omit<Image, 'thumb'>;
 
 export type ImageDto = {
   caption: Translated;
   source?: string;
   src: string;
+  external?: boolean;
   thumb?: string;
 };
+
+export type BackgroundImageDto = Omit<ImageDto, 'thumb'>;
 
 export type Attraction = {
   name: string;

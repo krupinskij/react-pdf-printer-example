@@ -15,7 +15,7 @@ const Screen = ({ isLoading, onRenderClick }: Props) => {
   const { t } = useTranslation('pdf');
   return (
     <Styled.Wrapper>
-      <img src={`/src/assets/logo/logo_lg.png`} width="350" />
+      <img src={`${import.meta.env.BASE_URL}/assets/logo/logo_lg.png`} width="350" />
       <Styled.Buttons>
         <Button loading={isLoading} disabled={isLoading} size="lg" onClick={onRenderClick}>
           {t('print')}

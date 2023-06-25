@@ -33,7 +33,7 @@ const MapImage = ({ position, className }: Props) => {
       {isPointVisible && <Styled.Point {...position} />}
       <Styled.MapImage
         ref={imageRef}
-        src={`/src/assets/icon/poland.svg`}
+        src={`${import.meta.env.BASE_URL}/assets/icon/poland.svg`}
         alt={t('poland.map') as string}
       />
     </Styled.MapWrapper>

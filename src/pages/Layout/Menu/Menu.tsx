@@ -11,7 +11,7 @@ const Menu = () => {
       {cities.map((city) => (
         <Styled.MenuItem key={city}>
           <Styled.MenuLink to={`/city/${city}`} checkCurrent>
-            <Styled.MenuImg src={`/src/assets/city/coa/${city}.svg`} />
+            <Styled.MenuImg src={`${import.meta.env.BASE_URL}/assets/coa/city/${city}.svg`} />
             {t(city)}
           </Styled.MenuLink>
         </Styled.MenuItem>

@@ -15,18 +15,20 @@
   },
   "skip": "Skip navigation",
   "poland": {
-    "map": "Map of Poland",
-    "flag": "Polish flag",
-    "lang": {
-      "choose": "Translate to Polish language"
-    }
+    "map": "Map of Poland"
   },
-  "english": {
-    "lang": {
+  "lang": {
+    "pl": {
+      "lang": "Polish language",
+      "choose": "Translate to Polish language"
+    },
+    "en": {
+      "lang": "English language",
       "choose": "Translate to English language"
     }
   },
-  "br-am": {
-    "flag": "British-american flag"
+  "swipe": {
+    "left": "Swipe left",
+    "right": "Swipe right"
   }
 }

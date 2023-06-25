@@ -1,7 +1,8 @@
+import { json } from 'react-router-dom';
+
 import i18n, { SupportedLng } from 'translations/i18n';
 
-import { cities } from './data/cities';
-import { City, CityDetail, Detail, DetailDto } from './model';
+import { City, CityDetail, Detail, DetailDto, cities } from './model';
 import { QUERY } from './query';
 
 const sleep = (ms: number) => new Promise((res) => setTimeout(() => res(''), ms));
@@ -12,19 +13,31 @@ const mapDetails = (details: DetailDto, lng: SupportedLng): Detail => {
     background: {
       ...details.background,
       caption: details.background.caption[lng],
+      src: `${details.background.external ? '' : import.meta.env.BASE_URL}${
+        details.background.src
+      }`,
     },
     description: details.description[lng],
     attractions: details.attractions.map(({ name, description, photos }) => ({
       name: name[lng],
       description: description[lng],
-      photos: photos.map((photo) => ({ ...photo, caption: photo.caption[lng] })),
+      photos: photos.map(({ external, ...photo }) => ({
+        ...photo,
+        caption: photo.caption[lng],
+        src: `${external ? '' : import.meta.env.BASE_URL}${photo.src}`,
+        thumb: `${external ? '' : import.meta.env.BASE_URL}${photo.thumb ?? photo.src}`,
+      })),
     })),
   };
 };
 
 const getCitiesList = async (): Promise<City[]> => {
   // await sleep(2000);
-  const citiesList = await Promise.all(cities.map((city) => import(`./data/_/${city}.json`)));
+  const citiesList = await Promise.all<Promise<City>>(
+    cities.map((city) =>
+      fetch(`${import.meta.env.BASE_URL}/data/general/${city}.json`).then((resp) => resp.json())
+    )
+  );
   return citiesList
     .map(({ id, voivodeship, population, area }) => ({
       id,
@@ -38,8 +51,8 @@ const getCitiesList = async (): Promise<City[]> => {
 const getCity = async (city: string): Promise<CityDetail> => {
   // await sleep(2000);
   const [common, details] = await Promise.all<[Promise<City>, Promise<DetailDto>]>([
-    import(`./data/_/${city}.json`),
-    import(`./data/details/${city}.json`),
+    fetch(`${import.meta.env.BASE_URL}/data/general/${city}.json`).then((resp) => resp.json()),
+    fetch(`${import.meta.env.BASE_URL}/data/detail/${city}.json`).then((resp) => resp.json()),
   ]);
 
   return {

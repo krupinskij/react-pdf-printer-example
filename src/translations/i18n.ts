@@ -18,7 +18,7 @@ i18n
     ns: ['general', 'cities', 'voivodeships'],
     supportedLngs,
     backend: {
-      loadPath: '/src/translations/resources/{{lng}}/{{ns}}.json',
+      loadPath: `${import.meta.env.BASE_URL}/locales/{{lng}}/{{ns}}.json`,
     },
     react: {
       useSuspense: true,

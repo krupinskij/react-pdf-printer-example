@@ -1,10 +1,10 @@
 import { usePrinter } from 'react-pdf-printer';
 
-import { Image } from 'api/model';
+import { BackgroundImage } from 'api/model';
 
 import * as Styled from './Background.styles';
 
-type Props = Image;
+type Props = BackgroundImage;
 
 const Background = ({ caption, source, src }: Props) => {
   const { isPrinter } = usePrinter();

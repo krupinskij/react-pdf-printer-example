@@ -15,12 +15,12 @@ const Symbols = ({ type, code, onlyCoa }: Props) => {
     <Styled.Symbols>
       <Styled.SymbolsList>
         <Styled.CoaImg
-          src={`/src/assets/${type}/coa/${code}.svg`}
+          src={`${import.meta.env.BASE_URL}/assets/coa/${type}/${code}.svg`}
           alt={t('coa', { owner: code, context: type }) as string}
         />
         {!onlyCoa && (
           <Styled.FlagImg
-            src={`/src/assets/${type}/flag/${code}.svg`}
+            src={`${import.meta.env.BASE_URL}/assets/flag/${type}/${code}.svg`}
             alt={t('flag', { owner: code, context: type }) as string}
           />
         )}

@@ -10,7 +10,7 @@
       "pl": "Zamek Lubelski"
     },
     "source": "https://en.wikipedia.org/wiki/File:Zamek_Lublin,_dawne_wi%C4%99zienie.jpg",
-    "src": "/src/assets/views/lublin/zamek.jpg"
+    "src": "/assets/photo/lublin/zamek.jpg"
   },
   "attractions": [
     {
@@ -30,7 +30,8 @@
           },
           "source": "https://pl.wikipedia.org/wiki/Plik:Zamek_w_Lublinie_widok_z_Placu_Po_Farze.jpg",
           "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Zamek_w_Lublinie_widok_z_Placu_Po_Farze.jpg/800px-Zamek_w_Lublinie_widok_z_Placu_Po_Farze.jpg",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Zamek_w_Lublinie_widok_z_Placu_Po_Farze.jpg/320px-Zamek_w_Lublinie_widok_z_Placu_Po_Farze.jpg"
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Zamek_w_Lublinie_widok_z_Placu_Po_Farze.jpg/320px-Zamek_w_Lublinie_widok_z_Placu_Po_Farze.jpg",
+          "external": true
         },
         {
           "caption": {
@@ -39,15 +40,16 @@
           },
           "source": "https://pl.wikipedia.org/wiki/Plik:Zamek_w_Lublinie_od_strony_zachodniej.jpg",
           "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Zamek_w_Lublinie_od_strony_zachodniej.jpg/800px-Zamek_w_Lublinie_od_strony_zachodniej.jpg",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Zamek_w_Lublinie_od_strony_zachodniej.jpg/320px-Zamek_w_Lublinie_od_strony_zachodniej.jpg"
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Zamek_w_Lublinie_od_strony_zachodniej.jpg/320px-Zamek_w_Lublinie_od_strony_zachodniej.jpg",
+          "external": true
         },
         {
           "caption": {
             "en": "Route to the castle",
             "pl": "Droga do Zamku"
           },
-          "src": "/src/assets/views/lublin/droga_do_zamku.jpg",
-          "thumb": "/src/assets/views/lublin/droga_do_zamku_thumb.jpg"
+          "src": "/assets/photo/lublin/droga_do_zamku.jpg",
+          "thumb": "/assets/photo/lublin/droga_do_zamku_thumb.jpg"
         },
         {
           "caption": {
@@ -56,7 +58,8 @@
           },
           "source": "https://pl.wikipedia.org/wiki/Plik:Zamek_dziedziniec.jpg",
           "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Zamek_dziedziniec.jpg/800px-Zamek_dziedziniec.jpg",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Zamek_dziedziniec.jpg/320px-Zamek_dziedziniec.jpg"
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Zamek_dziedziniec.jpg/320px-Zamek_dziedziniec.jpg",
+          "external": true
         }
       ]
     },
@@ -77,31 +80,32 @@
           },
           "source": "https://pl.wikipedia.org/wiki/Plik:Lublin_Don%C5%BCon_2009.jpg",
           "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Lublin_Don%C5%BCon_2009.jpg/365px-Lublin_Don%C5%BCon_2009.jpg",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Lublin_Don%C5%BCon_2009.jpg/146px-Lublin_Don%C5%BCon_2009.jpg"
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Lublin_Don%C5%BCon_2009.jpg/146px-Lublin_Don%C5%BCon_2009.jpg",
+          "external": true
         },
         {
           "caption": {
             "en": "Corridor",
             "pl": "Korytarz"
           },
-          "src": "/src/assets/views/lublin/korytarz.jpg",
-          "thumb": "/src/assets/views/lublin/korytarz_thumb.jpg"
+          "src": "/assets/photo/lublin/korytarz.jpg",
+          "thumb": "/assets/photo/lublin/korytarz_thumb.jpg"
         },
         {
           "caption": {
             "en": "Courtyard from the top of the tower",
             "pl": "Dziedziniec zamku ze szczytu baszty"
           },
-          "src": "/src/assets/views/lublin/dziedziniec.jpg",
-          "thumb": "/src/assets/views/lublin/dziedziniec_thumb.jpg"
+          "src": "/assets/photo/lublin/dziedziniec.jpg",
+          "thumb": "/assets/photo/lublin/dziedziniec_thumb.jpg"
         },
         {
           "caption": {
             "en": "Old town from the top of the tower",
             "pl": "Stare Miasto ze szczytu baszty"
           },
-          "src": "/src/assets/views/lublin/stare_miasto.jpg",
-          "thumb": "/src/assets/views/lublin/stare_miasto_thumb.jpg"
+          "src": "/assets/photo/lublin/stare_miasto.jpg",
+          "thumb": "/assets/photo/lublin/stare_miasto_thumb.jpg"
         }
       ]
     },
@@ -122,7 +126,8 @@
           },
           "source": "https://pl.wikipedia.org/wiki/Plik:Brama_Krakowska.JPG",
           "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Brama_Krakowska.JPG/401px-Brama_Krakowska.JPG",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Brama_Krakowska.JPG/160px-Brama_Krakowska.JPG"
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Brama_Krakowska.JPG/160px-Brama_Krakowska.JPG",
+          "external": true
         },
         {
           "caption": {
@@ -131,15 +136,16 @@
           },
           "source": "https://pl.wikipedia.org/wiki/Plik:Brama_Krakowska_w_Lublinie_-_schody.jpg",
           "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Brama_Krakowska_w_Lublinie_-_schody.jpg/800px-Brama_Krakowska_w_Lublinie_-_schody.jpg",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Brama_Krakowska_w_Lublinie_-_schody.jpg/320px-Brama_Krakowska_w_Lublinie_-_schody.jpg"
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Brama_Krakowska_w_Lublinie_-_schody.jpg/320px-Brama_Krakowska_w_Lublinie_-_schody.jpg",
+          "external": true
         },
         {
           "caption": {
             "en": "Goat (symbol of the city) Kazik under the gate",
             "pl": "Kozioł Kazik pod Bramą Krakowską"
           },
-          "src": "/src/assets/views/lublin/koziol.jpg",
-          "thumb": "/src/assets/views/lublin/koziol_thumb.jpg"
+          "src": "/assets/photo/lublin/koziol.jpg",
+          "thumb": "/assets/photo/lublin/koziol_thumb.jpg"
         }
       ]
     },
@@ -160,7 +166,8 @@
           },
           "source": "https://pl.wikipedia.org/wiki/Plik:Lublin_-_fotopolska.eu_(214510).jpg",
           "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Lublin_-_fotopolska.eu_%28214510%29.jpg/800px-Lublin_-_fotopolska.eu_%28214510%29.jpg",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Lublin_-_fotopolska.eu_%28214510%29.jpg/320px-Lublin_-_fotopolska.eu_%28214510%29.jpg"
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Lublin_-_fotopolska.eu_%28214510%29.jpg/320px-Lublin_-_fotopolska.eu_%28214510%29.jpg",
+          "external": true
         },
         {
           "caption": {
@@ -169,7 +176,8 @@
           },
           "source": "https://pl.wikipedia.org/wiki/Plik:Lublin,_Plac_Po_Farze,_widok_na_Zamek,_04-2009.JPG",
           "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Lublin%2C_Plac_Po_Farze%2C_widok_na_Zamek%2C_04-2009.JPG/800px-Lublin%2C_Plac_Po_Farze%2C_widok_na_Zamek%2C_04-2009.JPG",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Lublin%2C_Plac_Po_Farze%2C_widok_na_Zamek%2C_04-2009.JPG/320px-Lublin%2C_Plac_Po_Farze%2C_widok_na_Zamek%2C_04-2009.JPG"
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Lublin%2C_Plac_Po_Farze%2C_widok_na_Zamek%2C_04-2009.JPG/320px-Lublin%2C_Plac_Po_Farze%2C_widok_na_Zamek%2C_04-2009.JPG",
+          "external": true
         }
       ]
     }

@@ -16,9 +16,9 @@ const Layout = () => {
         <Styled.SkipButton />
         <Styled.LanguageSwitch />
         <Styled.Title>
-          <img src={`/src/assets/logo/logo_mid.png`} width="50" />
+          <img src={`${import.meta.env.BASE_URL}/assets/logo/logo_mid.png`} width="50" />
           {t('title', { ns: 'general' })}
-          <img src={`/src/assets/logo/logo_mid.png`} width="50" />
+          <img src={`${import.meta.env.BASE_URL}/assets/logo/logo_mid.png`} width="50" />
         </Styled.Title>
         <Navbar />
       </Styled.Header>

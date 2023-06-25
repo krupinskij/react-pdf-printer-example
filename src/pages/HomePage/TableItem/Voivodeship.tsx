@@ -11,7 +11,7 @@ const Voivodeship = ({ code }: Props) => {
   return (
     <Styled.VoivodeshipWrapper>
       <Styled.FlagImg
-        src={`/src/assets/voivodeship/flag/${code}.svg`}
+        src={`${import.meta.env.BASE_URL}/assets/flag/voivodeship/${code}.svg`}
         alt={t('flag', { ns: 'city', owner: code, context: 'voivodeship' }) as string}
       />
       <Styled.Name>{t(code, { ns: 'voivodeships' })}</Styled.Name>

@@ -9,7 +9,7 @@
       "en": "Łódź Fabryczna railway station",
       "pl": "Dworzec Łódź Fabryczna"
     },
-    "src": "/src/assets/views/lodz/lodz_fabryczna.jpg"
+    "src": "/assets/photo/lodz/lodz_fabryczna.jpg"
   },
   "attractions": [
     {
@@ -29,31 +29,32 @@
           },
           "source": "https://pl.wikipedia.org/wiki/Plik:Ulica_Piotrkowska_in_Lodz.JPG",
           "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Ulica_Piotrkowska_in_Lodz.JPG/800px-Ulica_Piotrkowska_in_Lodz.JPG",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Ulica_Piotrkowska_in_Lodz.JPG/320px-Ulica_Piotrkowska_in_Lodz.JPG"
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Ulica_Piotrkowska_in_Lodz.JPG/320px-Ulica_Piotrkowska_in_Lodz.JPG",
+          "external": true
         },
         {
           "caption": {
             "en": "Facades of bouildings",
             "pl": "Elewacje budynków przy ul. Piotrkowskiej"
           },
-          "src": "/src/assets/views/lodz/budynki.jpg",
-          "thumb": "/src/assets/views/lodz/budynki_thumb.jpg"
+          "src": "/assets/photo/lodz/budynki.jpg",
+          "thumb": "/assets/photo/lodz/budynki_thumb.jpg"
         },
         {
           "caption": {
             "en": "\"Reymont's Trunk (Kufer Reymonta)\" (Galeria Wielkich Łodzian)",
             "pl": "\"Kufer Reymonta\" (Galeria Wielkich Łodzian)"
           },
-          "src": "/src/assets/views/lodz/reymont.jpg",
-          "thumb": "/src/assets/views/lodz/reymont_thumb.jpg"
+          "src": "/assets/photo/lodz/reymont.jpg",
+          "thumb": "/assets/photo/lodz/reymont_thumb.jpg"
         },
         {
           "caption": {
             "en": "Mural near Piotrkowska Street",
             "pl": "Rekordowy mural przy Piotrkowskiej"
           },
-          "src": "/src/assets/views/lodz/mural.jpg",
-          "thumb": "/src/assets/views/lodz/mural_thumb.jpg"
+          "src": "/assets/photo/lodz/mural.jpg",
+          "thumb": "/assets/photo/lodz/mural_thumb.jpg"
         }
       ]
     },
@@ -74,7 +75,8 @@
           },
           "source": "https://pl.wikipedia.org/wiki/Plik:Lodz_manufaktura_01.jpg",
           "src": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Lodz_manufaktura_01.jpg",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Lodz_manufaktura_01.jpg"
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Lodz_manufaktura_01.jpg",
+          "external": true
         },
         {
           "caption": {
@@ -83,15 +85,16 @@
           },
           "source": "https://pl.wikipedia.org/wiki/Plik:Manufaktura29.jpg",
           "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Manufaktura29.jpg/450px-Manufaktura29.jpg",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Manufaktura29.jpg/180px-Manufaktura29.jpg"
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Manufaktura29.jpg/180px-Manufaktura29.jpg",
+          "external": true
         },
         {
           "caption": {
             "en": "Manufaktura by night",
             "pl": "Manufaktura nocą"
           },
-          "src": "/src/assets/views/lodz/manufaktura_noc.jpg",
-          "thumb": "/src/assets/views/lodz/manufaktura_noc_thumb.jpg"
+          "src": "/assets/photo/lodz/manufaktura_noc.jpg",
+          "thumb": "/assets/photo/lodz/manufaktura_noc_thumb.jpg"
         }
       ]
     },
@@ -110,8 +113,8 @@
             "en": "Outside view",
             "pl": "Widok z zewnątrz"
           },
-          "src": "/src/assets/views/lodz/kosciol_zesl_ds.jpg",
-          "thumb": "/src/assets/views/lodz/kosciol_zesl_ds_thumb.jpg"
+          "src": "/assets/photo/lodz/kosciol_zesl_ds.jpg",
+          "thumb": "/assets/photo/lodz/kosciol_zesl_ds_thumb.jpg"
         },
         {
           "caption": {
@@ -120,15 +123,16 @@
           },
           "source": "https://pl.wikipedia.org/wiki/Plik:Wn%C4%99trze_Parafii_Rzymskokatolickiej_pod_wezwaniem_Zes%C5%82ania_Ducha_%C5%9Awi%C4%99tego_w_%C5%81odzi.jpg",
           "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Wn%C4%99trze_Parafii_Rzymskokatolickiej_pod_wezwaniem_Zes%C5%82ania_Ducha_%C5%9Awi%C4%99tego_w_%C5%81odzi.jpg/800px-Wn%C4%99trze_Parafii_Rzymskokatolickiej_pod_wezwaniem_Zes%C5%82ania_Ducha_%C5%9Awi%C4%99tego_w_%C5%81odzi.jpg",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Wn%C4%99trze_Parafii_Rzymskokatolickiej_pod_wezwaniem_Zes%C5%82ania_Ducha_%C5%9Awi%C4%99tego_w_%C5%81odzi.jpg/320px-Wn%C4%99trze_Parafii_Rzymskokatolickiej_pod_wezwaniem_Zes%C5%82ania_Ducha_%C5%9Awi%C4%99tego_w_%C5%81odzi.jpg"
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Wn%C4%99trze_Parafii_Rzymskokatolickiej_pod_wezwaniem_Zes%C5%82ania_Ducha_%C5%9Awi%C4%99tego_w_%C5%81odzi.jpg/320px-Wn%C4%99trze_Parafii_Rzymskokatolickiej_pod_wezwaniem_Zes%C5%82ania_Ducha_%C5%9Awi%C4%99tego_w_%C5%81odzi.jpg",
+          "external": true
         },
         {
           "caption": {
             "en": "Altar dedicated to Blessed Virgin Mary",
             "pl": "Ołtarz poświęcony Najświętrzej Marii Pannie"
           },
-          "src": "/src/assets/views/lodz/oltarz.jpg",
-          "thumb": "/src/assets/views/lodz/oltarz_thumb.jpg"
+          "src": "/assets/photo/lodz/oltarz.jpg",
+          "thumb": "/assets/photo/lodz/oltarz_thumb.jpg"
         }
       ]
     },
@@ -149,7 +153,8 @@
           },
           "source": "https://pl.wikipedia.org/wiki/Plik:SM_%C5%81%C3%B3d%C5%BA_Cerkiew_katedralna_%C5%9Bw_Aleksandra_Newskiego_2017_(1)_ID_613040.jpg",
           "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/SM_%C5%81%C3%B3d%C5%BA_Cerkiew_katedralna_%C5%9Bw_Aleksandra_Newskiego_2017_%281%29_ID_613040.jpg/468px-SM_%C5%81%C3%B3d%C5%BA_Cerkiew_katedralna_%C5%9Bw_Aleksandra_Newskiego_2017_%281%29_ID_613040.jpg",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/SM_%C5%81%C3%B3d%C5%BA_Cerkiew_katedralna_%C5%9Bw_Aleksandra_Newskiego_2017_%281%29_ID_613040.jpg/187px-SM_%C5%81%C3%B3d%C5%BA_Cerkiew_katedralna_%C5%9Bw_Aleksandra_Newskiego_2017_%281%29_ID_613040.jpg"
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/SM_%C5%81%C3%B3d%C5%BA_Cerkiew_katedralna_%C5%9Bw_Aleksandra_Newskiego_2017_%281%29_ID_613040.jpg/187px-SM_%C5%81%C3%B3d%C5%BA_Cerkiew_katedralna_%C5%9Bw_Aleksandra_Newskiego_2017_%281%29_ID_613040.jpg",
+          "external": true
         },
         {
           "caption": {
@@ -158,7 +163,8 @@
           },
           "source": "https://pl.wikipedia.org/wiki/Plik:Cerkiew_Newskiego_w_%C5%81odzi_wn%C4%99trze.JPG",
           "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Cerkiew_Newskiego_w_%C5%81odzi_wn%C4%99trze.JPG/800px-Cerkiew_Newskiego_w_%C5%81odzi_wn%C4%99trze.JPG",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Cerkiew_Newskiego_w_%C5%81odzi_wn%C4%99trze.JPG/320px-Cerkiew_Newskiego_w_%C5%81odzi_wn%C4%99trze.JPG"
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Cerkiew_Newskiego_w_%C5%81odzi_wn%C4%99trze.JPG/320px-Cerkiew_Newskiego_w_%C5%81odzi_wn%C4%99trze.JPG",
+          "external": true
         }
       ]
     }

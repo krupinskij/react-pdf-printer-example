@@ -32,7 +32,7 @@ const Modal = ({ children, ...attr }: Props, ref: React.ForwardedRef<HTMLDialogE
   return (
     <Styled.Modal ref={ref} onClick={handleCloseModalBackdrop} {...attr}>
       <Styled.CloseButton aria-label={t('close') as string} onClick={handleCloseModal}>
-        <Styled.Icon src={`/src/assets/icon/close.svg`} />
+        <Styled.Icon src={`${import.meta.env.BASE_URL}/assets/icon/close.svg`} />
       </Styled.CloseButton>
       {children}
     </Styled.Modal>
