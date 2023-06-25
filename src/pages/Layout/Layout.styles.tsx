@@ -5,7 +5,7 @@ import SkipButtonC from './SkipButton';
 
 const sidebardWidth = '200px';
 const headerHeight = '120px';
-const footerHeight = '40px';
+const footerHeight = '50px';
 
 export const Header = styled.header`
   position: fixed;
@@ -54,6 +54,8 @@ export const Footer = styled.div`
   z-index: 2;
 
   display: flex;
+  gap: 4px;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   height: ${footerHeight};
@@ -80,4 +82,8 @@ export const LanguageSwitch = styled(LanguageSwitchC)`
   position: absolute;
   right: 10px;
   top: 5px;
+`;
+
+export const Link = styled.a`
+  color: ${({ theme }) => theme.color.font.secondary} !important;
 `;

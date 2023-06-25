@@ -9,7 +9,7 @@ import Menu from './Menu';
 import Navbar from './Navbar';
 
 const Layout = () => {
-  const { t } = useTranslation('general');
+  const { t } = useTranslation('layout');
   return (
     <>
       <Styled.Header>
@@ -17,7 +17,7 @@ const Layout = () => {
         <Styled.LanguageSwitch />
         <Styled.Title>
           <img src={`/src/assets/logo/logo_mid.png`} width="50" />
-          {t('title')}
+          {t('title', { ns: 'general' })}
           <img src={`/src/assets/logo/logo_mid.png`} width="50" />
         </Styled.Title>
         <Navbar />
@@ -31,7 +31,13 @@ const Layout = () => {
         </Suspense>
       </Styled.Main>
       <Styled.Footer>
-        <span translate="no">React PDF Printer </span>&nbsp;| {t('title')}
+        <span>
+          <Styled.Link translate="no" href="https://github.com/krupinskij/react-pdf-printer">
+            React PDF Printer
+          </Styled.Link>
+          &nbsp;| {t('title', { ns: 'general' })}
+        </span>
+        <Styled.Link href="https://www.flaticon.com/free-icons/poland">{t('icons')}</Styled.Link>
       </Styled.Footer>
     </>
   );
