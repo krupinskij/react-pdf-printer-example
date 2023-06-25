@@ -1,0 +1,161 @@
+{
+  "id": "bydgoszcz",
+  "description": {
+    "en": "Located between two rivers one of the capitals of Kuyavian-Pomeranian Voivodeship.",
+    "pl": "Położona na wodnym szlaku jedna z dwóch stolic województwa kujawsko-pomorskiego."
+  },
+  "background": {
+    "caption": {
+      "en": "\"Man crossing the River\" and granaries of the Brda River",
+      "pl": "\"Przechodzący przez rzekę\" na tle spichrzy nad Brdą"
+    },
+    "source": "https://pixabay.com/pl/photos/bydgoszcz-%d1%8d%d0%ba%d0%b2%d0%b8%d0%bb%d0%b8%d0%b1%d1%80%d0%b8%d1%81%d1%82-krajobraz-4196937/",
+    "src": "/assets/photo/bydgoszcz/spichrze.jpg"
+  },
+  "attractions": [
+    {
+      "name": {
+        "en": "Bydgoszcz Waterfront",
+        "pl": "Waterfront Bydgoszczy"
+      },
+      "description": {
+        "en": "The city is mostly associated with water.",
+        "pl": "Cechą charakterystyczną Bydgoszczy jest ekspozycja zabudowy od strony rzek i kanałów."
+      },
+      "photos": [
+        {
+          "caption": {
+            "en": "The Water Tram in center",
+            "pl": "Bydgoski Tramwaj Wodny w centrum miasta"
+          },
+          "source": "https://pl.wikipedia.org/wiki/Plik:Bdg_nabrzezepldBrdy_15_07-2013.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Bdg_nabrzezepldBrdy_15_07-2013.jpg/800px-Bdg_nabrzezepldBrdy_15_07-2013.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Bdg_nabrzezepldBrdy_15_07-2013.jpg/320px-Bdg_nabrzezepldBrdy_15_07-2013.jpg"
+        },
+        {
+          "caption": {
+            "en": "Opera Nova",
+            "pl": "Opera Nova"
+          },
+          "source": "https://pl.wikipedia.org/wiki/Plik:Bdg_OperaNova_20_07-2013.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Bdg_OperaNova_20_07-2013.jpg/795px-Bdg_OperaNova_20_07-2013.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Bdg_OperaNova_20_07-2013.jpg/318px-Bdg_OperaNova_20_07-2013.jpg"
+        },
+        {
+          "caption": {
+            "en": "Swimming equipment rental",
+            "pl": "Wypożyczalnia sprzętu pływającego"
+          },
+          "source": "https://pl.wikipedia.org/wiki/Plik:Bdg_przystanBdg_18_07-2013.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Bdg_przystanBdg_18_07-2013.jpg/800px-Bdg_przystanBdg_18_07-2013.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Bdg_przystanBdg_18_07-2013.jpg/320px-Bdg_przystanBdg_18_07-2013.jpg"
+        },
+        {
+          "caption": {
+            "en": "Bydgoszcz Venice on Mill Island",
+            "pl": "Wenecja Bydgoska na Wyspie Młyńskiej"
+          },
+          "source": "https://pl.wikipedia.org/wiki/Plik:Bdg_WenecjaB_p_5_07-2013.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Bdg_WenecjaB_p_5_07-2013.jpg/799px-Bdg_WenecjaB_p_5_07-2013.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Bdg_WenecjaB_p_5_07-2013.jpg/320px-Bdg_WenecjaB_p_5_07-2013.jpg"
+        }
+      ]
+    },
+    {
+      "name": {
+        "en": "Granaries of the Brda River",
+        "pl": "Spichrze w Bydgoszczy"
+      },
+      "description": {
+        "en": "Old granaries, currently museums, restaurants, offices. Symbols of the city.",
+        "pl": "Zabytkowe budynki magazynowe w Bydgoszczy w strefie staromiejskiej nad Brdą. Obecnie muzea, restauracje, biura."
+      },
+      "photos": [
+        {
+          "caption": {
+            "en": "Granaries on Grodzka street",
+            "pl": "Spichrze na ul. Grodzkiej"
+          },
+          "source": "https://pl.wikipedia.org/wiki/Plik:Bdg_Spichrze_5_07-2013.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Bdg_Spichrze_5_07-2013.jpg/799px-Bdg_Spichrze_5_07-2013.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Bdg_Spichrze_5_07-2013.jpg/320px-Bdg_Spichrze_5_07-2013.jpg"
+        },
+        {
+          "caption": {
+            "en": "White Granary",
+            "pl": "Biały Spichlerz"
+          },
+          "source": "https://pl.wikipedia.org/wiki/Plik:Bdg_BialySpichrz_8_07-2013.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Bdg_BialySpichrz_8_07-2013.jpg/799px-Bdg_BialySpichrz_8_07-2013.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Bdg_BialySpichrz_8_07-2013.jpg/320px-Bdg_BialySpichrz_8_07-2013.jpg"
+        },
+        {
+          "caption": {
+            "en": "Granary Old Port",
+            "pl": "Spichlerz Stary Port"
+          },
+          "source": "https://pl.wikipedia.org/wiki/Plik:Stary_Port_13_in_Bydgoszcz_(2).jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Stary_Port_13_in_Bydgoszcz_%282%29.jpg/800px-Stary_Port_13_in_Bydgoszcz_%282%29.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Stary_Port_13_in_Bydgoszcz_%282%29.jpg/320px-Stary_Port_13_in_Bydgoszcz_%282%29.jpg"
+        },
+        {
+          "caption": {
+            "en": "Red Granary",
+            "pl": "Czerwony Spichlerz"
+          },
+          "source": "https://pl.wikipedia.org/wiki/Plik:Bdg_LakaWM_21_07-2013.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Bdg_LakaWM_21_07-2013.jpg/800px-Bdg_LakaWM_21_07-2013.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Bdg_LakaWM_21_07-2013.jpg/320px-Bdg_LakaWM_21_07-2013.jpg"
+        }
+      ]
+    },
+    {
+      "name": {
+        "en": "Old Town",
+        "pl": "Stare Miasto"
+      },
+      "description": {
+        "en": "The oldest part of the city.",
+        "pl": "Najstarsza część Bydgoszczy, wywodząca się z XIV-wiecznego miasta lokacyjnego wraz z najbliższym otoczeniem."
+      },
+      "photos": [
+        {
+          "caption": {
+            "en": "Center",
+            "pl": "Centrum"
+          },
+          "source": "https://pl.wikipedia.org/wiki/Plik:W_ci%C5%9Bn_Bdg_widok_03-2013_SM_a.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/W_ci%C5%9Bn_Bdg_widok_03-2013_SM_a.jpg/798px-W_ci%C5%9Bn_Bdg_widok_03-2013_SM_a.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/W_ci%C5%9Bn_Bdg_widok_03-2013_SM_a.jpg/320px-W_ci%C5%9Bn_Bdg_widok_03-2013_SM_a.jpg"
+        },
+        {
+          "caption": {
+            "en": "Old Market",
+            "pl": "Stary Rynek"
+          },
+          "source": "https://pl.wikipedia.org/wiki/Plik:Bdg_StaryRynek_pld_8_07-2013.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Bdg_StaryRynek_pld_8_07-2013.jpg/800px-Bdg_StaryRynek_pld_8_07-2013.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Bdg_StaryRynek_pld_8_07-2013.jpg/320px-Bdg_StaryRynek_pld_8_07-2013.jpg"
+        },
+        {
+          "caption": {
+            "en": "Bydgoszcz Cathedral",
+            "pl": "Katedra św. Marcina i Mikołaja"
+          },
+          "source": "https://pl.wikipedia.org/wiki/Plik:Bydgoszcz,_Katedra_%C5%9Bw._Marcina_i_Miko%C5%82aja_w_Bydgoszczy.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Bydgoszcz%2C_Katedra_%C5%9Bw._Marcina_i_Miko%C5%82aja_w_Bydgoszczy.jpg/800px-Bydgoszcz%2C_Katedra_%C5%9Bw._Marcina_i_Miko%C5%82aja_w_Bydgoszczy.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Bydgoszcz%2C_Katedra_%C5%9Bw._Marcina_i_Miko%C5%82aja_w_Bydgoszczy.jpg/320px-Bydgoszcz%2C_Katedra_%C5%9Bw._Marcina_i_Miko%C5%82aja_w_Bydgoszczy.jpg"
+        },
+        {
+          "caption": {
+            "en": "Remains of the city walls",
+            "pl": "Pozostałości murów miejskich"
+          },
+          "source": "https://pl.wikipedia.org/wiki/Plik:Bdg_murymiejskie_3_07-2013.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Bdg_murymiejskie_3_07-2013.jpg/799px-Bdg_murymiejskie_3_07-2013.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Bdg_murymiejskie_3_07-2013.jpg/320px-Bdg_murymiejskie_3_07-2013.jpg"
+        }
+      ]
+    }
+  ]
+}

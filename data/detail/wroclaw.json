@@ -1,0 +1,164 @@
+{
+  "id": "wroclaw",
+  "description": {
+    "en": "Capital of Lower Silesia with centuries of rich history.",
+    "pl": "Stolica Dolnego Śląska o bogatej wielowiekowej historii."
+  },
+  "background": {
+    "caption": {
+      "en": "Wrocław's dwarfs",
+      "pl": "Wrocławskie krasnale"
+    },
+    "source": "https://pixabay.com/pl/photos/polska-wroc%c5%82aw-gnom-obraz-br%c4%85zowy-1442100/",
+    "src": "/assets/photo/wroclaw/krasnale.jpg"
+  },
+  "attractions": [
+    {
+      "name": {
+        "en": "Old Town",
+        "pl": "Stare Miasto"
+      },
+      "description": {
+        "en": "The oldest part of the left-bank Wrocław, originating from the thirteenth century.",
+        "pl": "Najstarsza część lewobrzeżnego Wrocławia, wywodząca się z trzynastowiecznego miasta lokacyjnego."
+      },
+      "photos": [
+        {
+          "caption": {
+            "en": "Town Hall",
+            "pl": "Ratusz we Wrocławiu"
+          },
+          "source": "https://pixabay.com/pl/photos/wroc%c5%82aw-dolny-%c5%9bl%c4%85sk-architektura-1511660/",
+          "src": "/assets/photo/wroclaw/ratusz.jpg",
+          "thumb": "/assets/photo/wroclaw/ratusz_thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Royal Palace",
+            "pl": "Pałac królewski"
+          },
+          "source": "https://pl.wikipedia.org/wiki/Plik:Prussian_royal_castle_in_Wroc%C5%82aw_2010.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prussian_royal_castle_in_Wroc%C5%82aw_2010.jpg/800px-Prussian_royal_castle_in_Wroc%C5%82aw_2010.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prussian_royal_castle_in_Wroc%C5%82aw_2010.jpg/320px-Prussian_royal_castle_in_Wroc%C5%82aw_2010.jpg"
+        }
+      ]
+    },
+    {
+      "name": {
+        "en": "Ostrów Tumski",
+        "pl": "Ostrów Tumski"
+      },
+      "description": {
+        "en": "The oldest part of the city of Wrocław.",
+        "pl": "Najstarsza, zabytkowa część Wrocławia."
+      },
+      "photos": [
+        {
+          "caption": {
+            "en": "View from Peace Bridge",
+            "pl": "Widok na Ostrów Tumski z mostu Pokoju"
+          },
+          "source": "https://pl.wikipedia.org/wiki/Plik:WROC%C5%81AW_-_OSTR%C3%93W_TUMSKI_-_panoramio.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/WROC%C5%81AW_-_OSTR%C3%93W_TUMSKI_-_panoramio.jpg/800px-WROC%C5%81AW_-_OSTR%C3%93W_TUMSKI_-_panoramio.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/WROC%C5%81AW_-_OSTR%C3%93W_TUMSKI_-_panoramio.jpg/320px-WROC%C5%81AW_-_OSTR%C3%93W_TUMSKI_-_panoramio.jpg"
+        },
+        {
+          "caption": {
+            "en": "Tumski Bridge",
+            "pl": "Most Tumski"
+          },
+          "source": "https://pl.wikipedia.org/wiki/Plik:WroclawMostTumski.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/b/b5/WroclawMostTumski.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/b/b5/WroclawMostTumski.jpg"
+        },
+        {
+          "caption": {
+            "en": "Wrocław Cathedral",
+            "pl": "Archikatedra wrocławska"
+          },
+          "source": "https://pl.wikipedia.org/wiki/Plik:Wroc%C5%82aw_-_Archikatedra_%C5%9Bw._Jana_Chrzciciela_(1).jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Wroc%C5%82aw_-_Archikatedra_%C5%9Bw._Jana_Chrzciciela_%281%29.jpg/394px-Wroc%C5%82aw_-_Archikatedra_%C5%9Bw._Jana_Chrzciciela_%281%29.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Wroc%C5%82aw_-_Archikatedra_%C5%9Bw._Jana_Chrzciciela_%281%29.jpg/158px-Wroc%C5%82aw_-_Archikatedra_%C5%9Bw._Jana_Chrzciciela_%281%29.jpg"
+        }
+      ]
+    },
+    {
+      "name": {
+        "en": "Wrocław's dwarfs",
+        "pl": "Wrocławskie krasnale"
+      },
+      "description": {
+        "en": "Small figurines that first appeared in the streets of Wrocław in 2005. Symbol of anti-communist movement.",
+        "pl": "Niewielkie rzeźby krasnali umieszczane we Wrocławiu sukcesywnie od 2005 roku. Symbole ruchu antykomunistycznego."
+      },
+      "photos": [
+        {
+          "caption": {
+            "en": "Monument of the Orange Alternative",
+            "pl": "Pomnik Pomarańczowej Alternatywy"
+          },
+          "source": "https://pl.wikipedia.org/wiki/Plik:Papa_Krasnal_(Papa_Dwarf)_Wroclaw_dwarf_02.JPG",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Papa_Krasnal_%28Papa_Dwarf%29_Wroclaw_dwarf_02.JPG/400px-Papa_Krasnal_%28Papa_Dwarf%29_Wroclaw_dwarf_02.JPG",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Papa_Krasnal_%28Papa_Dwarf%29_Wroclaw_dwarf_02.JPG/160px-Papa_Krasnal_%28Papa_Dwarf%29_Wroclaw_dwarf_02.JPG"
+        },
+        {
+          "caption": {
+            "en": "Chrapek (Snorer) near \"Patio\" hotel",
+            "pl": "Chrapek obok hotelu \"Patio\""
+          },
+          "source": "https://pl.wikipedia.org/wiki/Plik:Chrapek_(Snorer)_Wroclaw_dwarf_01.JPG",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Chrapek_%28Snorer%29_Wroclaw_dwarf_01.JPG/400px-Chrapek_%28Snorer%29_Wroclaw_dwarf_01.JPG",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Chrapek_%28Snorer%29_Wroclaw_dwarf_01.JPG/160px-Chrapek_%28Snorer%29_Wroclaw_dwarf_01.JPG"
+        },
+        {
+          "caption": {
+            "en": "Orange Alternative Dwarf Graffiti",
+            "pl": "Rysunek krasnala"
+          },
+          "source": "https://pl.wikipedia.org/wiki/Plik:Orange_Alternative_Dwarf_Graffiti_in_Wroc%C5%82aw_2014_P01.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Orange_Alternative_Dwarf_Graffiti_in_Wroc%C5%82aw_2014_P01.jpg/373px-Orange_Alternative_Dwarf_Graffiti_in_Wroc%C5%82aw_2014_P01.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Orange_Alternative_Dwarf_Graffiti_in_Wroc%C5%82aw_2014_P01.jpg/149px-Orange_Alternative_Dwarf_Graffiti_in_Wroc%C5%82aw_2014_P01.jpg"
+        }
+      ]
+    },
+    {
+      "name": {
+        "en": "Wrocław Zoo",
+        "pl": "Ogród Zoologiczny we Wrocławiu"
+      },
+      "description": {
+        "en": "The oldest and the largest (in terms of the number of animals) zoo in Poland.",
+        "pl": "Najstarszy i największy pod względem liczby zwierząt ogród zoologiczny w Polsce."
+      },
+      "photos": [
+        {
+          "caption": {
+            "en": "The main entrance",
+            "pl": "Główna brama wejściowa do Zoo"
+          },
+          "source": "https://pl.wikipedia.org/wiki/Plik:1935_Brama_g%C5%82%C3%B3wna_teren%C3%B3w_wystawowych.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/1935_Brama_g%C5%82%C3%B3wna_teren%C3%B3w_wystawowych.jpg/800px-1935_Brama_g%C5%82%C3%B3wna_teren%C3%B3w_wystawowych.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/1935_Brama_g%C5%82%C3%B3wna_teren%C3%B3w_wystawowych.jpg/320px-1935_Brama_g%C5%82%C3%B3wna_teren%C3%B3w_wystawowych.jpg"
+        },
+        {
+          "caption": {
+            "en": "Meerkat",
+            "pl": "Surykatka"
+          },
+          "source": "https://pl.wikipedia.org/wiki/Plik:Wroc%C5%82aw,_Miejski_Ogr%C3%B3d_Zoologiczny_-_fotopolska.eu_(259320).jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Wroc%C5%82aw%2C_Miejski_Ogr%C3%B3d_Zoologiczny_-_fotopolska.eu_%28259320%29.jpg/800px-Wroc%C5%82aw%2C_Miejski_Ogr%C3%B3d_Zoologiczny_-_fotopolska.eu_%28259320%29.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Wroc%C5%82aw%2C_Miejski_Ogr%C3%B3d_Zoologiczny_-_fotopolska.eu_%28259320%29.jpg/320px-Wroc%C5%82aw%2C_Miejski_Ogr%C3%B3d_Zoologiczny_-_fotopolska.eu_%28259320%29.jpg"
+        },
+        {
+          "caption": {
+            "en": "The largest tank of the Afrykarium",
+            "pl": "Przeszklony, podwodny tunel w Afrykarium"
+          },
+          "source": "https://pl.wikipedia.org/wiki/Plik:Afrykarium_tunel.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Afrykarium_tunel.jpg/800px-Afrykarium_tunel.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Afrykarium_tunel.jpg/320px-Afrykarium_tunel.jpg"
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,0 @@
-const o="radom",a="pl-14",i=111.71,p=197848,t={x:68.7539,y:58.406},n=!0,s={id:o,voivodeship:a,area:111.71,population:197848,position:t,onlyCoa:n};export{i as area,s as default,o as id,n as onlyCoa,p as population,t as position,a as voivodeship};

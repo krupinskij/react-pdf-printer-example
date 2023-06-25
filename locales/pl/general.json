@@ -1,0 +1,32 @@
+{
+  "title": "Największe Miasta w Polsce",
+  "number": "{{ val, number }}",
+  "float": "{{ val, number(minimumFractionDigits: 2) }}",
+  "loading": "Ładowanie",
+  "error": "Wystąpił błąd!",
+  "refresh": "Odśwież",
+  "image": {
+    "source": "Źródło",
+    "private": "Zbiór własny",
+    "preview": "Otwórz podgląd"
+  },
+  "modal": {
+    "close": "Zamknij modal"
+  },
+  "skip": "Pomiń nawigację",
+  "poland": {
+    "map": "Mapa polski",
+    "flag": "Flaga polski",
+    "lang": {
+      "choose": "Przetłumacz stronę na język polski"
+    }
+  },
+  "english": {
+    "lang": {
+      "choose": "Przetłumacz stronę na język angielski"
+    }
+  },
+  "br-am": {
+    "flag": "Flaga brytyjsko-amerykańska"
+  }
+}

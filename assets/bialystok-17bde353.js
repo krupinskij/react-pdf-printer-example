@@ -1,1 +1,0 @@
-const o="bialystok",t="Białystok",a="pl-20",s=102.13,n=292600,i={x:87.3416,y:31.765},p={id:o,name:t,voivodeship:a,area:102.13,population:292600,position:i};export{s as area,p as default,o as id,t as name,n as population,i as position,a as voivodeship};

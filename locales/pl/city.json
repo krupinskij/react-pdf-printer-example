@@ -1,0 +1,8 @@
+{
+  "coa_city": "Herb $t({{owner}}, { \"context\": \"gen\", \"ns\": \"cities\"})",
+  "coa_voivodeship": "Herb województwa $t({{owner}}, { \"context\": \"gen\", \"ns\": \"voivodeships\"})",
+  "flag_city": "Flaga $t({{owner}}, { \"context\": \"gen\", \"ns\": \"cities\"})",
+  "flag_voivodeship": "Flaga województwa $t({{owner}}, { \"context\": \"gen\", \"ns\": \"voivodeships\"})",
+  "coa-flag_city": "Herb i flaga $t({{owner}}, { \"context\": \"gen\", \"ns\": \"cities\"})",
+  "coa-flag_voivodeship": "Herb i flaga województwa $t({{owner}}, { \"context\": \"gen\", \"ns\": \"voivodeships\"})"
+}

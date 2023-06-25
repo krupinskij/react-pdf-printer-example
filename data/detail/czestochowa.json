@@ -1,0 +1,191 @@
+{
+  "id": "czestochowa",
+  "description": {
+    "en": "Destination of many pilgrims from all over the world. City symbolic of patriotism.",
+    "pl": "Cel wielu pielgrzymek z Polski i całego świata. Miasto-symbol patriotyzmu."
+  },
+  "background": {
+    "caption": {
+      "en": "Saint Mary Avenue",
+      "pl": "Aleja Najświętszej Maryi Panny"
+    },
+    "source": "https://pixabay.com/pl/photos/cz%c4%99stochowa-deptak-aleja-miasto-5326068/",
+    "src": "/assets/photo/czestochowa/deptak.jpg"
+  },
+  "attractions": [
+    {
+      "name": {
+        "en": "Jasna Góra Monastery",
+        "pl": "Jasna Góra"
+      },
+      "description": {
+        "en": "Shrine dedicated to the Virgin Mary and one of the country's places of pilgrimage.",
+        "pl": "Sanktuarium wraz z klasztorem zakonu paulinów w Częstochowie, położone na wzgórzu o tej samej nazwie."
+      },
+      "photos": [
+        {
+          "caption": {
+            "en": "Shrine building",
+            "pl": "Budynek Sanktuarium"
+          },
+          "source": "https://en.wikipedia.org/wiki/File:Cz%C4%99stochowa_klasztor_Jasna_G%C3%B3ra-2162.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cz%C4%99stochowa_klasztor_Jasna_G%C3%B3ra-2162.jpg/800px-Cz%C4%99stochowa_klasztor_Jasna_G%C3%B3ra-2162.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cz%C4%99stochowa_klasztor_Jasna_G%C3%B3ra-2162.jpg/320px-Cz%C4%99stochowa_klasztor_Jasna_G%C3%B3ra-2162.jpg"
+        },
+        {
+          "caption": {
+            "en": "The main nave of the basilica ",
+            "pl": "Nawa główna bazyliki"
+          },
+          "source": "https://pl.wikipedia.org/wiki/Plik:Czestochowa-bazylika.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Czestochowa-bazylika.jpg/389px-Czestochowa-bazylika.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Czestochowa-bazylika.jpg/155px-Czestochowa-bazylika.jpg"
+        },
+        {
+          "caption": {
+            "en": "Main Altar",
+            "pl": "Ołtarz Główny"
+          },
+          "source": "https://en.wikipedia.org/wiki/File:O%C5%82tarz_g%C5%82%C3%B3wny_Bazyliki_Jasnog%C3%B3rskiej.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/O%C5%82tarz_g%C5%82%C3%B3wny_Bazyliki_Jasnog%C3%B3rskiej.jpg/450px-O%C5%82tarz_g%C5%82%C3%B3wny_Bazyliki_Jasnog%C3%B3rskiej.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/O%C5%82tarz_g%C5%82%C3%B3wny_Bazyliki_Jasnog%C3%B3rskiej.jpg/180px-O%C5%82tarz_g%C5%82%C3%B3wny_Bazyliki_Jasnog%C3%B3rskiej.jpg"
+        },
+        {
+          "caption": {
+            "en": "View of the main altar in the chapel with the image of the Black Madonna of Częstochowa",
+            "pl": "Widok na ołtarz główny w kaplicy z obrazem Matki Boskiej Częstochowskiej"
+          },
+          "source": "https://pl.wikipedia.org/wiki/Plik:Cz%C4%99stochowa_-_Jasna_G%C3%B3ra,_Kaplica_Naj%C5%9Bwi%C4%99tszej_Marii_Panny_AL15.JPG",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Cz%C4%99stochowa_-_Jasna_G%C3%B3ra%2C_Kaplica_Naj%C5%9Bwi%C4%99tszej_Marii_Panny_AL15.JPG/450px-Cz%C4%99stochowa_-_Jasna_G%C3%B3ra%2C_Kaplica_Naj%C5%9Bwi%C4%99tszej_Marii_Panny_AL15.JPG",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Cz%C4%99stochowa_-_Jasna_G%C3%B3ra%2C_Kaplica_Naj%C5%9Bwi%C4%99tszej_Marii_Panny_AL15.JPG/180px-Cz%C4%99stochowa_-_Jasna_G%C3%B3ra%2C_Kaplica_Naj%C5%9Bwi%C4%99tszej_Marii_Panny_AL15.JPG"
+        },
+        {
+          "caption": {
+            "en": "The image of the Black Madonna of Częstochowa, also known as \"Our Lady of Częstochowa\"",
+            "pl": "Obraz w ujęciu ołtarzowym w kaplicy Matki Bożej"
+          },
+          "source": "https://pl.wikipedia.org/wiki/Plik:Czestochowa_MB_Czestochowska.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Czestochowa_MB_Czestochowska.jpg/386px-Czestochowa_MB_Czestochowska.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Czestochowa_MB_Czestochowska.jpg/154px-Czestochowa_MB_Czestochowska.jpg"
+        }
+      ]
+    },
+    {
+      "name": {
+        "en": "Jasna Góra Parks",
+        "pl": "Parki podjasnogórskie"
+      },
+      "description": {
+        "en": "Two city parks (Stanisław Staszic Park and 3 May Park) located in the city centre, on the slope of Jasna Góra Hill.",
+        "pl": "Dwa parki miejskie w Częstochowie, w dzielnicy Podjasnogórskiej: Park im. Stanisława Staszica oraz Park 3 Maja"
+      },
+      "photos": [
+        {
+          "caption": {
+            "en": "Parks seen from Jasna Góra",
+            "pl": "Parki widziane z Jasnej Góry"
+          },
+          "source": "https://pl.wikipedia.org/wiki/Plik:Panorama_of_Cz%C4%99stochowa.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Panorama_of_Cz%C4%99stochowa.jpg/800px-Panorama_of_Cz%C4%99stochowa.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Panorama_of_Cz%C4%99stochowa.jpg/800px-Panorama_of_Cz%C4%99stochowa.jpg"
+        },
+        {
+          "caption": {
+            "en": "Stanisław Staszic Park",
+            "pl": "Park Staszica"
+          },
+          "source": "https://en.wikipedia.org/wiki/File:Park_Staszica_Cz%C4%99stochowa.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Park_Staszica_Cz%C4%99stochowa.jpg/800px-Park_Staszica_Cz%C4%99stochowa.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Park_Staszica_Cz%C4%99stochowa.jpg/320px-Park_Staszica_Cz%C4%99stochowa.jpg"
+        },
+        {
+          "caption": {
+            "en": "Fountain in Stanisław Staszic Park",
+            "pl": "Fontanna w Parku Staszica"
+          },
+          "source": "https://pl.wikipedia.org/wiki/Plik:Cz%C4%99stochowa_Park_Staszica_Fontanna.JPG",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Cz%C4%99stochowa_Park_Staszica_Fontanna.JPG/800px-Cz%C4%99stochowa_Park_Staszica_Fontanna.JPG",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Cz%C4%99stochowa_Park_Staszica_Fontanna.JPG/320px-Cz%C4%99stochowa_Park_Staszica_Fontanna.JPG"
+        },
+        {
+          "caption": {
+            "en": "3 May Park",
+            "pl": "Park 3 Maja"
+          },
+          "source": "https://pl.wikipedia.org/wiki/Plik:Park_3_maja_w_Cz%C4%99stochowie.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Park_3_maja_w_Cz%C4%99stochowie.jpg/800px-Park_3_maja_w_Cz%C4%99stochowie.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Park_3_maja_w_Cz%C4%99stochowie.jpg/320px-Park_3_maja_w_Cz%C4%99stochowie.jpg"
+        }
+      ]
+    },
+    {
+      "name": {
+        "en": "Częstochowa Museum",
+        "pl": "Muzeum Częstochowskie"
+      },
+      "description": {
+        "en": "The oldest cultural institution of the region.",
+        "pl": "Najstarsza instytucja kulturalna regionu częstochowskiego."
+      },
+      "photos": [
+        {
+          "caption": {
+            "en": "Town Hall",
+            "pl": "Ratusz"
+          },
+          "source": "https://pl.wikipedia.org/wiki/Plik:1%262DM_Workshop_Cz%C4%99stochowa.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/1%262DM_Workshop_Cz%C4%99stochowa.jpg/800px-1%262DM_Workshop_Cz%C4%99stochowa.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/1%262DM_Workshop_Cz%C4%99stochowa.jpg/320px-1%262DM_Workshop_Cz%C4%99stochowa.jpg"
+        },
+        {
+          "caption": {
+            "en": "Galeria Dobrej Sztuki",
+            "pl": "Galeria Dobrej Sztuki"
+          },
+          "source": "https://pl.wikipedia.org/wiki/Plik:Pa%C5%82ac_biskupi_Cz%C4%99stochowa.JPG",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Pa%C5%82ac_biskupi_Cz%C4%99stochowa.JPG/800px-Pa%C5%82ac_biskupi_Cz%C4%99stochowa.JPG",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Pa%C5%82ac_biskupi_Cz%C4%99stochowa.JPG/320px-Pa%C5%82ac_biskupi_Cz%C4%99stochowa.JPG"
+        },
+        {
+          "caption": {
+            "en": "Museum of Iron Ore Mining",
+            "pl": "Muzeum Górnictwa Rud Żelaza"
+          },
+          "source": "https://pl.wikipedia.org/wiki/Plik:MGRZ3.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/MGRZ3.jpg/800px-MGRZ3.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/MGRZ3.jpg/320px-MGRZ3.jpg"
+        }
+      ]
+    },
+    {
+      "name": {
+        "en": "Old Market",
+        "pl": "Stary Rynek"
+      },
+      "description": {
+        "en": "One of the Częstochowa squares located in Old Town.",
+        "pl": "Jeden z placów Częstochowy położony w dzielnicy Stare Miasto"
+      },
+      "photos": [
+        {
+          "caption": {
+            "en": "Old Market",
+            "pl": "Stary Rynek"
+          },
+          "source": "https://pl.wikipedia.org/wiki/Plik:Cz%C4%99stochowa_4IX05_06.JPG",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Cz%C4%99stochowa_4IX05_06.JPG/800px-Cz%C4%99stochowa_4IX05_06.JPG",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Cz%C4%99stochowa_4IX05_06.JPG/320px-Cz%C4%99stochowa_4IX05_06.JPG"
+        },
+        {
+          "caption": {
+            "en": "North frontage",
+            "pl": "Północna pierzeja"
+          },
+          "source": "https://pl.wikipedia.org/wiki/Plik:Cz%C4%99stochowa_Stary_Rynek_p%C3%B3%C5%82nocna_pierzeja_19.08.09_p.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Cz%C4%99stochowa_Stary_Rynek_p%C3%B3%C5%82nocna_pierzeja_19.08.09_p.jpg/800px-Cz%C4%99stochowa_Stary_Rynek_p%C3%B3%C5%82nocna_pierzeja_19.08.09_p.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Cz%C4%99stochowa_Stary_Rynek_p%C3%B3%C5%82nocna_pierzeja_19.08.09_p.jpg/320px-Cz%C4%99stochowa_Stary_Rynek_p%C3%B3%C5%82nocna_pierzeja_19.08.09_p.jpg"
+        }
+      ]
+    }
+  ]
+}

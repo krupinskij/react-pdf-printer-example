@@ -1,0 +1,143 @@
+{
+  "id": "bialystok",
+  "description": {
+    "en": "Green and multicultural city of north-east Poland.",
+    "pl": "Zielone i wielokulturowe miasto północno-wschodniej Polski."
+  },
+  "background": {
+    "caption": {
+      "en": "Branicki Palace",
+      "pl": "Pałac Branickich"
+    },
+    "source": "https://pixabay.com/pl/photos/pa%c5%82ac-branickich-bia%c5%82ystok-4398369/",
+    "src": "/assets/photo/bialystok/palac.jpg"
+  },
+  "attractions": [
+    {
+      "name": {
+        "en": "Baroque palace park in Białystok.",
+        "pl": "Zespół pałacowo-parkowy Branickich"
+      },
+      "description": {
+        "en": "aroque palace park in Białystok.",
+        "pl": "Barokowy park pałacowy w Białymstoku. Jedna z najlepiej zachowanych rezydencji magnackich epoki saskiej w Polsce."
+      },
+      "photos": [
+        {
+          "caption": {
+            "en": "Branicki Palace",
+            "pl": "Pałac Branickich"
+          },
+          "source": "https://pixabay.com/pl/photos/polska-bia%c5%82ystok-pa%c5%82ac-branickich-6238991/",
+          "src": "/assets/photo/bialystok/dziedziniec.jpg",
+          "thumb": "/assets/photo/bialystok/dziedziniec_thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "French Garden",
+            "pl": "Ogród Francuski"
+          },
+          "source": "https://pl.wikipedia.org/wiki/Plik:Ogr%C3%B3d_czesc_zach.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Ogr%C3%B3d_czesc_zach.jpg/800px-Ogr%C3%B3d_czesc_zach.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Ogr%C3%B3d_czesc_zach.jpg/320px-Ogr%C3%B3d_czesc_zach.jpg"
+        },
+        {
+          "caption": {
+            "en": "Gryf Gate",
+            "pl": "Brama Gryfa"
+          },
+          "source": "https://pl.wikipedia.org/wiki/Plik:Bia%C5%82ystok_Pa%C5%82ac_Branickich_brama_5.JPG",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Bia%C5%82ystok_Pa%C5%82ac_Branickich_brama_5.JPG/800px-Bia%C5%82ystok_Pa%C5%82ac_Branickich_brama_5.JPG",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Bia%C5%82ystok_Pa%C5%82ac_Branickich_brama_5.JPG/320px-Bia%C5%82ystok_Pa%C5%82ac_Branickich_brama_5.JPG"
+        }
+      ]
+    },
+    {
+      "name": {
+        "en": "Kościuszko Square",
+        "pl": "Rynek Kościuszki"
+      },
+      "description": {
+        "en": "The representative and central square of Białystok.",
+        "pl": "Reprezentacyjna promenada położona w centrum Białegostoku."
+      },
+      "photos": [
+        {
+          "caption": {
+            "en": "Kościuszko Square",
+            "pl": "Rynek Kościuszki"
+          },
+          "source": "https://en.wikipedia.org/wiki/File:6325_August_2019_in_Bialystok.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/6325_August_2019_in_Bialystok.jpg/800px-6325_August_2019_in_Bialystok.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/6325_August_2019_in_Bialystok.jpg/320px-6325_August_2019_in_Bialystok.jpg"
+        },
+        {
+          "caption": {
+            "en": "Town Hall",
+            "pl": "Ratusz"
+          },
+          "source": "https://pl.wikipedia.org/wiki/Plik:Bialystok_-_ratusz_miejski_fc05.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Bialystok_-_ratusz_miejski_fc05.jpg/800px-Bialystok_-_ratusz_miejski_fc05.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Bialystok_-_ratusz_miejski_fc05.jpg/320px-Bialystok_-_ratusz_miejski_fc05.jpg"
+        },
+        {
+          "caption": {
+            "en": "Fountain and Town Hall by night",
+            "pl": "Fontanna i Ratusz nocą"
+          },
+          "source": "https://pl.wikipedia.org/wiki/Plik:Fontanna_i_Ratusz,_Rynek_Ko%C5%9Bciuszki,_Bia%C5%82ystok_noc%C4%85_2011.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Fontanna_i_Ratusz%2C_Rynek_Ko%C5%9Bciuszki%2C_Bia%C5%82ystok_noc%C4%85_2011.jpg/800px-Fontanna_i_Ratusz%2C_Rynek_Ko%C5%9Bciuszki%2C_Bia%C5%82ystok_noc%C4%85_2011.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Fontanna_i_Ratusz%2C_Rynek_Ko%C5%9Bciuszki%2C_Bia%C5%82ystok_noc%C4%85_2011.jpg/320px-Fontanna_i_Ratusz%2C_Rynek_Ko%C5%9Bciuszki%2C_Bia%C5%82ystok_noc%C4%85_2011.jpg"
+        }
+      ]
+    },
+    {
+      "name": {
+        "en": "The Cathedral Basilica of the Assumption of the Blessed Virgin Mary",
+        "pl": "Bazylika archikatedralna Wniebowzięcia Najświętszej Maryi Panny"
+      },
+      "description": {
+        "en": "Complex of temples of two connected churches: old (from XVII century) and new (from XX century)",
+        "pl": "Zespół świątynny, złożony z dwóch połączonych ze sobą budynków kościelnych: starego (z XVII wieku) oraz nowego (z XX wieku)"
+      },
+      "photos": [
+        {
+          "caption": {
+            "en": "Old (front) and new church",
+            "pl": "Stary (z przodu) i nowy kościół zespołu bazyliki archikatedralnej"
+          },
+          "source": "https://pl.wikipedia.org/wiki/Plik:Zesp%C3%B3%C5%82_bazyliki_archikatedralnej_Wniebowzi%C4%99cia_NMP_w_Bia%C5%82ymstoku_(2010).JPG",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Zesp%C3%B3%C5%82_bazyliki_archikatedralnej_Wniebowzi%C4%99cia_NMP_w_Bia%C5%82ymstoku_%282010%29.JPG/576px-Zesp%C3%B3%C5%82_bazyliki_archikatedralnej_Wniebowzi%C4%99cia_NMP_w_Bia%C5%82ymstoku_%282010%29.JPG",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Zesp%C3%B3%C5%82_bazyliki_archikatedralnej_Wniebowzi%C4%99cia_NMP_w_Bia%C5%82ymstoku_%282010%29.JPG/231px-Zesp%C3%B3%C5%82_bazyliki_archikatedralnej_Wniebowzi%C4%99cia_NMP_w_Bia%C5%82ymstoku_%282010%29.JPG"
+        },
+        {
+          "caption": {
+            "en": "Altar of old church",
+            "pl": "Ołtarz starego kościoła"
+          },
+          "source": "https://pl.wikipedia.org/wiki/Plik:Bia%C5%82ystok,_o%C5%82tarz_starego_ko%C5%9Bcio%C5%82a_farnego.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bia%C5%82ystok%2C_o%C5%82tarz_starego_ko%C5%9Bcio%C5%82a_farnego.jpg/800px-Bia%C5%82ystok%2C_o%C5%82tarz_starego_ko%C5%9Bcio%C5%82a_farnego.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bia%C5%82ystok%2C_o%C5%82tarz_starego_ko%C5%9Bcio%C5%82a_farnego.jpg/320px-Bia%C5%82ystok%2C_o%C5%82tarz_starego_ko%C5%9Bcio%C5%82a_farnego.jpg"
+        },
+        {
+          "caption": {
+            "en": "Façade of Białystok Cathedral",
+            "pl": "Fasada archikatedry białostockiej"
+          },
+          "source": "https://pl.wikipedia.org/wiki/Plik:Minor_basilica_in_Bialystok_1.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Minor_basilica_in_Bialystok_1.jpg/450px-Minor_basilica_in_Bialystok_1.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Minor_basilica_in_Bialystok_1.jpg/180px-Minor_basilica_in_Bialystok_1.jpg"
+        },
+        {
+          "caption": {
+            "en": "Inner of Basilica",
+            "pl": "Wnętrze archikatedry"
+          },
+          "source": "https://pl.wikipedia.org/wiki/Plik:Bialystok_katedra_fc02.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Bialystok_katedra_fc02.jpg/450px-Bialystok_katedra_fc02.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Bialystok_katedra_fc02.jpg/180px-Bialystok_katedra_fc02.jpg"
+        }
+      ]
+    }
+  ]
+}

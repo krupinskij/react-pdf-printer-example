@@ -1,1 +1,0 @@
-const o="katowice",i="pl-24",a=164.64,p=280190,t={x:48.8188,y:75.9359},n={id:o,voivodeship:i,area:164.64,population:280190,position:t};export{a as area,n as default,o as id,p as population,t as position,i as voivodeship};

@@ -1,0 +1,8 @@
+{
+  "id": "bialystok",
+  "name": "Białystok",
+  "voivodeship": "pl-20",
+  "area": 102.13,
+  "population": 292600,
+  "position": { "x": 87.3416, "y": 31.765 }
+}

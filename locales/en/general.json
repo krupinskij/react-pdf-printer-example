@@ -1,0 +1,32 @@
+{
+  "title": "The Largest Cities in Poland",
+  "number": "{{ val, number }}",
+  "float": "{{ val, number(minimumFractionDigits: 2) }}",
+  "loading": "Loading",
+  "error": "Error occured!",
+  "refresh": "Refresh",
+  "image": {
+    "source": "Source",
+    "private": "Private collection",
+    "preview": "Open preview"
+  },
+  "modal": {
+    "close": "Close modal"
+  },
+  "skip": "Skip navigation",
+  "poland": {
+    "map": "Map of Poland",
+    "flag": "Polish flag",
+    "lang": {
+      "choose": "Translate to Polish language"
+    }
+  },
+  "english": {
+    "lang": {
+      "choose": "Translate to English language"
+    }
+  },
+  "br-am": {
+    "flag": "British-american flag"
+  }
+}

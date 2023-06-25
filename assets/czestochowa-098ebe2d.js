@@ -1,1 +1,0 @@
-const o="czestochowa",t="pl-24",i=160,s=208282,a={x:49.891,y:67.4188},p={id:o,voivodeship:t,area:160,population:208282,position:a};export{i as area,p as default,o as id,s as population,a as position,t as voivodeship};

@@ -1,0 +1,9 @@
+{
+  "column": {
+    "name": "Name",
+    "voivodeship": "Voivodeship",
+    "population": "Population",
+    "area": "Area (km²)"
+  },
+  "print": "Print"
+}
