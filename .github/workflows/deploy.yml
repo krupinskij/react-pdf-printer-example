@@ -1,18 +1,28 @@
-name: deploy
+name: Build and deploy
 
 on:
   push:
-    branches: master
+    branches:
+      - master
 
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-node@v3
+      - name: Checkout
+        uses: actions/checkout@master
         with:
-          node-version: '18'
-      - run: yarn install --frozen-lockfile
-      - run: git config --global user.email "$(git log -n 1 --pretty=format:%ae)"
-      - run: git config --global user.name "$(git log -n 1 --pretty=format:%an)"
-      - run: yarn deploy
+          persist-credentials: false
+
+      - name: Install
+        run: yarn install
+
+      - name: Build
+        run: yarn build
+
+      - name: Deploy to GH Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: public
