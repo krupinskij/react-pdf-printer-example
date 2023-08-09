@@ -19,7 +19,7 @@
         "pl": "Zespół pałacowo-parkowy Branickich"
       },
       "description": {
-        "en": "aroque palace park in Białystok.",
+        "en": "Baroque palace park in Białystok.",
         "pl": "Barokowy park pałacowy w Białymstoku. Jedna z najlepiej zachowanych rezydencji magnackich epoki saskiej w Polsce."
       },
       "photos": [
@@ -37,10 +37,32 @@
             "en": "French Garden",
             "pl": "Ogród Francuski"
           },
-          "source": "https://pl.wikipedia.org/wiki/Plik:Ogr%C3%B3d_czesc_zach.jpg",
-          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Ogr%C3%B3d_czesc_zach.jpg/800px-Ogr%C3%B3d_czesc_zach.jpg",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Ogr%C3%B3d_czesc_zach.jpg/320px-Ogr%C3%B3d_czesc_zach.jpg",
-          "external": true
+          "src": "/assets/photo/bialystok/ogrod_francuski.jpg",
+          "thumb": "/assets/photo/bialystok/ogrod_francuski_thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "French Garden",
+            "pl": "Ogród Francuski"
+          },
+          "src": "/assets/photo/bialystok/ogrod_francuski_2.jpg",
+          "thumb": "/assets/photo/bialystok/ogrod_francuski_2_thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Arbor",
+            "pl": "Altana"
+          },
+          "src": "/assets/photo/bialystok/altana.jpg",
+          "thumb": "/assets/photo/bialystok/altana_thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "French Garden's fountain",
+            "pl": "Fontanna w Ogrodzie Francuskim"
+          },
+          "src": "/assets/photo/bialystok/ogrod_francuski_fontanna.jpg",
+          "thumb": "/assets/photo/bialystok/ogrod_francuski_fontanna_thumb.jpg"
         },
         {
           "caption": {
@@ -66,16 +88,6 @@
       "photos": [
         {
           "caption": {
-            "en": "Kościuszko Square",
-            "pl": "Rynek Kościuszki"
-          },
-          "source": "https://en.wikipedia.org/wiki/File:6325_August_2019_in_Bialystok.jpg",
-          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/6325_August_2019_in_Bialystok.jpg/800px-6325_August_2019_in_Bialystok.jpg",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/6325_August_2019_in_Bialystok.jpg/320px-6325_August_2019_in_Bialystok.jpg",
-          "external": true
-        },
-        {
-          "caption": {
             "en": "Town Hall",
             "pl": "Ratusz"
           },
@@ -86,13 +98,27 @@
         },
         {
           "caption": {
-            "en": "Fountain and Town Hall by night",
-            "pl": "Fontanna i Ratusz nocą"
+            "en": "Fountain",
+            "pl": "Fontanna"
           },
-          "source": "https://pl.wikipedia.org/wiki/Plik:Fontanna_i_Ratusz,_Rynek_Ko%C5%9Bciuszki,_Bia%C5%82ystok_noc%C4%85_2011.jpg",
-          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Fontanna_i_Ratusz%2C_Rynek_Ko%C5%9Bciuszki%2C_Bia%C5%82ystok_noc%C4%85_2011.jpg/800px-Fontanna_i_Ratusz%2C_Rynek_Ko%C5%9Bciuszki%2C_Bia%C5%82ystok_noc%C4%85_2011.jpg",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Fontanna_i_Ratusz%2C_Rynek_Ko%C5%9Bciuszki%2C_Bia%C5%82ystok_noc%C4%85_2011.jpg/320px-Fontanna_i_Ratusz%2C_Rynek_Ko%C5%9Bciuszki%2C_Bia%C5%82ystok_noc%C4%85_2011.jpg",
-          "external": true
+          "src": "/assets/photo/bialystok/fontanna.jpg",
+          "thumb": "/assets/photo/bialystok/fontanna_thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "#Białystok hashtag",
+            "pl": "Hasztag #Białystok"
+          },
+          "src": "/assets/photo/bialystok/napis.jpg",
+          "thumb": "/assets/photo/bialystok/napis_thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Józef Piłsudski monument in front of Cekhauz",
+            "pl": "Pomnik Józefa Piłsudskiego przed Cekhauzem"
+          },
+          "src": "/assets/photo/bialystok/pilsudski.jpg",
+          "thumb": "/assets/photo/bialystok/pilsudski_thumb.jpg"
         }
       ]
     },
@@ -118,16 +144,6 @@
         },
         {
           "caption": {
-            "en": "Altar of old church",
-            "pl": "Ołtarz starego kościoła"
-          },
-          "source": "https://pl.wikipedia.org/wiki/Plik:Bia%C5%82ystok,_o%C5%82tarz_starego_ko%C5%9Bcio%C5%82a_farnego.jpg",
-          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bia%C5%82ystok%2C_o%C5%82tarz_starego_ko%C5%9Bcio%C5%82a_farnego.jpg/800px-Bia%C5%82ystok%2C_o%C5%82tarz_starego_ko%C5%9Bcio%C5%82a_farnego.jpg",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bia%C5%82ystok%2C_o%C5%82tarz_starego_ko%C5%9Bcio%C5%82a_farnego.jpg/320px-Bia%C5%82ystok%2C_o%C5%82tarz_starego_ko%C5%9Bcio%C5%82a_farnego.jpg",
-          "external": true
-        },
-        {
-          "caption": {
             "en": "Façade of Białystok Cathedral",
             "pl": "Fasada archikatedry białostockiej"
           },
@@ -138,13 +154,217 @@
         },
         {
           "caption": {
+            "en": "John Paul II monument",
+            "pl": "Pomnik Jana Pawła II"
+          },
+          "src": "/assets/photo/bialystok/janpawel2.jpg",
+          "thumb": "/assets/photo/bialystok/janpawel2_thumb.jpg"
+        },
+        {
+          "caption": {
             "en": "Inner of Basilica",
             "pl": "Wnętrze archikatedry"
           },
-          "source": "https://pl.wikipedia.org/wiki/Plik:Bialystok_katedra_fc02.jpg",
-          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Bialystok_katedra_fc02.jpg/450px-Bialystok_katedra_fc02.jpg",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Bialystok_katedra_fc02.jpg/180px-Bialystok_katedra_fc02.jpg",
+          "src": "/assets/photo/bialystok/wnetrze_bazyliki.jpg",
+          "thumb": "/assets/photo/bialystok/wnetrze_bazyliki_thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Stained glass window",
+            "pl": "Witraże"
+          },
+          "src": "/assets/photo/bialystok/witraze.jpg",
+          "thumb": "/assets/photo/bialystok/witraze_thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Stained glass window",
+            "pl": "Witraże"
+          },
+          "src": "/assets/photo/bialystok/witraze_2.jpg",
+          "thumb": "/assets/photo/bialystok/witraze_2_thumb.jpg"
+        }
+      ]
+    },
+    {
+      "name": {
+        "en": "St. Roch's Church",
+        "pl": "Bazylika św. Rocha"
+      },
+      "description": {
+        "en": "Church-Monument of Poland's Regained Independence",
+        "pl": "Kościół rzymskokatolicki ufundowany jako pomnik Odzyskania Niepodległości"
+      },
+      "photos": [
+        {
+          "caption": {
+            "en": "St. Roch's Church from distance",
+            "pl": "Bazylika św. Rocha z dystansu"
+          },
+          "src": "/assets/photo/bialystok/bazylika_rocha.jpg",
+          "thumb": "/assets/photo/bialystok/bazylika_rocha_thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "St. Roch's Church",
+            "pl": "Bazylika św. Rocha"
+          },
+          "src": "/assets/photo/bialystok/bazylika_rocha_bok.jpg",
+          "thumb": "/assets/photo/bialystok/bazylika_rocha_bok_thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Front of St. Roch's Church",
+            "pl": "Bazylika św. Rocha z przodu"
+          },
+          "src": "/assets/photo/bialystok/bazylika_rocha_front.jpg",
+          "thumb": "/assets/photo/bialystok/bazylika_rocha_front_thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Inner of Basilica",
+            "pl": "Wnętrze Bazyliki"
+          },
+          "source": "https://commons.wikimedia.org/wiki/File:Wn%C4%99tze_ko%C5%9Bcio%C5%82a_parafialnego_p.w._Chrystusa_Kr%C3%B3la_i_%C5%9Bw._Rocha_w_Bia%C5%82ymstoku_A-193_z_12.03.1975_-Magkrys.JPG",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Wn%C4%99tze_ko%C5%9Bcio%C5%82a_parafialnego_p.w._Chrystusa_Kr%C3%B3la_i_%C5%9Bw._Rocha_w_Bia%C5%82ymstoku_A-193_z_12.03.1975_-Magkrys.JPG/510px-Wn%C4%99tze_ko%C5%9Bcio%C5%82a_parafialnego_p.w._Chrystusa_Kr%C3%B3la_i_%C5%9Bw._Rocha_w_Bia%C5%82ymstoku_A-193_z_12.03.1975_-Magkrys.JPG",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Wn%C4%99tze_ko%C5%9Bcio%C5%82a_parafialnego_p.w._Chrystusa_Kr%C3%B3la_i_%C5%9Bw._Rocha_w_Bia%C5%82ymstoku_A-193_z_12.03.1975_-Magkrys.JPG/159px-Wn%C4%99tze_ko%C5%9Bcio%C5%82a_parafialnego_p.w._Chrystusa_Kr%C3%B3la_i_%C5%9Bw._Rocha_w_Bia%C5%82ymstoku_A-193_z_12.03.1975_-Magkrys.JPG",
           "external": true
+        }
+      ]
+    },
+    {
+      "name": {
+        "en": "Orthodox Cathedral of St. Nicholas",
+        "pl": "Cerkiew św. Mikołaja Cudotwórcy"
+      },
+      "description": {
+        "en": "Historic Orthodox cathedral in Bialystok",
+        "pl": "Okazała XIX-wieczna cerkiew o pełnym przepychu wnętrzu"
+      },
+      "photos": [
+        {
+          "caption": {
+            "en": "Orthodox cathedral",
+            "pl": "Cerkiew"
+          },
+          "src": "/assets/photo/bialystok/cerkiew.jpg",
+          "thumb": "/assets/photo/bialystok/cerkiew_thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Orthodox cathedral",
+            "pl": "Cerkiew"
+          },
+          "src": "/assets/photo/bialystok/cerkiew_2.jpg",
+          "thumb": "/assets/photo/bialystok/cerkiew_2_thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Inner",
+            "pl": "Wnętrze"
+          },
+          "source": "https://commons.wikimedia.org/wiki/File:Sobor_sw_Mikolaja-wnetrze-szerokie.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Sobor_sw_Mikolaja-wnetrze-szerokie.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Sobor_sw_Mikolaja-wnetrze-szerokie.jpg/1024px-Sobor_sw_Mikolaja-wnetrze-szerokie.jpg",
+          "external": true
+        }
+      ]
+    },
+    {
+      "name": {
+        "en": "Planty Park",
+        "pl": "Park Planty"
+      },
+      "description": {
+        "en": "",
+        "pl": ""
+      },
+      "photos": [
+        {
+          "caption": {
+            "en": "Valentine Avenue",
+            "pl": "Aleja Zakochanych"
+          },
+          "source": "https://commons.wikimedia.org/wiki/File:Park_Planty_Bia%C5%82ystok_(2008).jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Park_Planty_Bia%C5%82ystok_%282008%29.jpg/1024px-Park_Planty_Bia%C5%82ystok_%282008%29.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Park_Planty_Bia%C5%82ystok_%282008%29.jpg/320px-Park_Planty_Bia%C5%82ystok_%282008%29.jpg",
+          "external": true
+        },
+        {
+          "caption": {
+            "en": "Fountain",
+            "pl": "Fontanna"
+          },
+          "source": "https://commons.wikimedia.org/wiki/File:Fontanna_Planty_(2010).jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Fontanna_Planty_%282010%29.jpg/1024px-Fontanna_Planty_%282010%29.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Fontanna_Planty_%282010%29.jpg/320px-Fontanna_Planty_%282010%29.jpg",
+          "external": true
+        },
+        {
+          "caption": {
+            "en": "Dog Kawelin",
+            "pl": "Pies Kawelin"
+          },
+          "source": "https://commons.wikimedia.org/wiki/File:Sculpture_of_dog_Kawelin_in_Bia%C5%82ystok.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sculpture_of_dog_Kawelin_in_Bia%C5%82ystok.jpg/576px-Sculpture_of_dog_Kawelin_in_Bia%C5%82ystok.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sculpture_of_dog_Kawelin_in_Bia%C5%82ystok.jpg/180px-Sculpture_of_dog_Kawelin_in_Bia%C5%82ystok.jpg",
+          "external": true
+        }
+      ]
+    },
+    {
+      "name": {
+        "en": "Ludwik Zamenhof",
+        "pl": "Ludwik Zamenhof"
+      },
+      "description": {
+        "en": "Białystok born creator of esperanto language",
+        "pl": "Urodzony w Białymstoku twórca języka esperanto"
+      },
+      "photos": [
+        {
+          "caption": {
+            "en": "Monument of Ludwika Zamenhof",
+            "pl": "Pomnik Ludwika Zamenhofa"
+          },
+          "source": "https://commons.wikimedia.org/wiki/File:Wikipedia-bialystok-esperanto-3.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Wikipedia-bialystok-esperanto-3.jpg/360px-Wikipedia-bialystok-esperanto-3.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Wikipedia-bialystok-esperanto-3.jpg/180px-Wikipedia-bialystok-esperanto-3.jpg",
+          "external": true
+        },
+        {
+          "caption": {
+            "en": "Monument of young Ludwika Zamenhof",
+            "pl": "Pomnik młodego Ludwika Zamenhofa"
+          },
+          "source": "https://commons.wikimedia.org/wiki/File:Monumento_al_juna_LLZ_01.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Monumento_al_juna_LLZ_01.jpg/554px-Monumento_al_juna_LLZ_01.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Monumento_al_juna_LLZ_01.jpg/173px-Monumento_al_juna_LLZ_01.jpg",
+          "external": true
+        },
+        {
+          "caption": {
+            "en": "No longer existing house of Ludwik Zamenhof",
+            "pl": "Obecnie nieistniejący dom Ludwika Zamenhofa"
+          },
+          "src": "/assets/photo/bialystok/dom.jpg",
+          "thumb": "/assets/photo/bialystok/dom_thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Memorial plaque at the location of the house of Ludwik Zamenhof",
+            "pl": "Pamiątkowa tablica w miejscu domu Ludwika Zamenhofa"
+          },
+          "src": "/assets/photo/bialystok/blok.jpg",
+          "thumb": "/assets/photo/bialystok/blok_thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Trilingual (Polish, English, Esperanto) board in Białystok",
+            "pl": "Trzyjęzyczna (polski, angielski, esperanto) tablica w Białymstoku"
+          },
+          "src": "/assets/photo/bialystok/tablica.jpg",
+          "thumb": "/assets/photo/bialystok/tablica_thumb.jpg"
         }
       ]
     }
