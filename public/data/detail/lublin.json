@@ -35,16 +35,6 @@
         },
         {
           "caption": {
-            "en": "View from the west",
-            "pl": "Widok od strony zachodniej"
-          },
-          "source": "https://pl.wikipedia.org/wiki/Plik:Zamek_w_Lublinie_od_strony_zachodniej.jpg",
-          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Zamek_w_Lublinie_od_strony_zachodniej.jpg/800px-Zamek_w_Lublinie_od_strony_zachodniej.jpg",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Zamek_w_Lublinie_od_strony_zachodniej.jpg/320px-Zamek_w_Lublinie_od_strony_zachodniej.jpg",
-          "external": true
-        },
-        {
-          "caption": {
             "en": "Route to the castle",
             "pl": "Droga do Zamku"
           },
@@ -60,6 +50,22 @@
           "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Zamek_dziedziniec.jpg/800px-Zamek_dziedziniec.jpg",
           "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Zamek_dziedziniec.jpg/320px-Zamek_dziedziniec.jpg",
           "external": true
+        },
+        {
+          "caption": {
+            "en": "Collection",
+            "pl": "Eksponaty"
+          },
+          "src": "/assets/photo/lublin/eksponaty.jpg",
+          "thumb": "/assets/photo/lublin/eksponaty_thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Model the castle",
+            "pl": "Makieta Zamku"
+          },
+          "src": "/assets/photo/lublin/makieta.jpg",
+          "thumb": "/assets/photo/lublin/makieta_thumb.jpg"
         }
       ]
     },
@@ -106,6 +112,14 @@
           },
           "src": "/assets/photo/lublin/stare_miasto.jpg",
           "thumb": "/assets/photo/lublin/stare_miasto_thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Memorial plaques of prisoners during World War II",
+            "pl": "Pamiątkowe tablice z nazwiskami więźniów podczas II Wojny Światowej"
+          },
+          "src": "/assets/photo/lublin/tablice.jpg",
+          "thumb": "/assets/photo/lublin/tablice_thumb.jpg"
         }
       ]
     },
@@ -128,6 +142,14 @@
           "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Brama_Krakowska.JPG/401px-Brama_Krakowska.JPG",
           "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Brama_Krakowska.JPG/160px-Brama_Krakowska.JPG",
           "external": true
+        },
+        {
+          "caption": {
+            "en": "Krakowska Gate",
+            "pl": "Brama Krakowska"
+          },
+          "src": "/assets/photo/lublin/brama.jpg",
+          "thumb": "/assets/photo/lublin/brama_thumb.jpg"
         },
         {
           "caption": {
@@ -164,10 +186,8 @@
             "en": "Old Parish Square",
             "pl": "Plac Po Farze"
           },
-          "source": "https://pl.wikipedia.org/wiki/Plik:Lublin_-_fotopolska.eu_(214510).jpg",
-          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Lublin_-_fotopolska.eu_%28214510%29.jpg/800px-Lublin_-_fotopolska.eu_%28214510%29.jpg",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Lublin_-_fotopolska.eu_%28214510%29.jpg/320px-Lublin_-_fotopolska.eu_%28214510%29.jpg",
-          "external": true
+          "src": "/assets/photo/lublin/fara.jpg",
+          "thumb": "/assets/photo/lublin/fara_thumb.jpg"
         },
         {
           "caption": {
@@ -178,6 +198,50 @@
           "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Lublin%2C_Plac_Po_Farze%2C_widok_na_Zamek%2C_04-2009.JPG/800px-Lublin%2C_Plac_Po_Farze%2C_widok_na_Zamek%2C_04-2009.JPG",
           "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Lublin%2C_Plac_Po_Farze%2C_widok_na_Zamek%2C_04-2009.JPG/320px-Lublin%2C_Plac_Po_Farze%2C_widok_na_Zamek%2C_04-2009.JPG",
           "external": true
+        }
+      ]
+    },
+    {
+      "name": {
+        "en": "Lithuanian Square",
+        "pl": "Plac Litewski"
+      },
+      "description": {
+        "en": "Square in the center of Lublin",
+        "pl": "Plac w centrum Lublina"
+      },
+      "photos": [
+        {
+          "caption": {
+            "en": "\"I love Lublin\"",
+            "pl": "\"Kocham Lublin\""
+          },
+          "src": "/assets/photo/lublin/lublin.jpg",
+          "thumb": "/assets/photo/lublin/lublin_thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Square",
+            "pl": "Plac"
+          },
+          "src": "/assets/photo/lublin/plac.jpg",
+          "thumb": "/assets/photo/lublin/plac_thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Monument of Józef Piłsudski",
+            "pl": "Pomnik Józefa Piłsudskiego"
+          },
+          "src": "/assets/photo/lublin/pilsudski.jpg",
+          "thumb": "/assets/photo/lublin/pilsudski_thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Fountain",
+            "pl": "Fontanna"
+          },
+          "src": "/assets/photo/lublin/fontanna.jpg",
+          "thumb": "/assets/photo/lublin/fontanna_thumb.jpg"
         }
       ]
     }
