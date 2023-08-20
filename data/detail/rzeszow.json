@@ -16,8 +16,288 @@
   "attractions": [
     {
       "name": {
-        "en": "Rzeszów Castle",
-        "pl": "Zamek w Rzeszowie"
+        "en": "Town Hall",
+        "pl": "Ratusz"
+      },
+      "description": {
+        "en": "Building of Town Hall at city market",
+        "pl": "Budynek magistratu miejskiego w Rzeszowie, położony na miejskim rynku"
+      },
+      "photos": [
+        {
+          "caption": {
+            "en": "View from north-west",
+            "pl": "Widok od północnego wschodu"
+          },
+          "source": "https://pl.wikipedia.org/wiki/Plik:Ratusz-POL,_Rzesz%C3%B3w.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Ratusz-POL%2C_Rzesz%C3%B3w.jpg/574px-Ratusz-POL%2C_Rzesz%C3%B3w.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Ratusz-POL%2C_Rzesz%C3%B3w.jpg/230px-Ratusz-POL%2C_Rzesz%C3%B3w.jpg",
+          "external": true
+        },
+        {
+          "caption": {
+            "en": "Entry to Town Hall",
+            "pl": "Wejście do Ratusza"
+          },
+          "src": "/assets/photo/rzeszow/ratusz_wejscie.jpg",
+          "thumb": "/assets/photo/rzeszow/ratusz_wejscie_thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Town Hall",
+            "pl": "Ratusz w Rzeszowie"
+          },
+          "source": "https://commons.wikimedia.org/wiki/File:Rzesz%C3%B3w,_ratusz,_XVII,_1897-1900_danz_002.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Rzesz%C3%B3w%2C_ratusz%2C_XVII%2C_1897-1900_danz_002.jpg/565px-Rzesz%C3%B3w%2C_ratusz%2C_XVII%2C_1897-1900_danz_002.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Rzesz%C3%B3w%2C_ratusz%2C_XVII%2C_1897-1900_danz_002.jpg/226px-Rzesz%C3%B3w%2C_ratusz%2C_XVII%2C_1897-1900_danz_002.jpg",
+          "external": true
+        },
+        {
+          "caption": {
+            "en": "Town Hall",
+            "pl": "Ratusz w Rzeszowie"
+          },
+          "src": "/assets/photo/rzeszow/ratusz.jpg",
+          "thumb": "/assets/photo/rzeszow/ratusz_thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Stained glass",
+            "pl": "Witraż"
+          },
+          "source": "https://commons.wikimedia.org/wiki/File:Rzesz%C3%B3w,_Ratusz,_Witra%C5%BC.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Rzesz%C3%B3w%2C_Ratusz%2C_Witra%C5%BC.jpg/800px-Rzesz%C3%B3w%2C_Ratusz%2C_Witra%C5%BC.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Rzesz%C3%B3w%2C_Ratusz%2C_Witra%C5%BC.jpg/320px-Rzesz%C3%B3w%2C_Ratusz%2C_Witra%C5%BC.jpg",
+          "external": true
+        }
+      ]
+    },
+    {
+      "name": {
+        "en": "Market Square in Rzeszów",
+        "pl": "Rynek w Rzeszowie"
+      },
+      "description": {
+        "en": "Square in center of Old Town in Rzeszów",
+        "pl": "Plac znajdujący się w centrum starówki Rzeszowa"
+      },
+      "photos": [
+        {
+          "caption": {
+            "en": "Market Square",
+            "pl": "Rynek"
+          },
+          "src": "/assets/photo/rzeszow/rynek.jpg",
+          "thumb": "/assets/photo/rzeszow/rynek_thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Market Square",
+            "pl": "Rynek"
+          },
+          "src": "/assets/photo/rzeszow/rynek_2.jpg",
+          "thumb": "/assets/photo/rzeszow/rynek_2_thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "The Well on the Market Square",
+            "pl": "Studnia na Rynku"
+          },
+          "src": "/assets/photo/rzeszow/studnia.jpg",
+          "thumb": "/assets/photo/rzeszow/studnia_thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Tadeusz Kościuszko monument",
+            "pl": "Pomnik Tadeusza Kościuszki"
+          },
+          "src": "/assets/photo/rzeszow/pomnik_kosciuszki.jpg",
+          "thumb": "/assets/photo/rzeszow/pomnik_kosciuszki_thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Market Square",
+            "pl": "Rynek"
+          },
+          "src": "/assets/photo/rzeszow/rynek_3.jpg",
+          "thumb": "/assets/photo/rzeszow/rynek_3_thumb.jpg"
+        }
+      ]
+    },
+    {
+      "name": {
+        "en": "Rzeszów Cellars",
+        "pl": "Rzeszowskie Piwnice"
+      },
+      "description": {
+        "en": "\"Rzeszów Cellars\" Underground Tourist Route",
+        "pl": "Podziemna Trasa Turystyczna \"Rzeszowskie Piwnice\" w Rzeszowie"
+      },
+      "photos": [
+        {
+          "caption": {
+            "en": "Entry",
+            "pl": "Wejście"
+          },
+          "source": "https://commons.wikimedia.org/wiki/File:Underground_tourist_route_in_Rzesz%C3%B3w,_entry.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Underground_tourist_route_in_Rzesz%C3%B3w%2C_entry.jpg/1024px-Underground_tourist_route_in_Rzesz%C3%B3w%2C_entry.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Underground_tourist_route_in_Rzesz%C3%B3w%2C_entry.jpg/320px-Underground_tourist_route_in_Rzesz%C3%B3w%2C_entry.jpg",
+          "external": true
+        },
+        {
+          "caption": {
+            "en": "Corridor",
+            "pl": "Korytarz"
+          },
+          "src": "/assets/photo/rzeszow/korytarz.jpg",
+          "thumb": "/assets/photo/rzeszow/korytarz_thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Romilda Toad",
+            "pl": "Ropucha Romilda"
+          },
+          "src": "/assets/photo/rzeszow/ropucha.jpg",
+          "thumb": "/assets/photo/rzeszow/ropucha_thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Interactive map of Rzeszów",
+            "pl": "Interaktywna mapa Rzeszowa"
+          },
+          "src": "/assets/photo/rzeszow/mapa.jpg",
+          "thumb": "/assets/photo/rzeszow/mapa.jpg"
+        },
+        {
+          "caption": {
+            "en": "Inn",
+            "pl": "Karczma"
+          },
+          "src": "/assets/photo/rzeszow/karczma.jpg",
+          "thumb": "/assets/photo/rzeszow/karczma_thumb.jpg"
+        }
+      ]
+    },
+    {
+      "name": {
+        "en": "3 Maja Street",
+        "pl": "Ulica 3 Maja"
+      },
+      "description": {
+        "en": "One of the most important, oldest and representative street in Rzeszów",
+        "pl": "Jedna z najważniejszych, najstarsza i zarazem najbardziej reprezentacyjna ulica Rzeszowa."
+      },
+      "photos": [
+        {
+          "caption": {
+            "en": "3 Maja Street",
+            "pl": "Ulica 3 Maja"
+          },
+          "src": "/assets/photo/rzeszow/ulica.jpg",
+          "thumb": "/assets/photo/rzeszow/ulica_thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Bell tower",
+            "pl": "Dzwonnica"
+          },
+          "src": "/assets/photo/rzeszow/dzwonnica.jpg",
+          "thumb": "/assets/photo/rzeszow/dzwonnica_thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "St. Wojciech and Stanisław church",
+            "pl": "Kościół św. Wojciecha i św. Stanisława w Rzeszowie"
+          },
+          "source": "https://commons.wikimedia.org/wiki/File:Saints_Stanislaus_and_Adalbert_church_in_Rzesz%C3%B3w_2_west.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Saints_Stanislaus_and_Adalbert_church_in_Rzesz%C3%B3w_2_west.jpg/1024px-Saints_Stanislaus_and_Adalbert_church_in_Rzesz%C3%B3w_2_west.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Saints_Stanislaus_and_Adalbert_church_in_Rzesz%C3%B3w_2_west.jpg/320px-Saints_Stanislaus_and_Adalbert_church_in_Rzesz%C3%B3w_2_west.jpg",
+          "external": true
+        },
+        {
+          "caption": {
+            "en": "3 Maja Street",
+            "pl": "Ulica 3 Maja"
+          },
+          "src": "/assets/photo/rzeszow/ulica_2.jpg",
+          "thumb": "/assets/photo/rzeszow/ulica_2_thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "St. Cross church",
+            "pl": "Kościół Świętego Krzyża"
+          },
+          "src": "/assets/photo/rzeszow/kosciol_krzyza.jpg",
+          "thumb": "/assets/photo/rzeszow/kosciol_krzyza_thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Stanisław Konarski monument",
+            "pl": "Pomnik Stanisława Konarskiego"
+          },
+          "src": "/assets/photo/rzeszow/pomnik_konarskiego.jpg",
+          "thumb": "/assets/photo/rzeszow/pomnik_konarskiego_thumb.jpg"
+        }
+      ]
+    },
+    {
+      "name": {
+        "en": "The Regional Museum in Rzeszów",
+        "pl": "Muzeum Okręgowe w Rzeszowie"
+      },
+      "description": {
+        "en": "A multidepartmental institution based in a venerable, 17th century Piarist monastery complex",
+        "pl": "Wielodziałowa instytucja mieszcząca się w zabytkowym siedemnastowiecznym popijarskim gmachu przy ulicy 3 Maja"
+      },
+      "photos": [
+        {
+          "caption": {
+            "en": "The Regional Museum - front",
+            "pl": "Gmach muzuem - front"
+          },
+          "source": "https://commons.wikimedia.org/wiki/File:02019_1360_3_Maja_Street_in_Rzesz%C3%B3w.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/02019_1360_3_Maja_Street_in_Rzesz%C3%B3w.jpg/1024px-02019_1360_3_Maja_Street_in_Rzesz%C3%B3w.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/02019_1360_3_Maja_Street_in_Rzesz%C3%B3w.jpg/320px-02019_1360_3_Maja_Street_in_Rzesz%C3%B3w.jpg",
+          "external": true
+        },
+        {
+          "caption": {
+            "en": "Jacek Malczewski - \"Rusałki\"",
+            "pl": "Jacek Malczewski - \"Rusałki\""
+          },
+          "src": "/assets/photo/rzeszow/malczewski.jpg",
+          "thumb": "/assets/photo/rzeszow/malczewski_thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "\"Judith with Holofernes head\" (copy)",
+            "pl": "\"Judyta z głową Holofernesa\" (kopia)"
+          },
+          "src": "/assets/photo/rzeszow/judyta.jpg",
+          "thumb": "/assets/photo/rzeszow/judyta_thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Kazimierz Stabrowski \"Princess of the Magic Crystal\" (from temporary exhibition \"Art Nouveau - stylish unity of arts\")",
+            "pl": "Kazimierz Stabrowski \"Królewna magicznego kryształu\" (z wystawy czasowej \"Secesja - stylowa jedność sztuk\")"
+          },
+          "src": "/assets/photo/rzeszow/secesja.jpg",
+          "thumb": "/assets/photo/rzeszow/secesja_thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Mammoth jaw",
+            "pl": "Żuchwa mamuta"
+          },
+          "src": "/assets/photo/rzeszow/zuchwa.jpg",
+          "thumb": "/assets/photo/rzeszow/zuchwa_thumb.jpg"
+        }
+      ]
+    },
+    {
+      "name": {
+        "en": "The castle of the House of Lubomirski",
+        "pl": "Zamek Lubomirskich"
       },
       "description": {
         "en": "One of the main landmarks of Rzeszów. It was rebuilt between 1902 and 1906, and it is located on the former grounds of the castle of the House of Lubomirski.",
@@ -49,10 +329,48 @@
             "en": "Corridor in the castle",
             "pl": "Korytarz w zamku"
           },
+          "source": "https://commons.wikimedia.org/wiki/File:Klatka_schodowa_zamku_w_Rzeszowie.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Klatka_schodowa_zamku_w_Rzeszowie.jpg/576px-Klatka_schodowa_zamku_w_Rzeszowie.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Klatka_schodowa_zamku_w_Rzeszowie.jpg/180px-Klatka_schodowa_zamku_w_Rzeszowie.jpg",
+          "external": true
+        },
+        {
+          "caption": {
+            "en": "Corridor in the castle",
+            "pl": "Korytarz w zamku"
+          },
           "source": "https://commons.wikimedia.org/wiki/File:Korytarz_zamku_w_Rzeszowie.jpg",
           "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Korytarz_zamku_w_Rzeszowie.jpg/450px-Korytarz_zamku_w_Rzeszowie.jpg",
           "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Korytarz_zamku_w_Rzeszowie.jpg/180px-Korytarz_zamku_w_Rzeszowie.jpg",
           "external": true
+        }
+      ]
+    },
+    {
+      "name": {
+        "en": "Lubomirski Summer Palace",
+        "pl": "Letni Pałac Lubomirskich w Rzeszowie"
+      },
+      "description": {
+        "en": "Historic, late Baroque residence",
+        "pl": "Zabytkowa, późnobarokowa rezydencja"
+      },
+      "photos": [
+        {
+          "caption": {
+            "en": "Residence",
+            "pl": "Rezydencja"
+          },
+          "src": "/assets/photo/rzeszow/rezydencja.jpg",
+          "thumb": "/assets/photo/rzeszow/rezydencja_thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Garden",
+            "pl": "Ogród"
+          },
+          "src": "/assets/photo/rzeszow/ogrod.jpg",
+          "thumb": "/assets/photo/rzeszow/ogrod_thumb.jpg"
         }
       ]
     },
@@ -100,43 +418,37 @@
     },
     {
       "name": {
-        "en": "Town Hall",
-        "pl": "Ratusz"
+        "en": "Parks",
+        "pl": "Parki"
       },
       "description": {
-        "en": "Building of Town Hall at city market",
-        "pl": "Budynek magistratu miejskiego w Rzeszowie, położony na miejskim rynku"
+        "en": "",
+        "pl": ""
       },
       "photos": [
         {
           "caption": {
-            "en": "View from north-west",
-            "pl": "Widok od północnego wschodu"
+            "en": "Gen. Władysław Sikorski monument in The Park of Unity of the Polish Diaspora with the Motherland",
+            "pl": "Pomnik gen. Władysława Sikorskiego w Parku Jedności Polonii z Macierzą"
           },
-          "source": "https://pl.wikipedia.org/wiki/Plik:Ratusz-POL,_Rzesz%C3%B3w.jpg",
-          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Ratusz-POL%2C_Rzesz%C3%B3w.jpg/574px-Ratusz-POL%2C_Rzesz%C3%B3w.jpg",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Ratusz-POL%2C_Rzesz%C3%B3w.jpg/230px-Ratusz-POL%2C_Rzesz%C3%B3w.jpg",
-          "external": true
+          "src": "/assets/photo/rzeszow/pomnik_sikorskiego.jpg",
+          "thumb": "/assets/photo/rzeszow/pomnik_sikorskiego_thumb.jpg"
         },
         {
           "caption": {
-            "en": "Town Hall",
-            "pl": "Ratusz w Rzeszowie"
+            "en": "Municipal Garden of Solidarity",
+            "pl": "Ogród Miejski im. Solidarności"
           },
-          "source": "https://commons.wikimedia.org/wiki/File:Rzesz%C3%B3w,_ratusz,_XVII,_1897-1900_danz_002.jpg",
-          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Rzesz%C3%B3w%2C_ratusz%2C_XVII%2C_1897-1900_danz_002.jpg/565px-Rzesz%C3%B3w%2C_ratusz%2C_XVII%2C_1897-1900_danz_002.jpg",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Rzesz%C3%B3w%2C_ratusz%2C_XVII%2C_1897-1900_danz_002.jpg/226px-Rzesz%C3%B3w%2C_ratusz%2C_XVII%2C_1897-1900_danz_002.jpg",
-          "external": true
+          "src": "/assets/photo/rzeszow/solidarnosci.jpg",
+          "thumb": "/assets/photo/rzeszow/solidarnosci_thumb.jpg"
         },
         {
           "caption": {
-            "en": "Stained glass",
-            "pl": "Witraż"
+            "en": "Juliusz Słowacki monument",
+            "pl": "Pomnik Juliusza Słowackiego"
           },
-          "source": "https://commons.wikimedia.org/wiki/File:Rzesz%C3%B3w,_Ratusz,_Witra%C5%BC.jpg",
-          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Rzesz%C3%B3w%2C_Ratusz%2C_Witra%C5%BC.jpg/800px-Rzesz%C3%B3w%2C_Ratusz%2C_Witra%C5%BC.jpg",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Rzesz%C3%B3w%2C_Ratusz%2C_Witra%C5%BC.jpg/320px-Rzesz%C3%B3w%2C_Ratusz%2C_Witra%C5%BC.jpg",
-          "external": true
+          "src": "/assets/photo/rzeszow/pomnik_slowackiego.jpg",
+          "thumb": "/assets/photo/rzeszow/pomnik_slowackiego_thumb.jpg"
         }
       ]
     }
