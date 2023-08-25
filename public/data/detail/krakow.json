@@ -42,6 +42,56 @@
           "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Wawel_castle.jpg/800px-Wawel_castle.jpg",
           "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Wawel_castle.jpg/320px-Wawel_castle.jpg",
           "external": true
+        },
+        {
+          "caption": {
+            "en": "Courtyard",
+            "pl": "Dziedziniec wewnętrzny"
+          },
+          "source": "https://pl.wikipedia.org/wiki/Plik:Wawel_Royal_Castle_courtyard_(N),_4_Wawel,_Old_Town,_Krakow,_Poland.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Wawel_Royal_Castle_courtyard_%28N%29%2C_4_Wawel%2C_Old_Town%2C_Krakow%2C_Poland.jpg/320px-Wawel_Royal_Castle_courtyard_%28N%29%2C_4_Wawel%2C_Old_Town%2C_Krakow%2C_Poland.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Wawel_Royal_Castle_courtyard_%28N%29%2C_4_Wawel%2C_Old_Town%2C_Krakow%2C_Poland.jpg/1280px-Wawel_Royal_Castle_courtyard_%28N%29%2C_4_Wawel%2C_Old_Town%2C_Krakow%2C_Poland.jpg",
+          "external": true
+        },
+        {
+          "caption": {
+            "en": "The Zygmunt Bell",
+            "pl": "Dzwon Zygmunta"
+          },
+          "source": "https://pl.wikipedia.org/wiki/Plik:ZygmuntDzwon.JPG",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/ZygmuntDzwon.JPG/180px-ZygmuntDzwon.JPG",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/ZygmuntDzwon.JPG/576px-ZygmuntDzwon.JPG",
+          "external": true
+        },
+        {
+          "caption": {
+            "en": "Sarcophagus of Władysław Jagiełło",
+            "pl": "Nagrobek Władysława Jagiełły"
+          },
+          "source": "https://commons.wikimedia.org/wiki/File:Poland-01765_-_King_W%C5%82adys%C5%82aw_Jagie%C5%82%C5%82o_(32118970745).jpg?uselang=pl",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Poland-01765_-_King_W%C5%82adys%C5%82aw_Jagie%C5%82%C5%82o_%2832118970745%29.jpg/1024px-Poland-01765_-_King_W%C5%82adys%C5%82aw_Jagie%C5%82%C5%82o_%2832118970745%29.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Poland-01765_-_King_W%C5%82adys%C5%82aw_Jagie%C5%82%C5%82o_%2832118970745%29.jpg/320px-Poland-01765_-_King_W%C5%82adys%C5%82aw_Jagie%C5%82%C5%82o_%2832118970745%29.jpg",
+          "external": true
+        },
+        {
+          "caption": {
+            "en": "Sarcophagus of Jadwiga of Poland",
+            "pl": "Nagrobek Jadwigi Andegaweńskiej"
+          },
+          "source": "https://commons.wikimedia.org/wiki/File:Nagrobek_Jadwigi_Andegawe%C5%84skiej.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Nagrobek_Jadwigi_Andegawe%C5%84skiej.jpg/1013px-Nagrobek_Jadwigi_Andegawe%C5%84skiej.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Nagrobek_Jadwigi_Andegawe%C5%84skiej.jpg/317px-Nagrobek_Jadwigi_Andegawe%C5%84skiej.jpg",
+          "external": true
+        },
+        {
+          "caption": {
+            "en": "Wawel Dragon monument",
+            "pl": "Smok Wawelski"
+          },
+          "source": "https://commons.wikimedia.org/wiki/File:I10_111_Waweldrache.jpg?uselang=pl",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/I10_111_Waweldrache.jpg/512px-I10_111_Waweldrache.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/I10_111_Waweldrache.jpg/160px-I10_111_Waweldrache.jpg",
+          "external": true
         }
       ]
     },
@@ -57,13 +107,11 @@
       "photos": [
         {
           "caption": {
-            "en": "View from Sukiennice",
-            "pl": "Widok z Sukiennic"
+            "en": "Outside view",
+            "pl": "Widok z zewnątrz"
           },
-          "source": "https://pl.wikipedia.org/wiki/Plik:Krakow-_Kosciol_Mariacki.jpg",
-          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Krakow-_Kosciol_Mariacki.jpg/491px-Krakow-_Kosciol_Mariacki.jpg",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Krakow-_Kosciol_Mariacki.jpg/153px-Krakow-_Kosciol_Mariacki.jpg",
-          "external": true
+          "src": "/assets/photo/krakow/mariacki.jpg",
+          "thumb": "/assets/photo/krakow/mariacki_thumb.jpg"
         },
         {
           "caption": {
@@ -74,6 +122,34 @@
           "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Church_of_Our_Lady_Assumed_into_Heaven_%28St._Mary%27s_Church%29%2C_interior-main_nave%2C_5_Mariacki_square%2C_Old_Town%2C_Krakow%2C_Poland.jpg/800px-Church_of_Our_Lady_Assumed_into_Heaven_%28St._Mary%27s_Church%29%2C_interior-main_nave%2C_5_Mariacki_square%2C_Old_Town%2C_Krakow%2C_Poland.jpg",
           "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Church_of_Our_Lady_Assumed_into_Heaven_%28St._Mary%27s_Church%29%2C_interior-main_nave%2C_5_Mariacki_square%2C_Old_Town%2C_Krakow%2C_Poland.jpg/320px-Church_of_Our_Lady_Assumed_into_Heaven_%28St._Mary%27s_Church%29%2C_interior-main_nave%2C_5_Mariacki_square%2C_Old_Town%2C_Krakow%2C_Poland.jpg",
           "external": true
+        },
+        {
+          "caption": {
+            "en": "Wit Stwosz Altar",
+            "pl": "Ołtarz Wita Stwosza"
+          },
+          "source": "https://pl.wikipedia.org/wiki/Plik:Church_of_Our_Lady_Assumed_into_Heaven,_St._Mary%27s_(Main)_Altar_(1489_by_Veit_Stoss),_5_Mariacki_square,_Old_Town,_Krak%C3%B3w,_Poland.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Church_of_Our_Lady_Assumed_into_Heaven%2C_St._Mary%27s_%28Main%29_Altar_%281489_by_Veit_Stoss%29%2C_5_Mariacki_square%2C_Old_Town%2C_Krak%C3%B3w%2C_Poland.jpg/707px-Church_of_Our_Lady_Assumed_into_Heaven%2C_St._Mary%27s_%28Main%29_Altar_%281489_by_Veit_Stoss%29%2C_5_Mariacki_square%2C_Old_Town%2C_Krak%C3%B3w%2C_Poland.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Church_of_Our_Lady_Assumed_into_Heaven%2C_St._Mary%27s_%28Main%29_Altar_%281489_by_Veit_Stoss%29%2C_5_Mariacki_square%2C_Old_Town%2C_Krak%C3%B3w%2C_Poland.jpg/166px-Church_of_Our_Lady_Assumed_into_Heaven%2C_St._Mary%27s_%28Main%29_Altar_%281489_by_Veit_Stoss%29%2C_5_Mariacki_square%2C_Old_Town%2C_Krak%C3%B3w%2C_Poland.jpg",
+          "external": true
+        },
+        {
+          "caption": {
+            "en": "St. Mary's Trumpet Call",
+            "pl": "Hejnał Mariacki"
+          },
+          "source": "https://pl.wikipedia.org/wiki/Plik:Hejnalista_krakowski.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Hejnalista_krakowski.jpg/320px-Hejnalista_krakowski.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Hejnalista_krakowski.jpg/1024px-Hejnalista_krakowski.jpg",
+          "external": true
+        },
+        {
+          "caption": {
+            "en": "View from Sukiennice",
+            "pl": "Widok z Sukiennic"
+          },
+          "src": "/assets/photo/krakow/mariacki_sukiennice.jpg",
+          "thumb": "/assets/photo/krakow/mariacki_sukiennice_thumb.jpg"
         }
       ]
     },
@@ -87,6 +163,16 @@
         "pl": "Zabytkowy budynek sukiennic znajdujący się w Krakowie na Starym Mieście."
       },
       "photos": [
+        {
+          "caption": {
+            "en": "Sukiennice",
+            "pl": "Sukiennice"
+          },
+          "source": "https://pl.wikipedia.org/wiki/Plik:A-10_Sukiennice_w_Krakowie_Krak%C3%B3w,_Rynek_G%C5%82%C3%B3wny_MM.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/A-10_Sukiennice_w_Krakowie_Krak%C3%B3w%2C_Rynek_G%C5%82%C3%B3wny_MM.jpg/320px-A-10_Sukiennice_w_Krakowie_Krak%C3%B3w%2C_Rynek_G%C5%82%C3%B3wny_MM.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/A-10_Sukiennice_w_Krakowie_Krak%C3%B3w%2C_Rynek_G%C5%82%C3%B3wny_MM.jpg/1024px-A-10_Sukiennice_w_Krakowie_Krak%C3%B3w%2C_Rynek_G%C5%82%C3%B3wny_MM.jpg",
+          "external": true
+        },
         {
           "caption": {
             "en": "Sukiennice in winter",
@@ -105,6 +191,66 @@
           "source": "https://pl.wikipedia.org/wiki/Plik:Sukiennice-WidokZPo%C5%82udniowegoWschodu-POL,_Krak%C3%B3w.jpg",
           "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Sukiennice-WidokZPo%C5%82udniowegoWschodu-POL%2C_Krak%C3%B3w.jpg/800px-Sukiennice-WidokZPo%C5%82udniowegoWschodu-POL%2C_Krak%C3%B3w.jpg",
           "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Sukiennice-WidokZPo%C5%82udniowegoWschodu-POL%2C_Krak%C3%B3w.jpg/320px-Sukiennice-WidokZPo%C5%82udniowegoWschodu-POL%2C_Krak%C3%B3w.jpg",
+          "external": true
+        },
+        {
+          "caption": {
+            "en": "Interior",
+            "pl": "Wnętrze"
+          },
+          "src": "/assets/photo/krakow/sukiennice_wnetrze.jpg",
+          "thumb": "/assets/photo/krakow/sukiennice_wnetrze_thumb.jpg"
+        }
+      ]
+    },
+    {
+      "name": {
+        "en": "Church of St. Francis of Assisi",
+        "pl": "Bazylika św. Franciszka z Asyżu"
+      },
+      "description": {
+        "en": "Roman Catholic religious complex on the west side of All Saints Square at Franciszkańska",
+        "pl": "Rzymskokatolicki kościół konwentualny oraz klasztor franciszkanów znajdujące się w Krakowie"
+      },
+      "photos": [
+        {
+          "caption": {
+            "en": "Apse of St. Francis Church",
+            "pl": "Bazylika"
+          },
+          "source": "https://en.wikipedia.org/wiki/File:Krakow_St_FrancisChurch_D07.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Krakow_St_FrancisChurch_D07.jpg/772px-Krakow_St_FrancisChurch_D07.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Krakow_St_FrancisChurch_D07.jpg/241px-Krakow_St_FrancisChurch_D07.jpg",
+          "external": true
+        },
+        {
+          "caption": {
+            "en": "Interior",
+            "pl": "Wnętrze"
+          },
+          "source": "https://commons.wikimedia.org/wiki/File:Interior_of_the_Church_of_St._Francis_in_Krak%C3%B3w_(10).jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Interior_of_the_Church_of_St._Francis_in_Krak%C3%B3w_%2810%29.jpg/576px-Interior_of_the_Church_of_St._Francis_in_Krak%C3%B3w_%2810%29.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Interior_of_the_Church_of_St._Francis_in_Krak%C3%B3w_%2810%29.jpg/180px-Interior_of_the_Church_of_St._Francis_in_Krak%C3%B3w_%2810%29.jpg",
+          "external": true
+        },
+        {
+          "caption": {
+            "en": "Stained glass \"God the Father - Arise\" - Stanisław Wyspiański",
+            "pl": "Witraż \"Bóg Ojciec - Stań Się\" - Stanisław Wyspiański"
+          },
+          "source": "https://pl.wikipedia.org/wiki/Plik:Krak%C3%B3w_-_Church_of_St._Francis_-_Stained_glass_01.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Krak%C3%B3w_-_Church_of_St._Francis_-_Stained_glass_01.jpg/389px-Krak%C3%B3w_-_Church_of_St._Francis_-_Stained_glass_01.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Krak%C3%B3w_-_Church_of_St._Francis_-_Stained_glass_01.jpg/121px-Krak%C3%B3w_-_Church_of_St._Francis_-_Stained_glass_01.jpg",
+          "external": true
+        },
+        {
+          "caption": {
+            "en": "Polichromy \"Lilies\" - Stanisław Wyspiański",
+            "pl": "Polichromy \"Lilie\" - Stanisław Wyspiański"
+          },
+          "source": "https://commons.wikimedia.org/wiki/File:St._Francis_of_Assisi_Church,_interior-Stanis%C5%82aw_Wyspia%C5%84ski%27s_polichromy_%E2%80%9ELilies%E2%80%9D,_2_Franciszka%C5%84ska_street,_Old_Town,_Krak%C3%B3w,_Poland.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/St._Francis_of_Assisi_Church%2C_interior-Stanis%C5%82aw_Wyspia%C5%84ski%27s_polichromy_%E2%80%9ELilies%E2%80%9D%2C_2_Franciszka%C5%84ska_street%2C_Old_Town%2C_Krak%C3%B3w%2C_Poland.jpg/709px-St._Francis_of_Assisi_Church%2C_interior-Stanis%C5%82aw_Wyspia%C5%84ski%27s_polichromy_%E2%80%9ELilies%E2%80%9D%2C_2_Franciszka%C5%84ska_street%2C_Old_Town%2C_Krak%C3%B3w%2C_Poland.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/St._Francis_of_Assisi_Church%2C_interior-Stanis%C5%82aw_Wyspia%C5%84ski%27s_polichromy_%E2%80%9ELilies%E2%80%9D%2C_2_Franciszka%C5%84ska_street%2C_Old_Town%2C_Krak%C3%B3w%2C_Poland.jpg/222px-St._Francis_of_Assisi_Church%2C_interior-Stanis%C5%82aw_Wyspia%C5%84ski%27s_polichromy_%E2%80%9ELilies%E2%80%9D%2C_2_Franciszka%C5%84ska_street%2C_Old_Town%2C_Krak%C3%B3w%2C_Poland.jpg",
           "external": true
         }
       ]
@@ -137,6 +283,224 @@
           "source": "https://pl.wikipedia.org/wiki/Plik:St._Florian%27s_Gate,_Pijarska_street,_Old_Town,_Krakow,_Poland.jpg",
           "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/St._Florian%27s_Gate%2C_Pijarska_street%2C_Old_Town%2C_Krakow%2C_Poland.jpg/800px-St._Florian%27s_Gate%2C_Pijarska_street%2C_Old_Town%2C_Krakow%2C_Poland.jpg",
           "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/St._Florian%27s_Gate%2C_Pijarska_street%2C_Old_Town%2C_Krakow%2C_Poland.jpg/320px-St._Florian%27s_Gate%2C_Pijarska_street%2C_Old_Town%2C_Krakow%2C_Poland.jpg",
+          "external": true
+        },
+        {
+          "caption": {
+            "en": "Princes Czartoryski Family chapel",
+            "pl": "Kaplica rodowa książąt Czartoryskich"
+          },
+          "source": "https://pl.wikipedia.org/wiki/Plik:Princes_Czrtoryski_Family_chapel,_St._Florian%27s_Gate,_Pijarska_street,_Old_Town,_Krakow,_Poland.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Princes_Czrtoryski_Family_chapel%2C_St._Florian%27s_Gate%2C_Pijarska_street%2C_Old_Town%2C_Krakow%2C_Poland.jpg/538px-Princes_Czrtoryski_Family_chapel%2C_St._Florian%27s_Gate%2C_Pijarska_street%2C_Old_Town%2C_Krakow%2C_Poland.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Princes_Czrtoryski_Family_chapel%2C_St._Florian%27s_Gate%2C_Pijarska_street%2C_Old_Town%2C_Krakow%2C_Poland.jpg/168px-Princes_Czrtoryski_Family_chapel%2C_St._Florian%27s_Gate%2C_Pijarska_street%2C_Old_Town%2C_Krakow%2C_Poland.jpg",
+          "external": true
+        }
+      ]
+    },
+    {
+      "name": {
+        "en": "National Museum in Kraków",
+        "pl": "Muzeum Narodowe w Krakowie"
+      },
+      "description": {
+        "en": "",
+        "pl": ""
+      },
+      "photos": [
+        {
+          "caption": {
+            "en": "Main Building",
+            "pl": "Gmach Główny"
+          },
+          "source": "https://pl.wikipedia.org/wiki/Plik:National_Museum,_Main_Building,_1_May,_3_Avenue,_Krak%C3%B3w,_Poland.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/National_Museum%2C_Main_Building%2C_1_May%2C_3_Avenue%2C_Krak%C3%B3w%2C_Poland.jpg/1024px-National_Museum%2C_Main_Building%2C_1_May%2C_3_Avenue%2C_Krak%C3%B3w%2C_Poland.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/National_Museum%2C_Main_Building%2C_1_May%2C_3_Avenue%2C_Krak%C3%B3w%2C_Poland.jpg/320px-National_Museum%2C_Main_Building%2C_1_May%2C_3_Avenue%2C_Krak%C3%B3w%2C_Poland.jpg",
+          "external": true
+        },
+        {
+          "caption": {
+            "en": "\"Girl with Chrysanthemums\" - Olga Boznańska (loc. Main Building)",
+            "pl": "\"Dziewczynka z chryzantemami\" - Olga Boznańska (lok. Gmach Główny)"
+          },
+          "source": "https://pl.wikipedia.org/wiki/Plik:Olga_Bozna%C5%84ska_-_Girl_with_Chrysanthemums_-_MNK_II-b-1032_-_National_Museum_Krak%C3%B3w.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Olga_Bozna%C5%84ska_-_Girl_with_Chrysanthemums_-_MNK_II-b-1032_-_National_Museum_Krak%C3%B3w.jpg/598px-Olga_Bozna%C5%84ska_-_Girl_with_Chrysanthemums_-_MNK_II-b-1032_-_National_Museum_Krak%C3%B3w.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Olga_Bozna%C5%84ska_-_Girl_with_Chrysanthemums_-_MNK_II-b-1032_-_National_Museum_Krak%C3%B3w.jpg/187px-Olga_Bozna%C5%84ska_-_Girl_with_Chrysanthemums_-_MNK_II-b-1032_-_National_Museum_Krak%C3%B3w.jpg",
+          "external": true
+        },
+        {
+          "caption": {
+            "en": "\"Christmas Eve in Siberia\" - Jacek Malczewski (loc. The Gallery of 19th-Century Polish Art at Sukiennice)",
+            "pl": "\"Wigilia na Syberii\" - Jacek Malczewski (lok. Galeria Sztuki Polskiej XIX wieku w Sukiennicach)"
+          },
+          "source": "https://pl.wikipedia.org/wiki/Plik:Malczewski_wigilia_na_syberii.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Malczewski_wigilia_na_syberii.jpg/1024px-Malczewski_wigilia_na_syberii.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Malczewski_wigilia_na_syberii.jpg/320px-Malczewski_wigilia_na_syberii.jpg",
+          "external": true
+        },
+        {
+          "caption": {
+            "en": "\"Lady with an Ermine\" - Leonardo da Vinci (loc. Czartoryski Museum)",
+            "pl": "\"Dama z gronostajem\" - Leonardo da Vinci (lok. Muzeum Czartoryskich)"
+          },
+          "source": "https://pl.wikipedia.org/wiki/Plik:Leonardo_da_Vinci_(1452-1519)_-_Lady_with_an_Ermine_%E2%80%93_Portrait_of_Cecilia_Gallerani_(ca._1473%E2%80%931536)_-_MNK_XII-209_-_National_Museum_Krak%C3%B3w.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Leonardo_da_Vinci_%281452-1519%29_-_Lady_with_an_Ermine_%E2%80%93_Portrait_of_Cecilia_Gallerani_%28ca._1473%E2%80%931536%29_-_MNK_XII-209_-_National_Museum_Krak%C3%B3w.jpg/564px-Leonardo_da_Vinci_%281452-1519%29_-_Lady_with_an_Ermine_%E2%80%93_Portrait_of_Cecilia_Gallerani_%28ca._1473%E2%80%931536%29_-_MNK_XII-209_-_National_Museum_Krak%C3%B3w.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Leonardo_da_Vinci_%281452-1519%29_-_Lady_with_an_Ermine_%E2%80%93_Portrait_of_Cecilia_Gallerani_%28ca._1473%E2%80%931536%29_-_MNK_XII-209_-_National_Museum_Krak%C3%B3w.jpg/176px-Leonardo_da_Vinci_%281452-1519%29_-_Lady_with_an_Ermine_%E2%80%93_Portrait_of_Cecilia_Gallerani_%28ca._1473%E2%80%931536%29_-_MNK_XII-209_-_National_Museum_Krak%C3%B3w.jpg",
+          "external": true
+        },
+        {
+          "caption": {
+            "en": "\"The Prussian Homage\" - Jan Matejko (loc. The Gallery of 19th-Century Polish Art at Sukiennice)",
+            "pl": "\"Hołd pruski\" - Jan Matejko (lok. Galeria Sztuki Polskiej XIX wieku w Sukiennicach)"
+          },
+          "source": "https://commons.wikimedia.org/wiki/File:Prussian_Homage.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/1/11/Prussian_Homage.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Prussian_Homage.jpg/320px-Prussian_Homage.jpg",
+          "external": true
+        }
+      ]
+    },
+    {
+      "name": {
+        "en": "Floriańska Street",
+        "pl": "Ulica Floriańska"
+      },
+      "description": {
+        "en": "One of the main streets in Kraków Old Town and one of the most famous promenades in the city",
+        "pl": "Ulica na Starym Mieście w Krakowie."
+      },
+      "photos": [
+        {
+          "caption": {
+            "en": "Floriańska Street with view of St. Mary's Church",
+            "pl": "Widok od Bramy Floriańskiej na południe"
+          },
+          "source": "https://pl.wikipedia.org/wiki/Plik:Floria%C5%84ska_street_(view_from_N),_Old_Town,_Krakow,_Poland.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Floria%C5%84ska_street_%28view_from_N%29%2C_Old_Town%2C_Krakow%2C_Poland.jpg/800px-Floria%C5%84ska_street_%28view_from_N%29%2C_Old_Town%2C_Krakow%2C_Poland.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Floria%C5%84ska_street_%28view_from_N%29%2C_Old_Town%2C_Krakow%2C_Poland.jpg/320px-Floria%C5%84ska_street_%28view_from_N%29%2C_Old_Town%2C_Krakow%2C_Poland.jpg",
+          "external": true
+        },
+        {
+          "caption": {
+            "en": "St. Florian's Gate",
+            "pl": "Brama Floriańska"
+          },
+          "source": "https://pl.wikipedia.org/wiki/Plik:St._Florian%27s_Gate,_Pijarska_street,_Old_Town,_Krakow,_Poland.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/St._Florian%27s_Gate%2C_Pijarska_street%2C_Old_Town%2C_Krakow%2C_Poland.jpg/800px-St._Florian%27s_Gate%2C_Pijarska_street%2C_Old_Town%2C_Krakow%2C_Poland.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/St._Florian%27s_Gate%2C_Pijarska_street%2C_Old_Town%2C_Krakow%2C_Poland.jpg/320px-St._Florian%27s_Gate%2C_Pijarska_street%2C_Old_Town%2C_Krakow%2C_Poland.jpg",
+          "external": true
+        },
+        {
+          "caption": {
+            "en": "Princes Czartoryski Family chapel",
+            "pl": "Kaplica rodowa książąt Czartoryskich"
+          },
+          "source": "https://pl.wikipedia.org/wiki/Plik:Princes_Czrtoryski_Family_chapel,_St._Florian%27s_Gate,_Pijarska_street,_Old_Town,_Krakow,_Poland.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Princes_Czrtoryski_Family_chapel%2C_St._Florian%27s_Gate%2C_Pijarska_street%2C_Old_Town%2C_Krakow%2C_Poland.jpg/538px-Princes_Czrtoryski_Family_chapel%2C_St._Florian%27s_Gate%2C_Pijarska_street%2C_Old_Town%2C_Krakow%2C_Poland.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Princes_Czrtoryski_Family_chapel%2C_St._Florian%27s_Gate%2C_Pijarska_street%2C_Old_Town%2C_Krakow%2C_Poland.jpg/168px-Princes_Czrtoryski_Family_chapel%2C_St._Florian%27s_Gate%2C_Pijarska_street%2C_Old_Town%2C_Krakow%2C_Poland.jpg",
+          "external": true
+        }
+      ]
+    },
+    {
+      "name": {
+        "en": "Juliusz Słowacki Theatre",
+        "pl": "Teatr im. Juliusza Słowackiego"
+      },
+      "description": {
+        "en": "19th-century Eclectic theatre-opera house in the heart of Kraków",
+        "pl": "XIX-wieczny eklektyczny teatr w sercu Krakowa"
+      },
+      "photos": [
+        {
+          "caption": {
+            "en": "Front facade",
+            "pl": "Teatr Słowackiego od frontu"
+          },
+          "source": "https://pl.wikipedia.org/wiki/Plik:Front_facade_of_Juliusz_S%C5%82owacki_Theatre,_Krak%C3%B3w,_Poland,_September_2019.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Front_facade_of_Juliusz_S%C5%82owacki_Theatre%2C_Krak%C3%B3w%2C_Poland%2C_September_2019.jpg/1024px-Front_facade_of_Juliusz_S%C5%82owacki_Theatre%2C_Krak%C3%B3w%2C_Poland%2C_September_2019.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Front_facade_of_Juliusz_S%C5%82owacki_Theatre%2C_Krak%C3%B3w%2C_Poland%2C_September_2019.jpg/320px-Front_facade_of_Juliusz_S%C5%82owacki_Theatre%2C_Krak%C3%B3w%2C_Poland%2C_September_2019.jpg",
+          "external": true
+        },
+        {
+          "caption": {
+            "en": "Juliusz Slowacki Theater",
+            "pl": "Teatr Słowackiego"
+          },
+          "source": "https://pl.wikipedia.org/wiki/Plik:Juliusz_Slowacki_Theater,_1_Sw._Ducha_square,_Old_Town,_Krakow,_Poland.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Juliusz_Slowacki_Theater%2C_1_Sw._Ducha_square%2C_Old_Town%2C_Krakow%2C_Poland.jpg/1024px-Juliusz_Slowacki_Theater%2C_1_Sw._Ducha_square%2C_Old_Town%2C_Krakow%2C_Poland.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Juliusz_Slowacki_Theater%2C_1_Sw._Ducha_square%2C_Old_Town%2C_Krakow%2C_Poland.jpg/320px-Juliusz_Slowacki_Theater%2C_1_Sw._Ducha_square%2C_Old_Town%2C_Krakow%2C_Poland.jpg",
+          "external": true
+        },
+        {
+          "caption": {
+            "en": "Entrance hall",
+            "pl": "Westybul"
+          },
+          "source": "https://pl.wikipedia.org/wiki/Plik:Westybyl_schody.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Westybyl_schody.jpg/1024px-Westybyl_schody.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Westybyl_schody.jpg/320px-Westybyl_schody.jpg",
+          "external": true
+        },
+        {
+          "caption": {
+            "en": "Theatre interior",
+            "pl": "Widownia i kurtyna"
+          },
+          "source": "https://en.wikipedia.org/wiki/File:Widownia_i_kurtyna.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Widownia_i_kurtyna.jpg/1024px-Widownia_i_kurtyna.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Widownia_i_kurtyna.jpg/320px-Widownia_i_kurtyna.jpg",
+          "external": true
+        },
+        {
+          "caption": {
+            "en": "Curtain made by Henryk Siemiradzki",
+            "pl": "Kurtyna autorstwa Henryka Siemiradzkiego"
+          },
+          "source": "https://commons.wikimedia.org/wiki/File:Kurtyna-Siemiradzki.tif",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Kurtyna-Siemiradzki.tif/lossy-page1-1024px-Kurtyna-Siemiradzki.tif.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Kurtyna-Siemiradzki.tif/lossy-page1-320px-Kurtyna-Siemiradzki.tif.jpg",
+          "external": true
+        }
+      ]
+    },
+    {
+      "name": {
+        "en": "Kościuszko Mound",
+        "pl": "Kopiec Kościuszki w Krakowie"
+      },
+      "description": {
+        "en": "Artificial mound erected by Cracovians in commemoration of the Polish national leader Tadeusz Kościuszko",
+        "pl": "Sztuczny kopiec wybudowany na cześć Tadeusza Kościuszki"
+      },
+      "photos": [
+        {
+          "caption": {
+            "en": "Kościuszko Mound",
+            "pl": "Kopiec Kościuszki"
+          },
+          "source": "https://pl.wikipedia.org/wiki/Plik:Krakow_2006_195.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Krakow_2006_195.jpg/1024px-Krakow_2006_195.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Krakow_2006_195.jpg/320px-Krakow_2006_195.jpg",
+          "external": true
+        },
+        {
+          "caption": {
+            "en": "View of Kościuszko Mound, with Bronisława Chapel",
+            "pl": "Kopiec Kościuszki oraz Kaplica bł. Bronisławy"
+          },
+          "source": "https://pl.wikipedia.org/wiki/Plik:KopiecKo%C5%9BciuszkiOrazKaplicaB%C5%82Bronis%C5%82awy-WidokZPo%C5%82udnia-POL,_Krak%C3%B3w.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/KopiecKo%C5%9BciuszkiOrazKaplicaB%C5%82Bronis%C5%82awy-WidokZPo%C5%82udnia-POL%2C_Krak%C3%B3w.jpg/1024px-KopiecKo%C5%9BciuszkiOrazKaplicaB%C5%82Bronis%C5%82awy-WidokZPo%C5%82udnia-POL%2C_Krak%C3%B3w.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/KopiecKo%C5%9BciuszkiOrazKaplicaB%C5%82Bronis%C5%82awy-WidokZPo%C5%82udnia-POL%2C_Krak%C3%B3w.jpg/320px-KopiecKo%C5%9BciuszkiOrazKaplicaB%C5%82Bronis%C5%82awy-WidokZPo%C5%82udnia-POL%2C_Krak%C3%B3w.jpg",
+          "external": true
+        },
+        {
+          "caption": {
+            "en": "Top of Kosciuszko Mound",
+            "pl": "Szczyt Kopca Kościuszki"
+          },
+          "source": "https://pl.wikipedia.org/wiki/Plik:Top_of_Kosciuszko_Mound.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Top_of_Kosciuszko_Mound.jpg/1280px-Top_of_Kosciuszko_Mound.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Top_of_Kosciuszko_Mound.jpg/320px-Top_of_Kosciuszko_Mound.jpg",
           "external": true
         }
       ]
