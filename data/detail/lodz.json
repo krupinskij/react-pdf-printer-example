@@ -42,11 +42,21 @@
         },
         {
           "caption": {
-            "en": "\"Reymont's Trunk (Kufer Reymonta)\" (Galeria Wielkich Łodzian)",
-            "pl": "\"Kufer Reymonta\" (Galeria Wielkich Łodzian)"
+            "en": "Miś Uszatek monument",
+            "pl": "Pomnik Misia Uszatka"
           },
-          "src": "/assets/photo/lodz/reymont.jpg",
-          "thumb": "/assets/photo/lodz/reymont_thumb.jpg"
+          "src": "/assets/photo/lodz/mis_uszatek.jpg",
+          "thumb": "/assets/photo/lodz/mis_uszatek_thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Walk of Fame (Andrzej Seweryn)",
+            "pl": "Aleja Gwiazd (Andrzej Seweryn)"
+          },
+          "source": "https://commons.wikimedia.org/wiki/File:Andrzej_Seweryn_gwiazda_Lodz.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/0/06/Andrzej_Seweryn_gwiazda_Lodz.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Andrzej_Seweryn_gwiazda_Lodz.jpg/320px-Andrzej_Seweryn_gwiazda_Lodz.jpg",
+          "external": true
         },
         {
           "caption": {
@@ -55,6 +65,14 @@
           },
           "src": "/assets/photo/lodz/mural.jpg",
           "thumb": "/assets/photo/lodz/mural_thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "\"Reymont's Trunk (Kufer Reymonta)\" (Galeria Wielkich Łodzian)",
+            "pl": "\"Kufer Reymonta\" (Galeria Wielkich Łodzian)"
+          },
+          "src": "/assets/photo/lodz/reymont.jpg",
+          "thumb": "/assets/photo/lodz/reymont_thumb.jpg"
         }
       ]
     },
@@ -73,10 +91,16 @@
             "en": "One of the entrances to the Manufaktura",
             "pl": "Brama wjazdowa"
           },
-          "source": "https://pl.wikipedia.org/wiki/Plik:Lodz_manufaktura_01.jpg",
-          "src": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Lodz_manufaktura_01.jpg",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Lodz_manufaktura_01.jpg",
-          "external": true
+          "src": "/assets/photo/lodz/manufaktura_brama.jpg",
+          "thumb": "/assets/photo/lodz/manufaktura_brama_thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Square inside the Manufaktura",
+            "pl": "Plac w Manufakturze"
+          },
+          "src": "/assets/photo/lodz/manufaktura_plac.jpg",
+          "thumb": "/assets/photo/lodz/manufaktura_plac_thumb.jpg"
         },
         {
           "caption": {
@@ -128,6 +152,14 @@
         },
         {
           "caption": {
+            "en": "Interior",
+            "pl": "Wnętrze kościoła"
+          },
+          "src": "/assets/photo/lodz/wnetrze.jpg",
+          "thumb": "/assets/photo/lodz/wnetrze_thumb.jpg"
+        },
+        {
+          "caption": {
             "en": "Altar dedicated to Blessed Virgin Mary",
             "pl": "Ołtarz poświęcony Najświętrzej Marii Pannie"
           },
@@ -151,10 +183,24 @@
             "en": "Outside view",
             "pl": "Widok z zewnątrz"
           },
-          "source": "https://pl.wikipedia.org/wiki/Plik:SM_%C5%81%C3%B3d%C5%BA_Cerkiew_katedralna_%C5%9Bw_Aleksandra_Newskiego_2017_(1)_ID_613040.jpg",
-          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/SM_%C5%81%C3%B3d%C5%BA_Cerkiew_katedralna_%C5%9Bw_Aleksandra_Newskiego_2017_%281%29_ID_613040.jpg/468px-SM_%C5%81%C3%B3d%C5%BA_Cerkiew_katedralna_%C5%9Bw_Aleksandra_Newskiego_2017_%281%29_ID_613040.jpg",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/SM_%C5%81%C3%B3d%C5%BA_Cerkiew_katedralna_%C5%9Bw_Aleksandra_Newskiego_2017_%281%29_ID_613040.jpg/187px-SM_%C5%81%C3%B3d%C5%BA_Cerkiew_katedralna_%C5%9Bw_Aleksandra_Newskiego_2017_%281%29_ID_613040.jpg",
-          "external": true
+          "src": "/assets/photo/lodz/sobor.jpg",
+          "thumb": "/assets/photo/lodz/sobor_thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Zoom",
+            "pl": "Zbliżenie"
+          },
+          "src": "/assets/photo/lodz/sobor_zblizenie.jpg",
+          "thumb": "/assets/photo/lodz/sobor_zblizenie_thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Outside view",
+            "pl": "Widok z zewnątrz"
+          },
+          "src": "/assets/photo/lodz/sobor_bok.jpg",
+          "thumb": "/assets/photo/lodz/sobor_bok_thumb.jpg"
         },
         {
           "caption": {
@@ -165,6 +211,56 @@
           "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Cerkiew_Newskiego_w_%C5%81odzi_wn%C4%99trze.JPG/800px-Cerkiew_Newskiego_w_%C5%81odzi_wn%C4%99trze.JPG",
           "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Cerkiew_Newskiego_w_%C5%81odzi_wn%C4%99trze.JPG/320px-Cerkiew_Newskiego_w_%C5%81odzi_wn%C4%99trze.JPG",
           "external": true
+        }
+      ]
+    },
+    {
+      "name": {
+        "en": "Archcathedral Basilica of St. Stanislaus Kostka",
+        "pl": "Bazylika archikatedralna św. Stanisława Kostki w Łodzi"
+      },
+      "description": {
+        "en": "Archcathedral basilica located in Łódź",
+        "pl": "Rzymskokatolicki kościół parafialny wybudowany w latach 1901-1912 znajdujący się przy ulicy Piotrkowskiej"
+      },
+      "photos": [
+        {
+          "caption": {
+            "en": "Outside view",
+            "pl": "Widok z zewnątrz"
+          },
+          "source": "https://pl.wikipedia.org/wiki/Plik:Lodz_katedra_(dron).jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Lodz_katedra_%28dron%29.jpg/320px-Lodz_katedra_%28dron%29.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Lodz_katedra_%28dron%29.jpg/1024px-Lodz_katedra_%28dron%29.jpg",
+          "external": true
+        },
+        {
+          "caption": {
+            "en": "Interior",
+            "pl": "Wnętrze"
+          },
+          "source": "https://pl.wikipedia.org/wiki/Plik:Lodz_katedra_wnetrze.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Lodz_katedra_wnetrze.jpg/160px-Lodz_katedra_wnetrze.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Lodz_katedra_wnetrze.jpg/512px-Lodz_katedra_wnetrze.jpg",
+          "external": true
+        },
+        {
+          "caption": {
+            "en": "Pipe organ",
+            "pl": "Organy"
+          },
+          "source": "https://pl.wikipedia.org/wiki/Plik:%C5%81%C3%B3d%C5%BA_-_Archikatedra_-_Organy_01.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/%C5%81%C3%B3d%C5%BA_-_Archikatedra_-_Organy_01.jpg/320px-%C5%81%C3%B3d%C5%BA_-_Archikatedra_-_Organy_01.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/%C5%81%C3%B3d%C5%BA_-_Archikatedra_-_Organy_01.jpg/1024px-%C5%81%C3%B3d%C5%BA_-_Archikatedra_-_Organy_01.jpg",
+          "external": true
+        },
+        {
+          "caption": {
+            "en": "Basilica by night",
+            "pl": "Archikatedra nocą"
+          },
+          "src": "/assets/photo/lodz/archikatedra.jpg",
+          "thumb": "/assets/photo/lodz/archikatedra_thumb.jpg"
         }
       ]
     }
