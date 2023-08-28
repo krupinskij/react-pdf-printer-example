@@ -10,7 +10,8 @@
       "pl": "Koziołki poznańskie"
     },
     "source": "https://pixabay.com/pl/photos/pozna%c5%84-miasto-stare-miasto-1541469/",
-    "src": "/assets/photo/poznan/koziolki.jpg"
+    "src": "https://upload.wikimedia.org/wikipedia/commons/9/97/Kozio%C5%82ki_Pozna%C5%84_lipiec_2007_RB2.JPG",
+    "external": true
   },
   "attractions": [
     {

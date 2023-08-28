@@ -14,12 +14,12 @@ const Cover = ({ city, description, position, background }: Props) => {
   const { t } = useTranslation('cities');
   const { isPrinter } = usePrinter();
   return (
-    <Styled.Cover>
+    <Styled.Cover $print={isPrinter}>
       <Styled.TitleWrapper>
         <Styled.Title>{t(city)}</Styled.Title>
         <Styled.SubTitle>{description}</Styled.SubTitle>
       </Styled.TitleWrapper>
-      <Styled.Map position={position} $print={isPrinter} />
+      {!isPrinter && <Styled.Map position={position} $print={isPrinter} />}
       <Background {...background} />
     </Styled.Cover>
   );

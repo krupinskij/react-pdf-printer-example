@@ -4,12 +4,22 @@ import Link from 'components/Link';
 
 export const Menu = styled.ul`
   font-size: ${({ theme }) => theme.font.md};
-  padding: 0.5em 2em;
   list-style: none;
+  margin: auto;
+  padding: 0px;
+  width: max-content;
 `;
 
 export const MenuItem = styled.li`
-  padding: 0.4em 0.1em;
+  padding: 0.6em 0.1em;
+
+  &:first-child {
+    padding-top: 2em;
+  }
+
+  &:last-child {
+    padding-bottom: 2em;
+  }
 `;
 
 export const MenuLink = styled(Link)`

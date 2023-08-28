@@ -10,8 +10,13 @@ const Background = ({ caption, source, src }: Props) => {
   const { isPrinter } = usePrinter();
   return (
     <Styled.Wrapper $print={isPrinter}>
-      <Styled.Shadow />
-      <Styled.Image caption={{ text: caption, position: 'top-right' }} source={source} src={src} />
+      {!isPrinter && <Styled.Shadow />}
+      <Styled.Image
+        $print={isPrinter}
+        caption={{ text: caption, position: 'top-right' }}
+        source={source}
+        src={src}
+      />
     </Styled.Wrapper>
   );
 };
