@@ -9,8 +9,9 @@
       "en": "Poznań Goats",
       "pl": "Koziołki poznańskie"
     },
-    "source": "https://pixabay.com/pl/photos/pozna%c5%84-miasto-stare-miasto-1541469/",
-    "src": "/assets/photo/poznan/koziolki.jpg"
+    "source": "https://commons.wikimedia.org/wiki/File:Poznan_Town_Hall_VII.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Poznan_Town_Hall_VII.jpg/1280px-Poznan_Town_Hall_VII.jpg?uselang=pl",
+    "external": true
   },
   "attractions": [
     {

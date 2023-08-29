@@ -30,5 +30,6 @@
   "swipe": {
     "left": "Swipe left",
     "right": "Swipe right"
-  }
+  },
+  "firefox": "Firefox browser detected!\nYou can still use the application but due to lack of support PDF documents can be currupted."
 }

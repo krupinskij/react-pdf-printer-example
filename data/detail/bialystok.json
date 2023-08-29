@@ -10,7 +10,8 @@
       "pl": "Pałac Branickich"
     },
     "source": "https://pixabay.com/pl/photos/pa%c5%82ac-branickich-bia%c5%82ystok-4398369/",
-    "src": "/assets/photo/bialystok/palac.jpg"
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Bia%C5%82ystok%2C_Pa%C5%82ac_Branickich_-_widok_od_ogrodu.jpg/1280px-Bia%C5%82ystok%2C_Pa%C5%82ac_Branickich_-_widok_od_ogrodu.jpg",
+    "external": true
   },
   "attractions": [
     {
