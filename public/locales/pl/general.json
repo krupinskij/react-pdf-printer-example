@@ -30,5 +30,6 @@
   "swipe": {
     "left": "Przewiń w lewo",
     "right": "Przewiń w prawo"
-  }
+  },
+  "firefox": "Wykryto przeglądarkę Firefox!\nWciąż możesz korzystać z aplikacji natomiast z powodu braku wsparcia wydrukowane dokumenty PDF mogą być uszkodzone."
 }
