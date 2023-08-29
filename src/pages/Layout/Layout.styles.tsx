@@ -3,7 +3,7 @@ import styled from 'styled-components';
 import LanguageSwitchC from './LanguageSwitch';
 import SkipButtonC from './SkipButton';
 
-const sidebardWidth = '200px';
+const sidebardWidth = '15vw';
 const headerHeight = '120px';
 const footerHeight = '50px';
 

@@ -1,11 +1,11 @@
-import styled from 'styled-components';
+import styled, { css } from 'styled-components';
 
 import ImageC from 'components/Image';
 
 export const Wrapper = styled.div<{ $print: boolean }>`
   position: absolute;
   right: 0;
-  left: ${({ $print }) => ($print ? '270px' : '320px')};
+  z-index: 0;
 
   figure {
     width: 100%;
@@ -26,8 +26,15 @@ export const Shadow = styled.div`
   z-index: 1;
 `;
 
-export const Image = styled(ImageC)`
-  width: 100%;
-  min-height: 620px;
-  margin-bottom: 32px;
+export const Image = styled(ImageC)<{ $print: boolean }>`
+  ${({ $print }) =>
+    $print
+      ? css`
+          width: 100%;
+          min-height: 620px;
+        `
+      : css`
+          height: 85vh;
+          translate: 0px -5vh;
+        `}
 `;

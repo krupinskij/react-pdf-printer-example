@@ -10,7 +10,8 @@
       "pl": "Zamek Lubelski"
     },
     "source": "https://en.wikipedia.org/wiki/File:Zamek_Lublin,_dawne_wi%C4%99zienie.jpg",
-    "src": "/assets/photo/lublin/zamek.jpg"
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Zamek_Lublin%2C_dawne_wi%C4%99zienie.jpg/1280px-Zamek_Lublin%2C_dawne_wi%C4%99zienie.jpg",
+    "external": true
   },
   "attractions": [
     {

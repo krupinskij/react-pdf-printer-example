@@ -6,11 +6,12 @@
   },
   "background": {
     "caption": {
-      "en": "Wrocław's dwarfs",
-      "pl": "Wrocławskie krasnale"
+      "en": "WrocLovek - one of over 1000 Wrocław's dwarfs",
+      "pl": "WrocLovek - jeden z ponad tysiąca wrocławskich krasnali"
     },
-    "source": "https://pixabay.com/pl/photos/polska-wroc%c5%82aw-gnom-obraz-br%c4%85zowy-1442100/",
-    "src": "/assets/photo/wroclaw/krasnale.jpg"
+    "source": "https://commons.wikimedia.org/wiki/File:WrocLovek_(WrocLover)_Wroclaw_dwarf_2016_P02.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/WrocLovek_%28WrocLover%29_Wroclaw_dwarf_2016_P02.jpg/1280px-WrocLovek_%28WrocLover%29_Wroclaw_dwarf_2016_P02.jpg",
+    "external": true
   },
   "attractions": [
     {

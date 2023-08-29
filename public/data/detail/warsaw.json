@@ -9,8 +9,9 @@
       "en": "Mermaid of Warsaw",
       "pl": "Syrenka Warszawska"
     },
-    "source": "https://pixabay.com/pl/photos/warszawa-syrenka-pomnik-rze%c5%baba-2842681/",
-    "src": "/assets/photo/warsaw/syrenka.jpg"
+    "source": "https://commons.wikimedia.org/wiki/File:Warszawska_Syrenka_-_01.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Warszawska_Syrenka_-_01.jpg/1280px-Warszawska_Syrenka_-_01.jpg",
+    "external": true
   },
   "attractions": [
     {
