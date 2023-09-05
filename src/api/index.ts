@@ -1,5 +1,3 @@
-import { json } from 'react-router-dom';
-
 import i18n, { SupportedLng } from 'translations/i18n';
 
 import { City, CityDetail, Detail, DetailDto, cities } from './model';
