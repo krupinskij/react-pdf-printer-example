@@ -59,7 +59,6 @@ export type ImageDto = {
   caption: Translated;
   source?: string;
   src: string;
-  external?: boolean;
   thumb?: string;
 };
 

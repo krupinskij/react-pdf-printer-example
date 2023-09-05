@@ -3,7 +3,7 @@ import { useRef } from 'react';
 import { useTranslation } from 'react-i18next';
 import { Document, DocumentRef } from 'react-pdf-printer';
 
-import API, { QUERY, cities } from 'api';
+import API, { QUERY } from 'api';
 import { Footer, Header } from 'components/Document';
 import { City } from 'components/PDF';
 

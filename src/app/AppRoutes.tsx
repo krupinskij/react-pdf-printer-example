@@ -1,4 +1,4 @@
-import { createBrowserRouter, createHashRouter, Navigate, RouterProvider } from 'react-router-dom';
+import { createBrowserRouter, Navigate, RouterProvider } from 'react-router-dom';
 
 import { cities } from 'api';
 import CityPage from 'pages/CityPage';

@@ -1,5 +1,3 @@
-import { json } from 'react-router-dom';
-
 import i18n, { SupportedLng } from 'translations/i18n';
 
 import { City, CityDetail, Detail, DetailDto, cities } from './model';
@@ -7,25 +5,29 @@ import { QUERY } from './query';
 
 const sleep = (ms: number) => new Promise((res) => setTimeout(() => res(''), ms));
 
+const mapSrc = (src: string): string => {
+  const regexp = /^((http|https):\/\/)/;
+
+  return regexp.test(src) ? src : `${import.meta.env.BASE_URL}${src}`;
+};
+
 const mapDetails = (details: DetailDto, lng: SupportedLng): Detail => {
   return {
     ...details,
     background: {
       ...details.background,
       caption: details.background.caption[lng],
-      src: `${details.background.external ? '' : import.meta.env.BASE_URL}${
-        details.background.src
-      }`,
+      src: mapSrc(details.background.src),
     },
     description: details.description[lng],
     attractions: details.attractions.map(({ name, description, photos }) => ({
       name: name[lng],
       description: description[lng],
-      photos: photos.map(({ external, ...photo }) => ({
+      photos: photos.map((photo) => ({
         ...photo,
         caption: photo.caption[lng],
-        src: `${external ? '' : import.meta.env.BASE_URL}${photo.src}`,
-        thumb: `${external ? '' : import.meta.env.BASE_URL}${photo.thumb ?? photo.src}`,
+        src: mapSrc(photo.src),
+        thumb: mapSrc(photo.thumb ?? photo.src),
       })),
     })),
   };
