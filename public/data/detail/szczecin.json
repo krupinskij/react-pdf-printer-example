@@ -6,11 +6,10 @@
   },
   "background": {
     "caption": {
-      "en": "Small observation deck on Chrobry Embankment.",
-      "pl": "Mały taras na Wałach Chrobrego."
+      "en": "Fountain at the feet of Chrobry Embankment",
+      "pl": "Fontanna u stóp Wałów Chrobrego"
     },
-    "source": "https://pixabay.com/pl/photos/szczecin-polska-zwiedza%c4%87-zabytki-3570010/",
-    "src": "/assets/photo/szczecin/maly_taras.jpg"
+    "src": "/assets/photo/szczecin/fontanna.jpg"
   },
   "attractions": [
     {
@@ -34,30 +33,51 @@
         },
         {
           "caption": {
+            "en": "Observation deck",
+            "pl": "Taras"
+          },
+          "src": "/assets/photo/szczecin/waly_chrobrego/taras.jpg",
+          "thumb": "/assets/photo/szczecin/waly_chrobrego/taras.thumb.jpg"
+        },
+        {
+          "caption": {
             "en": "National Museum",
             "pl": "Muzeum Narodowe"
           },
-          "source": "https://en.wikipedia.org/wiki/File:Szczecin_muzeum_narodowe.jpg",
-          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Szczecin_muzeum_narodowe.jpg/800px-Szczecin_muzeum_narodowe.jpg",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Szczecin_muzeum_narodowe.jpg/320px-Szczecin_muzeum_narodowe.jpg"
+          "src": "/assets/photo/szczecin/waly_chrobrego/muzeum.jpg",
+          "thumb": "/assets/photo/szczecin/waly_chrobrego/muzeum.thumb.jpg"
         },
         {
           "caption": {
             "en": "Fountain",
             "pl": "Fontanna"
           },
-          "source": "https://pl.wikipedia.org/wiki/Plik:PolandSzczecinTarraces2.JPG",
-          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/PolandSzczecinTarraces2.JPG/800px-PolandSzczecinTarraces2.JPG",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/PolandSzczecinTarraces2.JPG/320px-PolandSzczecinTarraces2.JPG"
+          "src": "/assets/photo/szczecin/waly_chrobrego/fontanna.jpg",
+          "thumb": "/assets/photo/szczecin/waly_chrobrego/fontanna.thumb.jpg"
         },
         {
           "caption": {
             "en": "Statue of Hercules fighting with centaur",
             "pl": "\"Herkules walczący z centaurem\""
           },
-          "source": "https://pl.wikipedia.org/wiki/Plik:Szczecin_Herkules_walczacy_z_centaurem.jpg",
-          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Szczecin_Herkules_walczacy_z_centaurem.jpg/800px-Szczecin_Herkules_walczacy_z_centaurem.jpg",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Szczecin_Herkules_walczacy_z_centaurem.jpg/320px-Szczecin_Herkules_walczacy_z_centaurem.jpg"
+          "src": "/assets/photo/szczecin/waly_chrobrego/pomnik.jpg",
+          "thumb": "/assets/photo/szczecin/waly_chrobrego/pomnik.thumb.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Small observation deck",
+            "pl": "Mały taras"
+          },
+          "src": "/assets/photo/szczecin/waly_chrobrego/maly_taras.jpg",
+          "thumb": "/assets/photo/szczecin/waly_chrobrego/maly_taras.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "View from small observation deck",
+            "pl": "Widok z małego tarasu"
+          },
+          "src": "/assets/photo/szczecin/waly_chrobrego/widok_z_malego_tarasu.jpg",
+          "thumb": "/assets/photo/szczecin/waly_chrobrego/widok_z_malego_tarasu.thumb.jpg"
         }
       ]
     },
@@ -82,12 +102,35 @@
         },
         {
           "caption": {
-            "en": "Szczecin's History Museum",
-            "pl": "Ratusz Staromiejski"
+            "en": "Entry",
+            "pl": "Wejście"
           },
-          "source": "https://pl.wikipedia.org/wiki/Plik:Szczecin_town_hall.jpg",
-          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Szczecin_town_hall.jpg/770px-Szczecin_town_hall.jpg",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Szczecin_town_hall.jpg/308px-Szczecin_town_hall.jpg"
+          "src": "/assets/photo/szczecin/muzeum_narodowe/wejscie.jpg",
+          "thumb": "/assets/photo/szczecin/muzeum_narodowe/wejscie.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "David and Saul",
+            "pl": "Dawid i Saul"
+          },
+          "src": "/assets/photo/szczecin/muzeum_narodowe/dawid_i_saul.jpg",
+          "thumb": "/assets/photo/szczecin/muzeum_narodowe/dawid_i_saul.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Explanations of symbols from the exhibition: \"Hidden meaning. Art in Pomerania in the 16th and 17th centuries\"",
+            "pl": "Objaśnienia symboli z wystawy: \"Ukryte znaczenia. Sztuka na Pomorzu w XVI i XVII wieku\""
+          },
+          "src": "/assets/photo/szczecin/muzeum_narodowe/objasnienie_symboli.jpg",
+          "thumb": "/assets/photo/szczecin/muzeum_narodowe/objasnienie_symboli.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Triptych from the exhibition: \"The Mystery of Light. Medieval art in Pomerania\"",
+            "pl": "Poliptyk świętojański z wystawy: \"Misterium Światła. Sztuka średniowieczna na Pomorzu\""
+          },
+          "src": "/assets/photo/szczecin/muzeum_narodowe/tryptyk.jpg",
+          "thumb": "/assets/photo/szczecin/muzeum_narodowe/tryptyk.thumb.jpg"
         },
         {
           "caption": {
@@ -97,6 +140,75 @@
           "source": "https://pl.wikipedia.org/wiki/Plik:Muzeum_Narodowe_w_Szczecinie_wystawa_Antyczne_korzenie_Europy.jpg",
           "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Muzeum_Narodowe_w_Szczecinie_wystawa_Antyczne_korzenie_Europy.jpg/800px-Muzeum_Narodowe_w_Szczecinie_wystawa_Antyczne_korzenie_Europy.jpg",
           "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Muzeum_Narodowe_w_Szczecinie_wystawa_Antyczne_korzenie_Europy.jpg/320px-Muzeum_Narodowe_w_Szczecinie_wystawa_Antyczne_korzenie_Europy.jpg"
+        },
+        {
+          "caption": {
+            "en": "Exhibition: \"Art of Africa - between a Mask and a Fetish\"",
+            "pl": "Wystawa: \"Sztuka Afryki - między maską a fetyszem\""
+          },
+          "src": "/assets/photo/szczecin/muzeum_narodowe/afryka.jpg",
+          "thumb": "/assets/photo/szczecin/muzeum_narodowe/afryka.thumb.jpg"
+        }
+      ]
+    },
+    {
+      "name": {
+        "en": "National Museum - The Museum of Regional Traditions",
+        "pl": "Muzeum Narodowe w Szczecinie - Muzeum Tradycji Regionalnych"
+      },
+      "description": {
+        "en": "A museum storing exhibits of the region from various historical eras",
+        "pl": "Muzeum przechowujące historyczne eksponaty regionu pochodzące z różnych epok"
+      },
+      "photos": [
+        {
+          "caption": {
+            "en": "Mammoth tusk",
+            "pl": "Cios mamuta"
+          },
+          "src": "/assets/photo/szczecin/muzeum_tradycji_regionalnych/cios.jpg",
+          "thumb": "/assets/photo/szczecin/muzeum_tradycji_regionalnych/cios.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Amber bear from Słupsk",
+            "pl": "Bursztynowy niedźwiadek ze Słupska"
+          },
+          "source": "https://pl.wikipedia.org/wiki/Plik:Niedzwiadek_szczescia_MG_9578.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Niedzwiadek_szczescia_MG_9578.jpg/1024px-Niedzwiadek_szczescia_MG_9578.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Niedzwiadek_szczescia_MG_9578.jpg/320px-Niedzwiadek_szczescia_MG_9578.jpg"
+        },
+        {
+          "caption": {
+            "en": "Ancient necklace",
+            "pl": "Starożytny naszyjnik"
+          },
+          "src": "/assets/photo/szczecin/muzeum_tradycji_regionalnych/naszyjnik.jpg",
+          "thumb": "/assets/photo/szczecin/muzeum_tradycji_regionalnych/naszyjnik.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Coffin",
+            "pl": "Trumna"
+          },
+          "src": "/assets/photo/szczecin/muzeum_tradycji_regionalnych/trumna.jpg",
+          "thumb": "/assets/photo/szczecin/muzeum_tradycji_regionalnych/trumna.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Family tree of Pomeranian princes",
+            "pl": "Drzewo genealogiczne książąt pomorskich"
+          },
+          "src": "/assets/photo/szczecin/muzeum_tradycji_regionalnych/drzewo_genealogiczne.jpg",
+          "thumb": "/assets/photo/szczecin/muzeum_tradycji_regionalnych/drzewo_genealogiczne.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Nobility costume",
+            "pl": "Strój szlachecki"
+          },
+          "src": "/assets/photo/szczecin/muzeum_tradycji_regionalnych/stroj.jpg",
+          "thumb": "/assets/photo/szczecin/muzeum_tradycji_regionalnych/stroj.thumb.jpg"
         }
       ]
     },
@@ -121,12 +233,35 @@
         },
         {
           "caption": {
-            "en": "View from one of the towers",
+            "en": "Observation tower",
+            "pl": "Wieża widokowa"
+          },
+          "src": "/assets/photo/szczecin/zamek/wieza_widokowa.jpg",
+          "thumb": "/assets/photo/szczecin/zamek/wieza_widokowa.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "View from observation tower",
             "pl": "Widok z wieży"
           },
-          "source": "https://en.wikipedia.org/wiki/File:Zamek_Ksiazat_Pomorskich_w_Szczecinie_(widok_z_wiezy).jpg",
-          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Zamek_Ksiazat_Pomorskich_w_Szczecinie_%28widok_z_wiezy%29.jpg/800px-Zamek_Ksiazat_Pomorskich_w_Szczecinie_%28widok_z_wiezy%29.jpg",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Zamek_Ksiazat_Pomorskich_w_Szczecinie_%28widok_z_wiezy%29.jpg/320px-Zamek_Ksiazat_Pomorskich_w_Szczecinie_%28widok_z_wiezy%29.jpg"
+          "src": "/assets/photo/szczecin/zamek/widok.jpg",
+          "thumb": "/assets/photo/szczecin/zamek/widok.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "View of the courtyard",
+            "pl": "Widok na dziedziniec"
+          },
+          "src": "/assets/photo/szczecin/zamek/widok_dziedziniec.jpg",
+          "thumb": "/assets/photo/szczecin/zamek/widok_dziedziniec.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "View of the cathedral",
+            "pl": "Widok na archikatedrę"
+          },
+          "src": "/assets/photo/szczecin/zamek/widok_bazylika.jpg",
+          "thumb": "/assets/photo/szczecin/zamek/widok_bazylika.thumb.jpg"
         },
         {
           "caption": {
@@ -139,12 +274,135 @@
         },
         {
           "caption": {
+            "en": "Clock tower",
+            "pl": "Wieża Zegarowa"
+          },
+          "src": "/assets/photo/szczecin/zamek/wieza_zegarowa.jpg",
+          "thumb": "/assets/photo/szczecin/zamek/wieza_zegarowa.thumb.jpg"
+        },
+        {
+          "caption": {
             "en": "Clock on the castle's clock tower",
             "pl": "Zegar na Wieży Zegarowej"
           },
           "source": "https://pl.wikipedia.org/wiki/Plik:Szczecin_Zamek_Ksiazat_Pomorskich_zegar.jpg",
           "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Szczecin_Zamek_Ksiazat_Pomorskich_zegar.jpg/358px-Szczecin_Zamek_Ksiazat_Pomorskich_zegar.jpg",
           "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Szczecin_Zamek_Ksiazat_Pomorskich_zegar.jpg/143px-Szczecin_Zamek_Ksiazat_Pomorskich_zegar.jpg"
+        },
+        {
+          "caption": {
+            "en": "Model the castle",
+            "pl": "Makieta Zamku"
+          },
+          "src": "/assets/photo/szczecin/zamek/makieta.jpg",
+          "thumb": "/assets/photo/szczecin/zamek/makieta.thumb.jpg"
+        }
+      ]
+    },
+    {
+      "name": {
+        "en": "Archcathedral Basilica of St James the Apostle",
+        "pl": "Bazylika archikatedralna św. Jakuba w Szczecinie"
+      },
+      "description": {
+        "en": "Gothic cathedral located in Szczecin. The second tallest church in Poland.",
+        "pl": "Główny kościół rzymskokatolicki Szczecina. Drugi pod względem wysokości kościół w Polsce."
+      },
+      "photos": [
+        {
+          "caption": {
+            "en": "Facade",
+            "pl": "Fasada"
+          },
+          "src": "/assets/photo/szczecin/bazylika/przod.jpg",
+          "thumb": "/assets/photo/szczecin/bazylika/przod.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Widok z tyłu",
+            "pl": "View from the back"
+          },
+          "src": "/assets/photo/szczecin/bazylika/tyl.jpg",
+          "thumb": "/assets/photo/szczecin/bazylika/tyl.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Presbytery",
+            "pl": "Prezbiterium"
+          },
+          "source": "https://pl.wikipedia.org/wiki/Plik:Szczecin_katedra_1.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Szczecin_katedra_1.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Szczecin_katedra_1.jpg/320px-Szczecin_katedra_1.jpg"
+        },
+        {
+          "caption": {
+            "en": "Pipe organ",
+            "pl": "Organy"
+          },
+          "src": "/assets/photo/szczecin/bazylika/organy.jpg",
+          "thumb": "/assets/photo/szczecin/bazylika/organy.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "The image of the patron saint - St. Jacob",
+            "pl": "Wizerunek patrona - św. Jakuba"
+          },
+          "src": "/assets/photo/szczecin/bazylika/jakub.jpg",
+          "thumb": "/assets/photo/szczecin/bazylika/jakub.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "View from the tower",
+            "pl": "Widok z wieży"
+          },
+          "src": "/assets/photo/szczecin/bazylika/widok.jpg",
+          "thumb": "/assets/photo/szczecin/bazylika/widok.thumb.jpg"
+        }
+      ]
+    },
+    {
+      "name": {
+        "en": "Mieczysław Karłowicz Philharmonic",
+        "pl": "Filharmonia im. Mieczysława Karłowicza"
+      },
+      "description": {
+        "en": "A contemporary icon of modern architecture",
+        "pl": "Współczesna ikona nowoczesnej architektury"
+      },
+      "photos": [
+        {
+          "caption": {
+            "en": "Facade",
+            "pl": "Fasada"
+          },
+          "src": "/assets/photo/szczecin/filharmonia/przod.jpg",
+          "thumb": "/assets/photo/szczecin/filharmonia/przod.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Elevation",
+            "pl": "Elewacja"
+          },
+          "src": "/assets/photo/szczecin/filharmonia/budynek.jpg",
+          "thumb": "/assets/photo/szczecin/filharmonia/budynek.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "The interior",
+            "pl": "Hol główny"
+          },
+          "source": "https://pl.wikipedia.org/wiki/Plik:Szczecin_filharmonia_(1).jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Szczecin_filharmonia_%281%29.jpg/1024px-Szczecin_filharmonia_%281%29.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Szczecin_filharmonia_%281%29.jpg/320px-Szczecin_filharmonia_%281%29.jpg"
+        },
+        {
+          "caption": {
+            "en": "Main hall",
+            "pl": "Sala główna"
+          },
+          "source": "https://pl.wikipedia.org/wiki/Plik:Szczecin_filharmonia_(2).jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Szczecin_filharmonia_%282%29.jpg/1024px-Szczecin_filharmonia_%282%29.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Szczecin_filharmonia_%282%29.jpg/320px-Szczecin_filharmonia_%282%29.jpg"
         }
       ]
     },
@@ -169,21 +427,105 @@
         },
         {
           "caption": {
-            "en": "Monument to Polish Endeavor",
-            "pl": "Pomnik Czynu Polaków"
-          },
-          "source": "https://pl.wikipedia.org/wiki/Plik:0907_Pomnik_Czynu_Polak%C3%B3w_Szczecin_SZN.jpg",
-          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/0907_Pomnik_Czynu_Polak%C3%B3w_Szczecin_SZN.jpg/426px-0907_Pomnik_Czynu_Polak%C3%B3w_Szczecin_SZN.jpg",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/0907_Pomnik_Czynu_Polak%C3%B3w_Szczecin_SZN.jpg/170px-0907_Pomnik_Czynu_Polak%C3%B3w_Szczecin_SZN.jpg"
-        },
-        {
-          "caption": {
             "en": "Monument of John Paul II",
             "pl": "Pomnik Jana Pawła II"
           },
           "source": "https://pl.wikipedia.org/wiki/Plik:Szczecin_pomnik_Jana_Pawla_II.jpg",
           "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Szczecin_pomnik_Jana_Pawla_II.jpg/499px-Szczecin_pomnik_Jana_Pawla_II.jpg",
           "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Szczecin_pomnik_Jana_Pawla_II.jpg/200px-Szczecin_pomnik_Jana_Pawla_II.jpg"
+        },
+        {
+          "caption": {
+            "en": "Monument to Polish Endeavor",
+            "pl": "Pomnik Czynu Polaków"
+          },
+          "src": "/assets/photo/szczecin/jasne_blonia/pomnik.jpg",
+          "thumb": "/assets/photo/szczecin/jasne_blonia/pomnik.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Memorial plaque under the monument",
+            "pl": "Tablica pod pomnikiem"
+          },
+          "src": "/assets/photo/szczecin/jasne_blonia/tablica.jpg",
+          "thumb": "/assets/photo/szczecin/jasne_blonia/tablica.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "City Hall near the park",
+            "pl": "Urząd Miejski niedaleko parku"
+          },
+          "src": "/assets/photo/szczecin/jasne_blonia/urzad.jpg",
+          "thumb": "/assets/photo/szczecin/jasne_blonia/urzad.thumb.jpg"
+        }
+      ]
+    },
+    {
+      "name": {
+        "en": "Łasztownia and Cranosauruses",
+        "pl": "Łasztownia i Dźwigozaury"
+      },
+      "description": {
+        "en": "River island with illuminated antique cranes. A place for walks.",
+        "pl": "Wyspa rzeczna z podświetlanymi zabytkowymi żurawiami. Miejsce spacerów."
+      },
+      "photos": [
+        {
+          "caption": {
+            "en": "Cranosauruses",
+            "pl": "Dźwigozaury"
+          },
+          "source": "https://www.flickr.com/photos/185111113@N07/52163382036/in/photolist-WLu5Gq-WoXNHA-WZUhHC-YtjzdE-VM545i-WREFBK-2ghp42U-WsShHb-VCq1wX-XTnsUr-WsSjF9-WsS9Fj-XVhAFs-WsSaUw-X4wBoT-2ntuY8N-2gcBhXk",
+          "src": "/assets/photo/szczecin/lasztownia/dzwigozaury.jpg",
+          "thumb": "/assets/photo/szczecin/lasztownia/dzwigozaury.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Cranosauruses by day",
+            "pl": "Dźwigozaury w dzień"
+          },
+          "src": "/assets/photo/szczecin/lasztownia/zurawie.jpg",
+          "thumb": "/assets/photo/szczecin/lasztownia/zurawie.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "\"Szczecin\"",
+            "pl": "\"Szczecin\""
+          },
+          "src": "/assets/photo/szczecin/lasztownia/szczecin.jpg",
+          "thumb": "/assets/photo/szczecin/lasztownia/szczecin.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Boulevards",
+            "pl": "Bulwary"
+          },
+          "src": "/assets/photo/szczecin/lasztownia/bulwary.jpg",
+          "thumb": "/assets/photo/szczecin/lasztownia/bulwary.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "\"Długi\" (Long) Brigde",
+            "pl": "Most Długi"
+          },
+          "src": "/assets/photo/szczecin/lasztownia/most.jpg",
+          "thumb": "/assets/photo/szczecin/lasztownia/most.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Installation \"Paprykarz Szczeciński\"",
+            "pl": "Instalacja \"Paprykarz Szczeciński\""
+          },
+          "src": "/assets/photo/szczecin/lasztownia/paprykarz.jpg",
+          "thumb": "/assets/photo/szczecin/lasztownia/paprykarz.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Krzysztof Jarzyna from Szczecin (polish movie character)",
+            "pl": "Krzysztof Jarzyna ze Szczecina"
+          },
+          "src": "/assets/photo/szczecin/lasztownia/jarzyna.jpg",
+          "thumb": "/assets/photo/szczecin/lasztownia/jarzyna.thumb.jpg"
         }
       ]
     }
