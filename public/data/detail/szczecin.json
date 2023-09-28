@@ -37,7 +37,7 @@
             "pl": "Taras"
           },
           "src": "/assets/photo/szczecin/waly_chrobrego/taras.jpg",
-          "thumb": "/assets/photo/szczecin/waly_chrobrego/taras.jpg"
+          "thumb": "/assets/photo/szczecin/waly_chrobrego/taras.thumb.jpg"
         },
         {
           "caption": {
@@ -45,7 +45,7 @@
             "pl": "Muzeum Narodowe"
           },
           "src": "/assets/photo/szczecin/waly_chrobrego/muzeum.jpg",
-          "thumb": "/assets/photo/szczecin/waly_chrobrego/muzeum.jpg"
+          "thumb": "/assets/photo/szczecin/waly_chrobrego/muzeum.thumb.jpg"
         },
         {
           "caption": {
@@ -53,7 +53,7 @@
             "pl": "Fontanna"
           },
           "src": "/assets/photo/szczecin/waly_chrobrego/fontanna.jpg",
-          "thumb": "/assets/photo/szczecin/waly_chrobrego/fontanna.jpg"
+          "thumb": "/assets/photo/szczecin/waly_chrobrego/fontanna.thumb.jpg"
         },
         {
           "caption": {
@@ -61,7 +61,7 @@
             "pl": "\"Herkules walczący z centaurem\""
           },
           "src": "/assets/photo/szczecin/waly_chrobrego/pomnik.jpg",
-          "thumb": "/assets/photo/szczecin/waly_chrobrego/pomnik.jpg"
+          "thumb": "/assets/photo/szczecin/waly_chrobrego/pomnik.thumb.thumb.jpg"
         },
         {
           "caption": {
@@ -69,7 +69,7 @@
             "pl": "Mały taras"
           },
           "src": "/assets/photo/szczecin/waly_chrobrego/maly_taras.jpg",
-          "thumb": "/assets/photo/szczecin/waly_chrobrego/maly_taras.jpg"
+          "thumb": "/assets/photo/szczecin/waly_chrobrego/maly_taras.thumb.jpg"
         },
         {
           "caption": {
@@ -77,7 +77,7 @@
             "pl": "Widok z małego tarasu"
           },
           "src": "/assets/photo/szczecin/waly_chrobrego/widok_z_malego_tarasu.jpg",
-          "thumb": "/assets/photo/szczecin/waly_chrobrego/widok_z_malego_tarasu.jpg"
+          "thumb": "/assets/photo/szczecin/waly_chrobrego/widok_z_malego_tarasu.thumb.jpg"
         }
       ]
     },
@@ -106,7 +106,7 @@
             "pl": "Wejście"
           },
           "src": "/assets/photo/szczecin/muzeum_narodowe/wejscie.jpg",
-          "thumb": "/assets/photo/szczecin/muzeum_narodowe/wejscie.jpg"
+          "thumb": "/assets/photo/szczecin/muzeum_narodowe/wejscie.thumb.jpg"
         },
         {
           "caption": {
@@ -114,7 +114,7 @@
             "pl": "Dawid i Saul"
           },
           "src": "/assets/photo/szczecin/muzeum_narodowe/dawid_i_saul.jpg",
-          "thumb": "/assets/photo/szczecin/muzeum_narodowe/dawid_i_saul.jpg"
+          "thumb": "/assets/photo/szczecin/muzeum_narodowe/dawid_i_saul.thumb.jpg"
         },
         {
           "caption": {
@@ -122,7 +122,7 @@
             "pl": "Objaśnienia symboli z wystawy: \"Ukryte znaczenia. Sztuka na Pomorzu w XVI i XVII wieku\""
           },
           "src": "/assets/photo/szczecin/muzeum_narodowe/objasnienie_symboli.jpg",
-          "thumb": "/assets/photo/szczecin/muzeum_narodowe/objasnienie_symboli.jpg"
+          "thumb": "/assets/photo/szczecin/muzeum_narodowe/objasnienie_symboli.thumb.jpg"
         },
         {
           "caption": {
@@ -130,7 +130,7 @@
             "pl": "Poliptyk świętojański z wystawy: \"Misterium Światła. Sztuka średniowieczna na Pomorzu\""
           },
           "src": "/assets/photo/szczecin/muzeum_narodowe/tryptyk.jpg",
-          "thumb": "/assets/photo/szczecin/muzeum_narodowe/tryptyk.jpg"
+          "thumb": "/assets/photo/szczecin/muzeum_narodowe/tryptyk.thumb.jpg"
         },
         {
           "caption": {
@@ -147,7 +147,7 @@
             "pl": "Wystawa: \"Sztuka Afryki - między maską a fetyszem\""
           },
           "src": "/assets/photo/szczecin/muzeum_narodowe/afryka.jpg",
-          "thumb": "/assets/photo/szczecin/muzeum_narodowe/afryka.jpg"
+          "thumb": "/assets/photo/szczecin/muzeum_narodowe/afryka.thumb.jpg"
         }
       ]
     },
@@ -167,7 +167,7 @@
             "pl": "Cios mamuta"
           },
           "src": "/assets/photo/szczecin/muzeum_tradycji_regionalnych/cios.jpg",
-          "thumb": "/assets/photo/szczecin/muzeum_tradycji_regionalnych/cios.jpg"
+          "thumb": "/assets/photo/szczecin/muzeum_tradycji_regionalnych/cios.thumb.jpg"
         },
         {
           "caption": {
@@ -184,7 +184,7 @@
             "pl": "Starożytny naszyjnik"
           },
           "src": "/assets/photo/szczecin/muzeum_tradycji_regionalnych/naszyjnik.jpg",
-          "thumb": "/assets/photo/szczecin/muzeum_tradycji_regionalnych/naszyjnik.jpg"
+          "thumb": "/assets/photo/szczecin/muzeum_tradycji_regionalnych/naszyjnik.thumb.jpg"
         },
         {
           "caption": {
@@ -192,7 +192,7 @@
             "pl": "Trumna"
           },
           "src": "/assets/photo/szczecin/muzeum_tradycji_regionalnych/trumna.jpg",
-          "thumb": "/assets/photo/szczecin/muzeum_tradycji_regionalnych/trumna.jpg"
+          "thumb": "/assets/photo/szczecin/muzeum_tradycji_regionalnych/trumna.thumb.jpg"
         },
         {
           "caption": {
@@ -200,7 +200,7 @@
             "pl": "Drzewo genealogiczne książąt pomorskich"
           },
           "src": "/assets/photo/szczecin/muzeum_tradycji_regionalnych/drzewo_genealogiczne.jpg",
-          "thumb": "/assets/photo/szczecin/muzeum_tradycji_regionalnych/drzewo_genealogiczne.jpg"
+          "thumb": "/assets/photo/szczecin/muzeum_tradycji_regionalnych/drzewo_genealogiczne.thumb.jpg"
         },
         {
           "caption": {
@@ -208,7 +208,7 @@
             "pl": "Strój szlachecki"
           },
           "src": "/assets/photo/szczecin/muzeum_tradycji_regionalnych/stroj.jpg",
-          "thumb": "/assets/photo/szczecin/muzeum_tradycji_regionalnych/stroj.jpg"
+          "thumb": "/assets/photo/szczecin/muzeum_tradycji_regionalnych/stroj.thumb.jpg"
         }
       ]
     },
@@ -237,7 +237,7 @@
             "pl": "Wieża widokowa"
           },
           "src": "/assets/photo/szczecin/zamek/wieza_widokowa.jpg",
-          "thumb": "/assets/photo/szczecin/zamek/wieza_widokowa.jpg"
+          "thumb": "/assets/photo/szczecin/zamek/wieza_widokowa.thumb.jpg"
         },
         {
           "caption": {
@@ -245,7 +245,7 @@
             "pl": "Widok z wieży"
           },
           "src": "/assets/photo/szczecin/zamek/widok.jpg",
-          "thumb": "/assets/photo/szczecin/zamek/widok.jpg"
+          "thumb": "/assets/photo/szczecin/zamek/widok.thumb.jpg"
         },
         {
           "caption": {
@@ -253,7 +253,7 @@
             "pl": "Widok na dziedziniec"
           },
           "src": "/assets/photo/szczecin/zamek/widok_dziedziniec.jpg",
-          "thumb": "/assets/photo/szczecin/zamek/widok_dziedziniec.jpg"
+          "thumb": "/assets/photo/szczecin/zamek/widok_dziedziniec.thumb.jpg"
         },
         {
           "caption": {
@@ -261,7 +261,7 @@
             "pl": "Widok na archikatedrę"
           },
           "src": "/assets/photo/szczecin/zamek/widok_bazylika.jpg",
-          "thumb": "/assets/photo/szczecin/zamek/widok_bazylika.jpg"
+          "thumb": "/assets/photo/szczecin/zamek/widok_bazylika.thumb.jpg"
         },
         {
           "caption": {
@@ -278,7 +278,7 @@
             "pl": "Wieża Zegarowa"
           },
           "src": "/assets/photo/szczecin/zamek/wieza_zegarowa.jpg",
-          "thumb": "/assets/photo/szczecin/zamek/wieza_zegarowa.jpg"
+          "thumb": "/assets/photo/szczecin/zamek/wieza_zegarowa.thumb.jpg"
         },
         {
           "caption": {
@@ -295,7 +295,7 @@
             "pl": "Makieta Zamku"
           },
           "src": "/assets/photo/szczecin/zamek/makieta.jpg",
-          "thumb": "/assets/photo/szczecin/zamek/makieta.jpg"
+          "thumb": "/assets/photo/szczecin/zamek/makieta.thumb.jpg"
         }
       ]
     },
@@ -315,7 +315,7 @@
             "pl": "Fasada"
           },
           "src": "/assets/photo/szczecin/bazylika/przod.jpg",
-          "thumb": "/assets/photo/szczecin/bazylika/przod.jpg"
+          "thumb": "/assets/photo/szczecin/bazylika/przod.thumb.jpg"
         },
         {
           "caption": {
@@ -323,7 +323,7 @@
             "pl": "View from the back"
           },
           "src": "/assets/photo/szczecin/bazylika/tyl.jpg",
-          "thumb": "/assets/photo/szczecin/bazylika/tyl.jpg"
+          "thumb": "/assets/photo/szczecin/bazylika/tyl.thumb.jpg"
         },
         {
           "caption": {
@@ -340,7 +340,7 @@
             "pl": "Organy"
           },
           "src": "/assets/photo/szczecin/bazylika/organy.jpg",
-          "thumb": "/assets/photo/szczecin/bazylika/organy.jpg"
+          "thumb": "/assets/photo/szczecin/bazylika/organy.thumb.jpg"
         },
         {
           "caption": {
@@ -348,7 +348,7 @@
             "pl": "Wizerunek patrona - św. Jakuba"
           },
           "src": "/assets/photo/szczecin/bazylika/jakub.jpg",
-          "thumb": "/assets/photo/szczecin/bazylika/jakub.jpg"
+          "thumb": "/assets/photo/szczecin/bazylika/jakub.thumb.jpg"
         },
         {
           "caption": {
@@ -356,7 +356,7 @@
             "pl": "Widok z wieży"
           },
           "src": "/assets/photo/szczecin/bazylika/widok.jpg",
-          "thumb": "/assets/photo/szczecin/bazylika/widok.jpg"
+          "thumb": "/assets/photo/szczecin/bazylika/widok.thumb.jpg"
         }
       ]
     },
@@ -376,7 +376,7 @@
             "pl": "Fasada"
           },
           "src": "/assets/photo/szczecin/filharmonia/przod.jpg",
-          "thumb": "/assets/photo/szczecin/filharmonia/przod.jpg"
+          "thumb": "/assets/photo/szczecin/filharmonia/przod.thumb.jpg"
         },
         {
           "caption": {
@@ -384,7 +384,7 @@
             "pl": "Elewacja"
           },
           "src": "/assets/photo/szczecin/filharmonia/budynek.jpg",
-          "thumb": "/assets/photo/szczecin/filharmonia/budynek.jpg"
+          "thumb": "/assets/photo/szczecin/filharmonia/budynek.thumb.jpg"
         },
         {
           "caption": {
@@ -440,7 +440,7 @@
             "pl": "Pomnik Czynu Polaków"
           },
           "src": "/assets/photo/szczecin/jasne_blonia/pomnik.jpg",
-          "thumb": "/assets/photo/szczecin/jasne_blonia/pomnik.jpg"
+          "thumb": "/assets/photo/szczecin/jasne_blonia/pomnik.thumb.jpg"
         },
         {
           "caption": {
@@ -448,7 +448,7 @@
             "pl": "Tablica pod pomnikiem"
           },
           "src": "/assets/photo/szczecin/jasne_blonia/tablica.jpg",
-          "thumb": "/assets/photo/szczecin/jasne_blonia/tablica.jpg"
+          "thumb": "/assets/photo/szczecin/jasne_blonia/tablica.thumb.jpg"
         },
         {
           "caption": {
@@ -456,7 +456,7 @@
             "pl": "Urząd Miejski niedaleko parku"
           },
           "src": "/assets/photo/szczecin/jasne_blonia/urzad.jpg",
-          "thumb": "/assets/photo/szczecin/jasne_blonia/urzad.jpg"
+          "thumb": "/assets/photo/szczecin/jasne_blonia/urzad.thumb.jpg"
         }
       ]
     },
@@ -477,7 +477,7 @@
           },
           "source": "https://www.flickr.com/photos/185111113@N07/52163382036/in/photolist-WLu5Gq-WoXNHA-WZUhHC-YtjzdE-VM545i-WREFBK-2ghp42U-WsShHb-VCq1wX-XTnsUr-WsSjF9-WsS9Fj-XVhAFs-WsSaUw-X4wBoT-2ntuY8N-2gcBhXk",
           "src": "/assets/photo/szczecin/lasztownia/dzwigozaury.jpg",
-          "thumb": "/assets/photo/szczecin/lasztownia/dzwigozaury.jpg"
+          "thumb": "/assets/photo/szczecin/lasztownia/dzwigozaury.thumb.jpg"
         },
         {
           "caption": {
@@ -485,7 +485,7 @@
             "pl": "Dźwigozaury w dzień"
           },
           "src": "/assets/photo/szczecin/lasztownia/zurawie.jpg",
-          "thumb": "/assets/photo/szczecin/lasztownia/zurawie.jpg"
+          "thumb": "/assets/photo/szczecin/lasztownia/zurawie.thumb.jpg"
         },
         {
           "caption": {
@@ -493,7 +493,7 @@
             "pl": "\"Szczecin\""
           },
           "src": "/assets/photo/szczecin/lasztownia/szczecin.jpg",
-          "thumb": "/assets/photo/szczecin/lasztownia/szczecin.jpg"
+          "thumb": "/assets/photo/szczecin/lasztownia/szczecin.thumb.jpg"
         },
         {
           "caption": {
@@ -501,7 +501,7 @@
             "pl": "Bulwary"
           },
           "src": "/assets/photo/szczecin/lasztownia/bulwary.jpg",
-          "thumb": "/assets/photo/szczecin/lasztownia/bulwary.jpg"
+          "thumb": "/assets/photo/szczecin/lasztownia/bulwary.thumb.jpg"
         },
         {
           "caption": {
@@ -509,7 +509,7 @@
             "pl": "Most Długi"
           },
           "src": "/assets/photo/szczecin/lasztownia/most.jpg",
-          "thumb": "/assets/photo/szczecin/lasztownia/most.jpg"
+          "thumb": "/assets/photo/szczecin/lasztownia/most.thumb.jpg"
         },
         {
           "caption": {
@@ -517,7 +517,7 @@
             "pl": "Instalacja \"Paprykarz Szczeciński\""
           },
           "src": "/assets/photo/szczecin/lasztownia/paprykarz.jpg",
-          "thumb": "/assets/photo/szczecin/lasztownia/paprykarz.jpg"
+          "thumb": "/assets/photo/szczecin/lasztownia/paprykarz.thumb.jpg"
         },
         {
           "caption": {
@@ -525,7 +525,7 @@
             "pl": "Krzysztof Jarzyna ze Szczecina"
           },
           "src": "/assets/photo/szczecin/lasztownia/jarzyna.jpg",
-          "thumb": "/assets/photo/szczecin/lasztownia/jarzyna.jpg"
+          "thumb": "/assets/photo/szczecin/lasztownia/jarzyna.thumb.jpg"
         }
       ]
     }
