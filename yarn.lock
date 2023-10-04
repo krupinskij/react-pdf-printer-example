@@ -1070,10 +1070,10 @@ react-is@^16.7.0:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
   integrity sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==
 
-react-pdf-printer@^2.0.0-alpha:
-  version "2.0.0-alpha"
-  resolved "https://registry.yarnpkg.com/react-pdf-printer/-/react-pdf-printer-2.0.0-alpha.tgz#b002e0be298d5e91188769d64b8a250451a9c06a"
-  integrity sha512-+Xo2/LN/5D6lDYZEbjw63d22Nscnm/hSdUPyFFEuLDXTPQtZdDdM5TX97/+9dKhTOtCPCAjw909vKkT6GhWnfw==
+react-pdf-printer@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/react-pdf-printer/-/react-pdf-printer-2.0.0.tgz#a9fac72e161fee4e0e9f1ff3bad0cec21e4ab8a0"
+  integrity sha512-Jr5OaUi4fabEwaMBRonsrgAc7oOSpV2iTFBCbcxIvfws82mDM52SyYeC3OqY1gTl0RWv+uT+Zxke35ob3TdC0A==
 
 react-refresh@^0.14.0:
   version "0.14.0"

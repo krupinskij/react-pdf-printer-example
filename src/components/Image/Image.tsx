@@ -60,7 +60,8 @@ const Image = ({
           src={thumb}
           alt={text}
           className={className}
-          onLoad={() => run()}
+          onLoad={run}
+          onError={run}
         />
         <Styled.Caption $position={position} $print={isPrinter}>
           {text} |{' '}
