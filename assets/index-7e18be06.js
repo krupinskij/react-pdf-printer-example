@@ -195,7 +195,7 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
   max-width: 80vw;
   height: auto;
   width: auto;
-`,pv=({src:e,thumb:t=e,caption:{text:n,position:r},source:i,preview:o,className:a})=>{const{subscribe:s,run:l,isPrinter:u}=ai(e),{t:c}=He("general",{keyPrefix:"image"}),f=b.useRef(null),d=b.useId(),m=()=>{var w;(w=f.current)==null||w.showModal()},v=b.useRef(null);return b.useEffect(()=>{s()},[]),de(Qi,{children:[de(oC,{children:[o&&L(aC,{"aria-controls":d,"aria-haspopup":"dialog",onClick:m,children:c("preview")}),L(sC,{ref:v,loading:u?"eager":"lazy",src:t,alt:n,className:a,onLoad:()=>l()}),de(uC,{$position:r,$print:u,children:[n," |"," ",i?L(lC,{to:i,target:"_blank",children:c("source")}):L(Qi,{children:c("private")})]})]}),!u&&o&&L(rC,{id:d,ref:f,children:L(cC,{src:e,alt:n})})]})},fC=A.div`
+`,pv=({src:e,thumb:t=e,caption:{text:n,position:r},source:i,preview:o,className:a})=>{const{subscribe:s,run:l,isPrinter:u}=ai(e),{t:c}=He("general",{keyPrefix:"image"}),f=b.useRef(null),d=b.useId(),m=()=>{var w;(w=f.current)==null||w.showModal()},v=b.useRef(null);return b.useEffect(()=>{s()},[]),de(Qi,{children:[de(oC,{children:[o&&L(aC,{"aria-controls":d,"aria-haspopup":"dialog",onClick:m,children:c("preview")}),L(sC,{ref:v,loading:u?"eager":"lazy",src:t,alt:n,className:a,onLoad:l,onError:l}),de(uC,{$position:r,$print:u,children:[n," |"," ",i?L(lC,{to:i,target:"_blank",children:c("source")}):L(Qi,{children:c("private")})]})]}),!u&&o&&L(rC,{id:d,ref:f,children:L(cC,{src:e,alt:n})})]})},fC=A.div`
   position: relative;
 `,dC=A.div`
   display: flex;
