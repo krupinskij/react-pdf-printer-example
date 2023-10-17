@@ -29,7 +29,7 @@
             "pl": "Ratusz"
           },
           "src": "/assets/photo/poznan/rynek/ratusz.jpg",
-          "thumb": "/assets/photo/poznan/rynek/ratusz.jpg"
+          "thumb": "/assets/photo/poznan/rynek/ratusz.thumb.jpg"
         },
         {
           "caption": {
@@ -38,7 +38,7 @@
           },
           "source": "https://pl.wikipedia.org/wiki/Plik:Kozio%C5%82ki_na_ratuszu.jpg",
           "src": "/assets/photo/poznan/rynek/koziolki.jpg",
-          "thumb": "/assets/photo/poznan/rynek/koziolki.jpg"
+          "thumb": "/assets/photo/poznan/rynek/koziolki.thumb.jpg"
         },
         {
           "caption": {
@@ -47,7 +47,7 @@
           },
           "source": "https://pl.wikipedia.org/wiki/Plik:Pozna%C5%84,_zesp%C3%B3%C5%82_urbanistyczno-architektoniczny_Starego_Rynku,(domki_budnicze)_nr._rej._A-195-72_z_10.11.1972.JPG",
           "src": "/assets/photo/poznan/rynek/domki.jpg",
-          "thumb": "/assets/photo/poznan/rynek/domki.jpg"
+          "thumb": "/assets/photo/poznan/rynek/domki.thumb.jpg"
         }
       ]
     },
@@ -67,7 +67,7 @@
             "pl": "Bazylika archikatedralna Świętych Apostołów Piotra i Pawła"
           },
           "src": "/assets/photo/poznan/ostrow_tumski/bazylika.jpg",
-          "thumb": "/assets/photo/poznan/ostrow_tumski/bazylika.jpg"
+          "thumb": "/assets/photo/poznan/ostrow_tumski/bazylika.thumb.jpg"
         },
         {
           "caption": {
@@ -75,7 +75,7 @@
             "pl": "Bazylika archikatedralna Świętych Apostołów Piotra i Pawła"
           },
           "src": "/assets/photo/poznan/ostrow_tumski/bazylika_tyl.jpg",
-          "thumb": "/assets/photo/poznan/ostrow_tumski/bazylika_tyl.jpg"
+          "thumb": "/assets/photo/poznan/ostrow_tumski/bazylika_tyl.thumb.jpg"
         },
         {
           "caption": {
@@ -83,7 +83,7 @@
             "pl": "Kościół pw. Najświętszej Marii Panny"
           },
           "src": "/assets/photo/poznan/ostrow_tumski/kosciol.jpg",
-          "thumb": "/assets/photo/poznan/ostrow_tumski/kosciol.jpg"
+          "thumb": "/assets/photo/poznan/ostrow_tumski/kosciol.thumb.jpg"
         },
         {
           "caption": {
@@ -91,7 +91,7 @@
             "pl": "Witraże"
           },
           "src": "/assets/photo/poznan/ostrow_tumski/witraze.jpg",
-          "thumb": "/assets/photo/poznan/ostrow_tumski/witraze.jpg"
+          "thumb": "/assets/photo/poznan/ostrow_tumski/witraze.thumb.jpg"
         },
         {
           "caption": {
@@ -99,7 +99,7 @@
             "pl": "Warta"
           },
           "src": "/assets/photo/poznan/ostrow_tumski/warta.jpg",
-          "thumb": "/assets/photo/poznan/ostrow_tumski/warta.jpg"
+          "thumb": "/assets/photo/poznan/ostrow_tumski/warta.thumb.jpg"
         },
         {
           "caption": {
@@ -107,7 +107,7 @@
             "pl": "Most Biskupa Jordana"
           },
           "src": "/assets/photo/poznan/ostrow_tumski/most.jpg",
-          "thumb": "/assets/photo/poznan/ostrow_tumski/most.jpg"
+          "thumb": "/assets/photo/poznan/ostrow_tumski/most.thumb.jpg"
         }
       ]
     },
@@ -127,7 +127,7 @@
             "pl": "Budynek centrum"
           },
           "src": "/assets/photo/poznan/brama_poznania/budynek.jpg",
-          "thumb": "/assets/photo/poznan/brama_poznania/budynek.jpg"
+          "thumb": "/assets/photo/poznan/brama_poznania/budynek.thumb.jpg"
         },
         {
           "caption": {
@@ -135,7 +135,7 @@
             "pl": "\"...tu się Polska zaczęła...\""
           },
           "src": "/assets/photo/poznan/brama_poznania/napis.jpg",
-          "thumb": "/assets/photo/poznan/brama_poznania/napis.jpg"
+          "thumb": "/assets/photo/poznan/brama_poznania/napis.thumb.jpg"
         },
         {
           "caption": {
@@ -143,7 +143,7 @@
             "pl": "Projekcja filmu o początkach Państwa Polskiego"
           },
           "src": "/assets/photo/poznan/brama_poznania/film.jpg",
-          "thumb": "/assets/photo/poznan/brama_poznania/film.jpg"
+          "thumb": "/assets/photo/poznan/brama_poznania/film.thumb.jpg"
         },
         {
           "caption": {
@@ -151,7 +151,7 @@
             "pl": "Interaktywne witraże"
           },
           "src": "/assets/photo/poznan/brama_poznania/witraze.jpg",
-          "thumb": "/assets/photo/poznan/brama_poznania/witraze.jpg"
+          "thumb": "/assets/photo/poznan/brama_poznania/witraze.thumb.jpg"
         },
         {
           "caption": {
@@ -159,7 +159,7 @@
             "pl": "Projekcja filmu o początkach Państwa Polskiego"
           },
           "src": "/assets/photo/poznan/brama_poznania/film.jpg",
-          "thumb": "/assets/photo/poznan/brama_poznania/film.jpg"
+          "thumb": "/assets/photo/poznan/brama_poznania/film.thumb.jpg"
         },
         {
           "caption": {
@@ -167,7 +167,7 @@
             "pl": "Mieszko i Dobrawa - pierwsi historyczni władcy Polski"
           },
           "src": "/assets/photo/poznan/brama_poznania/mieszko_i_dobrawa.jpg",
-          "thumb": "/assets/photo/poznan/brama_poznania/mieszko_i_dobrawa.jpg"
+          "thumb": "/assets/photo/poznan/brama_poznania/mieszko_i_dobrawa.thumb.jpg"
         },
         {
           "caption": {
@@ -175,7 +175,7 @@
             "pl": "Polscy święci"
           },
           "src": "/assets/photo/poznan/brama_poznania/swieci.jpg",
-          "thumb": "/assets/photo/poznan/brama_poznania/swieci.jpg"
+          "thumb": "/assets/photo/poznan/brama_poznania/swieci.thumb.jpg"
         },
         {
           "caption": {
@@ -183,7 +183,7 @@
             "pl": "Wnętrze kładki"
           },
           "src": "/assets/photo/poznan/brama_poznania/kladka.jpg",
-          "thumb": "/assets/photo/poznan/brama_poznania/kladka.jpg"
+          "thumb": "/assets/photo/poznan/brama_poznania/kladka.thumb.jpg"
         },
         {
           "caption": {
@@ -191,7 +191,7 @@
             "pl": "Śluza Katedralna"
           },
           "src": "/assets/photo/poznan/brama_poznania/sluza_katedralna.jpg",
-          "thumb": "/assets/photo/poznan/brama_poznania/sluza_katedralna.jpg"
+          "thumb": "/assets/photo/poznan/brama_poznania/sluza_katedralna.thumb.jpg"
         }
       ]
     },
@@ -211,7 +211,7 @@
             "pl": "Gmach Główny"
           },
           "src": "/assets/photo/poznan/muzeum_narodowe/budynek.jpg",
-          "thumb": "/assets/photo/poznan/muzeum_narodowe/budynek.jpg"
+          "thumb": "/assets/photo/poznan/muzeum_narodowe/budynek.thumb.jpg"
         },
         {
           "caption": {
@@ -219,7 +219,7 @@
             "pl": "Józef Chełmoński \"Orka\""
           },
           "src": "/assets/photo/poznan/muzeum_narodowe/orka.jpg",
-          "thumb": "/assets/photo/poznan/muzeum_narodowe/orka.jpg"
+          "thumb": "/assets/photo/poznan/muzeum_narodowe/orka.thumb.jpg"
         },
         {
           "caption": {
@@ -228,7 +228,7 @@
           },
           "source": "https://en.wikipedia.org/wiki/File:Malczewski_melancholia.jpg",
           "src": "/assets/photo/poznan/muzeum_narodowe/malczewski.jpg",
-          "thumb": "/assets/photo/poznan/muzeum_narodowe/malczewski.jpg"
+          "thumb": "/assets/photo/poznan/muzeum_narodowe/malczewski.thumb.jpg"
         },
         {
           "caption": {
@@ -236,7 +236,7 @@
             "pl": "Sala hiszpańska"
           },
           "src": "/assets/photo/poznan/muzeum_narodowe/sala_hiszpanska.jpg",
-          "thumb": "/assets/photo/poznan/muzeum_narodowe/sala_hiszpanska.jpg"
+          "thumb": "/assets/photo/poznan/muzeum_narodowe/sala_hiszpanska.thumb.jpg"
         },
         {
           "caption": {
@@ -244,7 +244,7 @@
             "pl": "Frans Snyders \"Polowanie na dzika\" - sala holenderska"
           },
           "src": "/assets/photo/poznan/muzeum_narodowe/polowanie.jpg",
-          "thumb": "/assets/photo/poznan/muzeum_narodowe/polowanie.jpg"
+          "thumb": "/assets/photo/poznan/muzeum_narodowe/polowanie.thumb.jpg"
         },
         {
           "caption": {
@@ -252,7 +252,7 @@
             "pl": "Wilhelm Amberg \"Czytanie Wertera\" - sala niemiecka"
           },
           "src": "/assets/photo/poznan/muzeum_narodowe/czytanie_wertera.jpg",
-          "thumb": "/assets/photo/poznan/muzeum_narodowe/czytanie_wertera.jpg"
+          "thumb": "/assets/photo/poznan/muzeum_narodowe/czytanie_wertera.thumb.jpg"
         }
       ]
     },
@@ -273,7 +273,7 @@
           },
           "source": "https://pl.wikipedia.org/wiki/Plik:Odwach_Pozna%C5%84.jpg",
           "src": "/assets/photo/poznan/muzeum_powstania_wielkopolskiego/odwach.jpg",
-          "thumb": "/assets/photo/poznan/muzeum_powstania_wielkopolskiego/odwach.jpg"
+          "thumb": "/assets/photo/poznan/muzeum_powstania_wielkopolskiego/odwach.thumb.jpg"
         },
         {
           "caption": {
@@ -281,7 +281,7 @@
             "pl": "Matka czytająca dziecku patriotyczne wiersze"
           },
           "src": "/assets/photo/poznan/muzeum_powstania_wielkopolskiego/matka_i_syn.jpg",
-          "thumb": "/assets/photo/poznan/muzeum_powstania_wielkopolskiego/matka_i_syn.jpg"
+          "thumb": "/assets/photo/poznan/muzeum_powstania_wielkopolskiego/matka_i_syn.thumb.jpg"
         },
         {
           "caption": {
@@ -289,7 +289,7 @@
             "pl": "Żołnierz"
           },
           "src": "/assets/photo/poznan/muzeum_powstania_wielkopolskiego/zolnierz.jpg",
-          "thumb": "/assets/photo/poznan/muzeum_powstania_wielkopolskiego/zolnierz.jpg"
+          "thumb": "/assets/photo/poznan/muzeum_powstania_wielkopolskiego/zolnierz.thumb.jpg"
         },
         {
           "caption": {
@@ -297,7 +297,7 @@
             "pl": "Żołnierze w okopach"
           },
           "src": "/assets/photo/poznan/muzeum_powstania_wielkopolskiego/zolnierze_w_okopach.jpg",
-          "thumb": "/assets/photo/poznan/muzeum_powstania_wielkopolskiego/zolnierze_w_okopach.jpg"
+          "thumb": "/assets/photo/poznan/muzeum_powstania_wielkopolskiego/zolnierze_w_okopach.thumb.jpg"
         },
         {
           "caption": {
@@ -305,7 +305,7 @@
             "pl": "Mapa"
           },
           "src": "/assets/photo/poznan/muzeum_powstania_wielkopolskiego/mapa.jpg",
-          "thumb": "/assets/photo/poznan/muzeum_powstania_wielkopolskiego/mapa.jpg"
+          "thumb": "/assets/photo/poznan/muzeum_powstania_wielkopolskiego/mapa.thumb.jpg"
         }
       ]
     },
@@ -325,7 +325,7 @@
             "pl": "Zamek Królewski"
           },
           "src": "/assets/photo/poznan/zamek_krolewski/zamek.jpg",
-          "thumb": "/assets/photo/poznan/zamek_krolewski/zamek.jpg"
+          "thumb": "/assets/photo/poznan/zamek_krolewski/zamek.thumb.jpg"
         },
         {
           "caption": {
@@ -333,7 +333,7 @@
             "pl": "Wnętrze baszty"
           },
           "src": "/assets/photo/poznan/zamek_krolewski/wnetrze_baszty.jpg",
-          "thumb": "/assets/photo/poznan/zamek_krolewski/wnetrze_baszty.jpg"
+          "thumb": "/assets/photo/poznan/zamek_krolewski/wnetrze_baszty.thumb.jpg"
         },
         {
           "caption": {
@@ -341,7 +341,7 @@
             "pl": "Widok z wieży"
           },
           "src": "/assets/photo/poznan/zamek_krolewski/widok.jpg",
-          "thumb": "/assets/photo/poznan/zamek_krolewski/widok.jpg"
+          "thumb": "/assets/photo/poznan/zamek_krolewski/widok.thumb.jpg"
         },
         {
           "caption": {
@@ -349,7 +349,7 @@
             "pl": "Ogromna mucha"
           },
           "src": "/assets/photo/poznan/zamek_krolewski/mucha.jpg",
-          "thumb": "/assets/photo/poznan/zamek_krolewski/mucha.jpg"
+          "thumb": "/assets/photo/poznan/zamek_krolewski/mucha.thumb.jpg"
         },
         {
           "caption": {
@@ -357,7 +357,7 @@
             "pl": "Makieta zamku"
           },
           "src": "/assets/photo/poznan/zamek_krolewski/makieta.jpg",
-          "thumb": "/assets/photo/poznan/zamek_krolewski/makieta.jpg"
+          "thumb": "/assets/photo/poznan/zamek_krolewski/makieta.thumb.jpg"
         },
         {
           "caption": {
@@ -365,7 +365,7 @@
             "pl": "Uprząż konia"
           },
           "src": "/assets/photo/poznan/zamek_krolewski/uprzaz.jpg",
-          "thumb": "/assets/photo/poznan/zamek_krolewski/uprzaz.jpg"
+          "thumb": "/assets/photo/poznan/zamek_krolewski/uprzaz.thumb.jpg"
         }
       ]
     },
@@ -385,7 +385,7 @@
             "pl": "Wieża"
           },
           "src": "/assets/photo/poznan/zamek_cesarski/wieza.jpg",
-          "thumb": "/assets/photo/poznan/zamek_cesarski/wieza.jpg"
+          "thumb": "/assets/photo/poznan/zamek_cesarski/wieza.thumb.jpg"
         },
         {
           "caption": {
@@ -393,7 +393,7 @@
             "pl": "Zamek"
           },
           "src": "/assets/photo/poznan/zamek_cesarski/zamek.jpg",
-          "thumb": "/assets/photo/poznan/zamek_cesarski/zamek.jpg"
+          "thumb": "/assets/photo/poznan/zamek_cesarski/zamek.thumb.jpg"
         },
         {
           "caption": {
@@ -401,7 +401,7 @@
             "pl": "Tron Wilhelma II w Sieni Przejazdowej"
           },
           "src": "/assets/photo/poznan/zamek_cesarski/sien_przejazdowa.jpg",
-          "thumb": "/assets/photo/poznan/zamek_cesarski/sien_przejazdowa.jpg"
+          "thumb": "/assets/photo/poznan/zamek_cesarski/sien_przejazdowa.thumb.jpg"
         },
         {
           "caption": {
@@ -409,7 +409,7 @@
             "pl": "Sala Kominkowa"
           },
           "src": "/assets/photo/poznan/zamek_cesarski/sala_kominkowa.jpg",
-          "thumb": "/assets/photo/poznan/zamek_cesarski/sala_kominkowa.jpg"
+          "thumb": "/assets/photo/poznan/zamek_cesarski/sala_kominkowa.thumb.jpg"
         },
         {
           "caption": {
@@ -417,7 +417,7 @@
             "pl": "Pokój Brzozowy"
           },
           "src": "/assets/photo/poznan/zamek_cesarski/pokoj_brzozowy.jpg",
-          "thumb": "/assets/photo/poznan/zamek_cesarski/pokoj_brzozowy.jpg"
+          "thumb": "/assets/photo/poznan/zamek_cesarski/pokoj_brzozowy.thumb.jpg"
         },
         {
           "caption": {
@@ -425,7 +425,7 @@
             "pl": "Hol Kolumnowy"
           },
           "src": "/assets/photo/poznan/zamek_cesarski/hol_kolumnowy.jpg",
-          "thumb": "/assets/photo/poznan/zamek_cesarski/hol_kolumnowy.jpg"
+          "thumb": "/assets/photo/poznan/zamek_cesarski/hol_kolumnowy.thumb.jpg"
         },
         {
           "caption": {
@@ -433,7 +433,7 @@
             "pl": "Ilustracyjne płyty w Holu Kolumnowym"
           },
           "src": "/assets/photo/poznan/zamek_cesarski/plyty.jpg",
-          "thumb": "/assets/photo/poznan/zamek_cesarski/plyty.jpg"
+          "thumb": "/assets/photo/poznan/zamek_cesarski/plyty.thumb.jpg"
         },
         {
           "caption": {
@@ -441,7 +441,7 @@
             "pl": "Widok z balkonu na ogród"
           },
           "src": "/assets/photo/poznan/zamek_cesarski/ogrod.jpg",
-          "thumb": "/assets/photo/poznan/zamek_cesarski/ogrod.jpg"
+          "thumb": "/assets/photo/poznan/zamek_cesarski/ogrod.thumb.jpg"
         }
       ]
     },
@@ -461,7 +461,7 @@
             "pl": "Budynek"
           },
           "src": "/assets/photo/poznan/stary_browar/budynek.jpg",
-          "thumb": "/assets/photo/poznan/stary_browar/budynek.jpg"
+          "thumb": "/assets/photo/poznan/stary_browar/budynek.thumb.jpg"
         },
         {
           "caption": {
@@ -469,7 +469,7 @@
             "pl": "Wejście"
           },
           "src": "/assets/photo/poznan/stary_browar/wejscie.jpg",
-          "thumb": "/assets/photo/poznan/stary_browar/wejscie.jpg"
+          "thumb": "/assets/photo/poznan/stary_browar/wejscie.thumb.jpg"
         },
         {
           "caption": {
@@ -477,7 +477,7 @@
             "pl": "Fontanna"
           },
           "src": "/assets/photo/poznan/stary_browar/fontanna.jpg",
-          "thumb": "/assets/photo/poznan/stary_browar/fontanna.jpg"
+          "thumb": "/assets/photo/poznan/stary_browar/fontanna.thumb.jpg"
         },
         {
           "caption": {
@@ -485,7 +485,7 @@
             "pl": "\"Opertus Lunula Umbra\" (\"Ukryty Cień Księżyca\")"
           },
           "src": "/assets/photo/poznan/stary_browar/ksiezyc.jpg",
-          "thumb": "/assets/photo/poznan/stary_browar/ksiezyc.jpg"
+          "thumb": "/assets/photo/poznan/stary_browar/ksiezyc.thumb.jpg"
         }
       ]
     }
