@@ -19,7 +19,7 @@
         "pl": "Zamek Lubelski"
       },
       "description": {
-        "en": "A medieval castle in Lublin. The main site of the National Museum.",
+        "en": "A medieval castle in Lublin. The main seat of the National Museum.",
         "pl": "Zamek królewski w Lublinie. Siedziba Muzeum Narodowego w Lublinie."
       },
       "photos": [
@@ -59,7 +59,7 @@
         },
         {
           "caption": {
-            "en": "Model the castle",
+            "en": "Model of the castle",
             "pl": "Makieta Zamku"
           },
           "src": "/assets/photo/lublin/makieta.jpg",
