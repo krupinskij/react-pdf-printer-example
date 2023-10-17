@@ -1,8 +1,8 @@
 {
   "id": "poznan",
   "description": {
-    "en": "The capital of Greater Poland where the Polish statehood began to form.",
-    "pl": "Stolica Wielkopolski, w której narodziła się polska państwowość."
+    "en": "\"...this is where Poland began...\"",
+    "pl": "\"...tu się Polska zaczęła...\""
   },
   "background": {
     "caption": {
@@ -10,7 +10,7 @@
       "pl": "Koziołki poznańskie"
     },
     "source": "https://commons.wikimedia.org/wiki/File:Poznan_Town_Hall_VII.jpg",
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Poznan_Town_Hall_VII.jpg/1280px-Poznan_Town_Hall_VII.jpg?uselang=pl"
+    "src": "/assets/photo/poznan/koziolki.jpg"
   },
   "attractions": [
     {
@@ -28,9 +28,8 @@
             "en": "Town Hall",
             "pl": "Ratusz"
           },
-          "source": "https://pl.wikipedia.org/wiki/Plik:Poznan_10-2013_img10_Town_hall.jpg",
-          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Poznan_10-2013_img10_Town_hall.jpg/600px-Poznan_10-2013_img10_Town_hall.jpg",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Poznan_10-2013_img10_Town_hall.jpg/240px-Poznan_10-2013_img10_Town_hall.jpg"
+          "src": "/assets/photo/poznan/rynek/ratusz.jpg",
+          "thumb": "/assets/photo/poznan/rynek/ratusz.thumb.jpg"
         },
         {
           "caption": {
@@ -38,8 +37,8 @@
             "pl": "Koziołki poznańskie"
           },
           "source": "https://pl.wikipedia.org/wiki/Plik:Kozio%C5%82ki_na_ratuszu.jpg",
-          "src": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Kozio%C5%82ki_na_ratuszu.jpg",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Kozio%C5%82ki_na_ratuszu.jpg"
+          "src": "/assets/photo/poznan/rynek/koziolki.jpg",
+          "thumb": "/assets/photo/poznan/rynek/koziolki.thumb.jpg"
         },
         {
           "caption": {
@@ -47,56 +46,266 @@
             "pl": "Domki Budnicze"
           },
           "source": "https://pl.wikipedia.org/wiki/Plik:Pozna%C5%84,_zesp%C3%B3%C5%82_urbanistyczno-architektoniczny_Starego_Rynku,(domki_budnicze)_nr._rej._A-195-72_z_10.11.1972.JPG",
-          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Pozna%C5%84%2C_zesp%C3%B3%C5%82_urbanistyczno-architektoniczny_Starego_Rynku%2C%28domki_budnicze%29_nr._rej._A-195-72_z_10.11.1972.JPG/800px-Pozna%C5%84%2C_zesp%C3%B3%C5%82_urbanistyczno-architektoniczny_Starego_Rynku%2C%28domki_budnicze%29_nr._rej._A-195-72_z_10.11.1972.JPG",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Pozna%C5%84%2C_zesp%C3%B3%C5%82_urbanistyczno-architektoniczny_Starego_Rynku%2C%28domki_budnicze%29_nr._rej._A-195-72_z_10.11.1972.JPG/320px-Pozna%C5%84%2C_zesp%C3%B3%C5%82_urbanistyczno-architektoniczny_Starego_Rynku%2C%28domki_budnicze%29_nr._rej._A-195-72_z_10.11.1972.JPG"
-        },
-        {
-          "caption": {
-            "en": "Guardhouse",
-            "pl": "Odwach"
-          },
-          "source": "https://pl.wikipedia.org/wiki/Plik:Odwach_Pozna%C5%84.jpg",
-          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Odwach_Pozna%C5%84.jpg/800px-Odwach_Pozna%C5%84.jpg",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Odwach_Pozna%C5%84.jpg/320px-Odwach_Pozna%C5%84.jpg"
+          "src": "/assets/photo/poznan/rynek/domki.jpg",
+          "thumb": "/assets/photo/poznan/rynek/domki.thumb.jpg"
         }
       ]
     },
     {
       "name": {
-        "en": "Ostrów Tumski",
+        "en": "Cathedral Island (Ostrów Tumski)",
         "pl": "Ostrów Tumski"
       },
       "description": {
-        "en": "An island between two branches of the river Warta",
-        "pl": "Jedyna pozostała z licznych niegdyś w Poznaniu wysp na Warcie."
+        "en": "The oldest part of the city.",
+        "pl": "Najstarsza część Poznania."
       },
       "photos": [
         {
           "caption": {
-            "en": "View from Garbary",
-            "pl": "Widok z Garbar"
+            "en": "The Archcathedral Basilica of St. Peter and St. Paul",
+            "pl": "Bazylika archikatedralna Świętych Apostołów Piotra i Pawła"
           },
-          "source": "https://pl.wikipedia.org/wiki/Plik:Ostr%C3%B3w_Tumski_widokowka_Poznan.jpg",
-          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Ostr%C3%B3w_Tumski_widokowka_Poznan.jpg/800px-Ostr%C3%B3w_Tumski_widokowka_Poznan.jpg",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Ostr%C3%B3w_Tumski_widokowka_Poznan.jpg/320px-Ostr%C3%B3w_Tumski_widokowka_Poznan.jpg"
+          "src": "/assets/photo/poznan/ostrow_tumski/bazylika.jpg",
+          "thumb": "/assets/photo/poznan/ostrow_tumski/bazylika.thumb.jpg"
         },
         {
           "caption": {
             "en": "The Archcathedral Basilica of St. Peter and St. Paul",
             "pl": "Bazylika archikatedralna Świętych Apostołów Piotra i Pawła"
           },
-          "source": "https://pl.wikipedia.org/wiki/Plik:Catedral_de_Poznan,_Poznan,_Polonia,_2014-09-18,_DD_10.jpg",
-          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Catedral_de_Poznan%2C_Poznan%2C_Polonia%2C_2014-09-18%2C_DD_10.jpg/365px-Catedral_de_Poznan%2C_Poznan%2C_Polonia%2C_2014-09-18%2C_DD_10.jpg",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Catedral_de_Poznan%2C_Poznan%2C_Polonia%2C_2014-09-18%2C_DD_10.jpg/146px-Catedral_de_Poznan%2C_Poznan%2C_Polonia%2C_2014-09-18%2C_DD_10.jpg"
+          "src": "/assets/photo/poznan/ostrow_tumski/bazylika_tyl.jpg",
+          "thumb": "/assets/photo/poznan/ostrow_tumski/bazylika_tyl.thumb.jpg"
         },
         {
           "caption": {
-            "en": "The Archbishop's palace",
-            "pl": "Pałac arcybiskupi"
+            "en": "Church of the Most Holy Virgin Mary",
+            "pl": "Kościół pw. Najświętszej Marii Panny"
           },
-          "source": "https://pl.wikipedia.org/wiki/Plik:Pa%C5%82ac_Arcybiskupi_w_Poznaniu_01.jpg",
-          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Pa%C5%82ac_Arcybiskupi_w_Poznaniu_01.jpg/800px-Pa%C5%82ac_Arcybiskupi_w_Poznaniu_01.jpg",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Pa%C5%82ac_Arcybiskupi_w_Poznaniu_01.jpg/320px-Pa%C5%82ac_Arcybiskupi_w_Poznaniu_01.jpg"
+          "src": "/assets/photo/poznan/ostrow_tumski/kosciol.jpg",
+          "thumb": "/assets/photo/poznan/ostrow_tumski/kosciol.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Stained glass window",
+            "pl": "Witraże"
+          },
+          "src": "/assets/photo/poznan/ostrow_tumski/witraze.jpg",
+          "thumb": "/assets/photo/poznan/ostrow_tumski/witraze.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Warta river",
+            "pl": "Warta"
+          },
+          "src": "/assets/photo/poznan/ostrow_tumski/warta.jpg",
+          "thumb": "/assets/photo/poznan/ostrow_tumski/warta.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Bright of Jordan bishop",
+            "pl": "Most Biskupa Jordana"
+          },
+          "src": "/assets/photo/poznan/ostrow_tumski/most.jpg",
+          "thumb": "/assets/photo/poznan/ostrow_tumski/most.thumb.jpg"
+        }
+      ]
+    },
+    {
+      "name": {
+        "en": "Porta Posnania",
+        "pl": "Brama Poznania ICHOT"
+      },
+      "description": {
+        "en": "Interactive heritage center in Poznan dedicated to the history of Cathedral Island.",
+        "pl": "Interaktywne Centrum Historii Ostrowa Tumskiego."
+      },
+      "photos": [
+        {
+          "caption": {
+            "en": "Building of the center",
+            "pl": "Budynek centrum"
+          },
+          "src": "/assets/photo/poznan/brama_poznania/budynek.jpg",
+          "thumb": "/assets/photo/poznan/brama_poznania/budynek.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "\"...this is where Poland began...\"",
+            "pl": "\"...tu się Polska zaczęła...\""
+          },
+          "src": "/assets/photo/poznan/brama_poznania/napis.jpg",
+          "thumb": "/assets/photo/poznan/brama_poznania/napis.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Screening of a film about the beginnings of the Polish State",
+            "pl": "Projekcja filmu o początkach Państwa Polskiego"
+          },
+          "src": "/assets/photo/poznan/brama_poznania/film.jpg",
+          "thumb": "/assets/photo/poznan/brama_poznania/film.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Interactive stained glass",
+            "pl": "Interaktywne witraże"
+          },
+          "src": "/assets/photo/poznan/brama_poznania/witraze.jpg",
+          "thumb": "/assets/photo/poznan/brama_poznania/witraze.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Screening of a film about the beginnings of the Polish State",
+            "pl": "Projekcja filmu o początkach Państwa Polskiego"
+          },
+          "src": "/assets/photo/poznan/brama_poznania/film.jpg",
+          "thumb": "/assets/photo/poznan/brama_poznania/film.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Mieszko and Dobrawa - the first historical rulers of Poland",
+            "pl": "Mieszko i Dobrawa - pierwsi historyczni władcy Polski"
+          },
+          "src": "/assets/photo/poznan/brama_poznania/mieszko_i_dobrawa.jpg",
+          "thumb": "/assets/photo/poznan/brama_poznania/mieszko_i_dobrawa.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Polish saints",
+            "pl": "Polscy święci"
+          },
+          "src": "/assets/photo/poznan/brama_poznania/swieci.jpg",
+          "thumb": "/assets/photo/poznan/brama_poznania/swieci.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Interior of footbridge",
+            "pl": "Wnętrze kładki"
+          },
+          "src": "/assets/photo/poznan/brama_poznania/kladka.jpg",
+          "thumb": "/assets/photo/poznan/brama_poznania/kladka.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Cathedral Lock",
+            "pl": "Śluza Katedralna"
+          },
+          "src": "/assets/photo/poznan/brama_poznania/sluza_katedralna.jpg",
+          "thumb": "/assets/photo/poznan/brama_poznania/sluza_katedralna.thumb.jpg"
+        }
+      ]
+    },
+    {
+      "name": {
+        "en": "National Museum in Poznań",
+        "pl": "Muzeum Narodowe"
+      },
+      "description": {
+        "en": "State-owned cultural institution and one of the largest museums in Poland.",
+        "pl": "Muzeum sztuki w Poznaniu. Narodowa instytucja kultury."
+      },
+      "photos": [
+        {
+          "caption": {
+            "en": "The main building",
+            "pl": "Gmach Główny"
+          },
+          "src": "/assets/photo/poznan/muzeum_narodowe/budynek.jpg",
+          "thumb": "/assets/photo/poznan/muzeum_narodowe/budynek.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Józef Chełmoński \"Ploughing\"",
+            "pl": "Józef Chełmoński \"Orka\""
+          },
+          "src": "/assets/photo/poznan/muzeum_narodowe/orka.jpg",
+          "thumb": "/assets/photo/poznan/muzeum_narodowe/orka.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Jacek Malczewski \"Melancholia\"",
+            "pl": "Jacek Malczewski \"Melancholia\""
+          },
+          "source": "https://en.wikipedia.org/wiki/File:Malczewski_melancholia.jpg",
+          "src": "/assets/photo/poznan/muzeum_narodowe/malczewski.jpg",
+          "thumb": "/assets/photo/poznan/muzeum_narodowe/malczewski.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Spanish exhibition",
+            "pl": "Sala hiszpańska"
+          },
+          "src": "/assets/photo/poznan/muzeum_narodowe/sala_hiszpanska.jpg",
+          "thumb": "/assets/photo/poznan/muzeum_narodowe/sala_hiszpanska.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Frans Snyders \"Boar hunt\" - dutch exhibition",
+            "pl": "Frans Snyders \"Polowanie na dzika\" - sala holenderska"
+          },
+          "src": "/assets/photo/poznan/muzeum_narodowe/polowanie.jpg",
+          "thumb": "/assets/photo/poznan/muzeum_narodowe/polowanie.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Wilhelm Amberg \"Werther\" - german exhibition",
+            "pl": "Wilhelm Amberg \"Czytanie Wertera\" - sala niemiecka"
+          },
+          "src": "/assets/photo/poznan/muzeum_narodowe/czytanie_wertera.jpg",
+          "thumb": "/assets/photo/poznan/muzeum_narodowe/czytanie_wertera.thumb.jpg"
+        }
+      ]
+    },
+    {
+      "name": {
+        "en": "Museum of the Greater Poland Uprising",
+        "pl": "Muzeum Powstania Wielkopolskiego"
+      },
+      "description": {
+        "en": "Branch of Wielkopolska Museum of Independence located in Guardhouse (Odwach).",
+        "pl": "Oddział Wielkopolskiego Muzeum Niepodległości zlokalizowane w budynku Odwachu."
+      },
+      "photos": [
+        {
+          "caption": {
+            "en": "Guardhouse - seat of the museum",
+            "pl": "Odwach - siedziba muzeum"
+          },
+          "source": "https://pl.wikipedia.org/wiki/Plik:Odwach_Pozna%C5%84.jpg",
+          "src": "/assets/photo/poznan/muzeum_powstania_wielkopolskiego/odwach.jpg",
+          "thumb": "/assets/photo/poznan/muzeum_powstania_wielkopolskiego/odwach.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Mother reading patriotic poems to her child",
+            "pl": "Matka czytająca dziecku patriotyczne wiersze"
+          },
+          "src": "/assets/photo/poznan/muzeum_powstania_wielkopolskiego/matka_i_syn.jpg",
+          "thumb": "/assets/photo/poznan/muzeum_powstania_wielkopolskiego/matka_i_syn.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Soldier",
+            "pl": "Żołnierz"
+          },
+          "src": "/assets/photo/poznan/muzeum_powstania_wielkopolskiego/zolnierz.jpg",
+          "thumb": "/assets/photo/poznan/muzeum_powstania_wielkopolskiego/zolnierz.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Soldiers in the trenches",
+            "pl": "Żołnierze w okopach"
+          },
+          "src": "/assets/photo/poznan/muzeum_powstania_wielkopolskiego/zolnierze_w_okopach.jpg",
+          "thumb": "/assets/photo/poznan/muzeum_powstania_wielkopolskiego/zolnierze_w_okopach.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Map",
+            "pl": "Mapa"
+          },
+          "src": "/assets/photo/poznan/muzeum_powstania_wielkopolskiego/mapa.jpg",
+          "thumb": "/assets/photo/poznan/muzeum_powstania_wielkopolskiego/mapa.thumb.jpg"
         }
       ]
     },
@@ -106,8 +315,8 @@
         "pl": "Zamek Królewski"
       },
       "description": {
-        "en": "Residence of the kings. Largely destroyed during the Second World War but has since been partly rebuilt.",
-        "pl": "Rezydencja królewska w Poznaniu, wzniesiona prawdopodobnie w XIII w., następnie wielokrotnie rozbudowywana."
+        "en": "Residence of the kings. Largely destroyed during the Second World War but has since been partly rebuilt. Museum of Applied Arts.",
+        "pl": "Rezydencja królewska w Poznaniu następnie wielokrotnie rozbudowywana. Budynek Muzeum Sztuk Użytkowych."
       },
       "photos": [
         {
@@ -115,9 +324,48 @@
             "en": "Royal Castle",
             "pl": "Zamek Królewski"
           },
-          "source": "https://www.pexels.com/pl-pl/zdjecie/znane-miejsce-budynek-wieza-zamek-11618615/",
-          "src": "/assets/photo/poznan/zamek_krol.jpg",
-          "thumb": "/assets/photo/poznan/zamek_krol_thumb.jpg"
+          "src": "/assets/photo/poznan/zamek_krolewski/zamek.jpg",
+          "thumb": "/assets/photo/poznan/zamek_krolewski/zamek.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "The interior of the tower",
+            "pl": "Wnętrze baszty"
+          },
+          "src": "/assets/photo/poznan/zamek_krolewski/wnetrze_baszty.jpg",
+          "thumb": "/assets/photo/poznan/zamek_krolewski/wnetrze_baszty.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "View from the tower",
+            "pl": "Widok z wieży"
+          },
+          "src": "/assets/photo/poznan/zamek_krolewski/widok.jpg",
+          "thumb": "/assets/photo/poznan/zamek_krolewski/widok.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Gigantic fly",
+            "pl": "Ogromna mucha"
+          },
+          "src": "/assets/photo/poznan/zamek_krolewski/mucha.jpg",
+          "thumb": "/assets/photo/poznan/zamek_krolewski/mucha.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Model of the castle",
+            "pl": "Makieta zamku"
+          },
+          "src": "/assets/photo/poznan/zamek_krolewski/makieta.jpg",
+          "thumb": "/assets/photo/poznan/zamek_krolewski/makieta.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Harness",
+            "pl": "Uprząż konia"
+          },
+          "src": "/assets/photo/poznan/zamek_krolewski/uprzaz.jpg",
+          "thumb": "/assets/photo/poznan/zamek_krolewski/uprzaz.thumb.jpg"
         }
       ]
     },
@@ -133,21 +381,111 @@
       "photos": [
         {
           "caption": {
-            "en": "Western, representative wing",
-            "pl": "Skrzydło reprezentacyjne"
+            "en": "Tower",
+            "pl": "Wieża"
           },
-          "source": "https://pl.wikipedia.org/wiki/Plik:2008_Kaiserschloss_Posen_04.JPG",
-          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/2008_Kaiserschloss_Posen_04.JPG/800px-2008_Kaiserschloss_Posen_04.JPG",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/2008_Kaiserschloss_Posen_04.JPG/320px-2008_Kaiserschloss_Posen_04.JPG"
+          "src": "/assets/photo/poznan/zamek_cesarski/wieza.jpg",
+          "thumb": "/assets/photo/poznan/zamek_cesarski/wieza.thumb.jpg"
         },
         {
           "caption": {
-            "en": "Facade of the castle",
-            "pl": "Dawne wejście główne"
+            "en": "Castle",
+            "pl": "Zamek"
           },
-          "source": "https://pl.wikipedia.org/wiki/Plik:Zamek_Cesarski_W_Poznaniu_(152998171).jpeg",
-          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Zamek_Cesarski_W_Poznaniu_%28152998171%29.jpeg/800px-Zamek_Cesarski_W_Poznaniu_%28152998171%29.jpeg",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Zamek_Cesarski_W_Poznaniu_%28152998171%29.jpeg/320px-Zamek_Cesarski_W_Poznaniu_%28152998171%29.jpeg"
+          "src": "/assets/photo/poznan/zamek_cesarski/zamek.jpg",
+          "thumb": "/assets/photo/poznan/zamek_cesarski/zamek.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Throne of Wilhelm II",
+            "pl": "Tron Wilhelma II w Sieni Przejazdowej"
+          },
+          "src": "/assets/photo/poznan/zamek_cesarski/sien_przejazdowa.jpg",
+          "thumb": "/assets/photo/poznan/zamek_cesarski/sien_przejazdowa.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Fireplace Room",
+            "pl": "Sala Kominkowa"
+          },
+          "src": "/assets/photo/poznan/zamek_cesarski/sala_kominkowa.jpg",
+          "thumb": "/assets/photo/poznan/zamek_cesarski/sala_kominkowa.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Birch Room",
+            "pl": "Pokój Brzozowy"
+          },
+          "src": "/assets/photo/poznan/zamek_cesarski/pokoj_brzozowy.jpg",
+          "thumb": "/assets/photo/poznan/zamek_cesarski/pokoj_brzozowy.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Column Hall",
+            "pl": "Hol Kolumnowy"
+          },
+          "src": "/assets/photo/poznan/zamek_cesarski/hol_kolumnowy.jpg",
+          "thumb": "/assets/photo/poznan/zamek_cesarski/hol_kolumnowy.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Illustrative plates in the Column Hall",
+            "pl": "Ilustracyjne płyty w Holu Kolumnowym"
+          },
+          "src": "/assets/photo/poznan/zamek_cesarski/plyty.jpg",
+          "thumb": "/assets/photo/poznan/zamek_cesarski/plyty.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "View from the balcony onto the garden",
+            "pl": "Widok z balkonu na ogród"
+          },
+          "src": "/assets/photo/poznan/zamek_cesarski/ogrod.jpg",
+          "thumb": "/assets/photo/poznan/zamek_cesarski/ogrod.thumb.jpg"
+        }
+      ]
+    },
+    {
+      "name": {
+        "en": "Stary Browar",
+        "pl": "Stary Browar"
+      },
+      "description": {
+        "en": "The center of commerce and art located in the center of Poznań",
+        "pl": "Centrum handlu i sztuki położone w centrum Poznania"
+      },
+      "photos": [
+        {
+          "caption": {
+            "en": "Building",
+            "pl": "Budynek"
+          },
+          "src": "/assets/photo/poznan/stary_browar/budynek.jpg",
+          "thumb": "/assets/photo/poznan/stary_browar/budynek.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Entry",
+            "pl": "Wejście"
+          },
+          "src": "/assets/photo/poznan/stary_browar/wejscie.jpg",
+          "thumb": "/assets/photo/poznan/stary_browar/wejscie.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Fountain",
+            "pl": "Fontanna"
+          },
+          "src": "/assets/photo/poznan/stary_browar/fontanna.jpg",
+          "thumb": "/assets/photo/poznan/stary_browar/fontanna.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "\"Opertus Lunula Umbra\"",
+            "pl": "\"Opertus Lunula Umbra\" (\"Ukryty Cień Księżyca\")"
+          },
+          "src": "/assets/photo/poznan/stary_browar/ksiezyc.jpg",
+          "thumb": "/assets/photo/poznan/stary_browar/ksiezyc.thumb.jpg"
         }
       ]
     }

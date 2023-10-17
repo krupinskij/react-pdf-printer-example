@@ -364,7 +364,7 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
 `,FC=A.p`
   font-size: ${({theme:e,$print:t})=>t?e.font.md:e.font.lg};
   margin-block: 16px;
-`,Sv=({attractions:e})=>{const{isPrinter:t}=ai();return L($C,{"data-printer-divisible":!0,$print:t,children:e.map(({name:n,description:r,photos:i},o)=>de(IC,{children:[L(AC,{$print:t,children:n}),L(FC,{$print:t,children:r}),L(gC,{carousel:!t,children:i.map(({caption:a,source:s,src:l,thumb:u})=>L(jC,{src:l,thumb:u,caption:{text:a,position:"bottom-left"},source:s,preview:!0,$print:t},l))})]},n))})},MC=A.button`
+`,Sv=({attractions:e})=>{const{isPrinter:t}=ai();return L($C,{"data-printer-divisible":!0,$print:t,children:e.map(({name:n,description:r,photos:i})=>de(IC,{children:[L(AC,{$print:t,children:n}),L(FC,{$print:t,children:r}),L(gC,{carousel:!t,children:i.map(({caption:o,source:a,src:s,thumb:l})=>L(jC,{src:s,thumb:l,caption:{text:o,position:"bottom-left"},source:a,preview:!0,$print:t},s))})]},n))})},MC=A.button`
   background: ${({theme:e,$variant:t})=>e.btn.bg[t]};
   color: ${({theme:e,$variant:t})=>e.btn.color[t]};
 
