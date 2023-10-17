@@ -13,7 +13,7 @@ const Tourism = ({ attractions }: Props) => {
   const { isPrinter } = usePrinter();
   return (
     <Styled.Wrapper data-printer-divisible $print={isPrinter}>
-      {attractions.map(({ name, description, photos }, i) => (
+      {attractions.map(({ name, description, photos }) => (
         <Styled.Item key={name}>
           <Styled.Title $print={isPrinter}>{name}</Styled.Title>
           <Styled.Description $print={isPrinter}>{description}</Styled.Description>
