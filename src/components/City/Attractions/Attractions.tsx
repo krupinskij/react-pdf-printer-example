@@ -17,19 +17,7 @@ const Tourism = ({ attractions }: Props) => {
         <Styled.Item key={name}>
           <Styled.Title $print={isPrinter}>{name}</Styled.Title>
           <Styled.Description $print={isPrinter}>{description}</Styled.Description>
-          <ImageList carousel={!isPrinter}>
-            {photos.map(({ caption, source, src, thumb }) => (
-              <Styled.Image
-                key={src}
-                src={src}
-                thumb={thumb}
-                caption={{ text: caption, position: 'bottom-left' }}
-                source={source}
-                preview
-                $print={isPrinter}
-              />
-            ))}
-          </ImageList>
+          <ImageList carousel={!isPrinter} images={photos} />
         </Styled.Item>
       ))}
     </Styled.Wrapper>

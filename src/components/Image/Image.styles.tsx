@@ -2,7 +2,7 @@ import styled, { css } from 'styled-components';
 
 import Link from 'components/Link';
 
-import { Position } from './Image';
+import { Position } from './Image.model';
 
 export const Figure = styled.figure`
   margin: 0;
@@ -86,11 +86,4 @@ export const Caption = styled.figcaption<{ $position: Position; $print: boolean 
           border-top-left-radius: var(--rounded);
         `
       : ''};
-`;
-
-export const ModalImage = styled.img`
-  max-height: 80vh;
-  max-width: 80vw;
-  height: auto;
-  width: auto;
 `;
