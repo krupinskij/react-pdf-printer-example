@@ -1,15 +1,9 @@
-import { useEffect, useId, useRef } from 'react';
+import { MouseEventHandler, useEffect, useRef } from 'react';
 import { useTranslation } from 'react-i18next';
 import { usePrinter } from 'react-pdf-printer';
 
-import Modal from 'components/Modal';
-
+import { Position } from './Image.model';
 import * as Styled from './Image.styles';
-
-type Horizontal = 'left' | 'right';
-type Vertical = 'top' | 'bottom';
-
-export type Position = `${Vertical}-${Horizontal}`;
 
 type Props = {
   src: string;
@@ -21,6 +15,8 @@ type Props = {
   source?: string;
   preview?: boolean;
   className?: string;
+  modalId?: string;
+  onPreviewClick?: MouseEventHandler<HTMLButtonElement>;
 };
 
 const Image = ({
@@ -30,15 +26,11 @@ const Image = ({
   source,
   preview,
   className,
+  modalId,
+  onPreviewClick,
 }: Props) => {
   const { subscribe, run, isPrinter } = usePrinter(src);
   const { t } = useTranslation('general', { keyPrefix: 'image' });
-  const modalRef = useRef<HTMLDialogElement>(null);
-  const modalId = useId();
-
-  const handleShowDialog = () => {
-    modalRef.current?.showModal();
-  };
 
   const imageRef = useRef<HTMLImageElement>(null);
 
@@ -50,7 +42,13 @@ const Image = ({
     <>
       <Styled.Figure>
         {preview && (
-          <Styled.Preview aria-controls={modalId} aria-haspopup="dialog" onClick={handleShowDialog}>
+          <Styled.Preview
+            aria-controls={modalId}
+            aria-haspopup="dialog"
+            data-src={src}
+            data-caption={text}
+            onClick={onPreviewClick}
+          >
             {t('preview')}
           </Styled.Preview>
         )}
@@ -74,11 +72,6 @@ const Image = ({
           )}
         </Styled.Caption>
       </Styled.Figure>
-      {!isPrinter && preview && (
-        <Modal id={modalId} ref={modalRef}>
-          <Styled.ModalImage src={src} alt={text} />
-        </Modal>
-      )}
     </>
   );
 };

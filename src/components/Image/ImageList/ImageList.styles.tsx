@@ -1,5 +1,7 @@
 import styled from 'styled-components';
 
+import ImageC from '../Image';
+
 export const Wrapper = styled.div`
   position: relative;
 `;
@@ -16,6 +18,11 @@ export const List = styled.div<{ $wrap?: boolean }>`
   }
   -ms-overflow-style: none;
   scrollbar-width: none;
+`;
+
+export const Image = styled(ImageC)<{ $print: boolean }>`
+  width: auto;
+  height: ${({ $print }) => ($print ? '120px' : '220px')};
 `;
 
 export const Icon = styled.img<{ $flip?: boolean }>`
@@ -51,4 +58,11 @@ export const LeftButton = styled(Button)`
 export const RightButton = styled(Button)`
   right: 0;
   translate: 120%;
+`;
+
+export const ModalImage = styled.img`
+  max-height: 80vh;
+  max-width: 80vw;
+  height: auto;
+  width: auto;
 `;
