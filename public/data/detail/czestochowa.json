@@ -29,7 +29,7 @@
             "pl": "Budynek Sanktuarium"
           },
           "src": "/assets/photo/czestochowa/jasna_gora/klasztor.jpg",
-          "thumb": "/assets/photo/czestochowa/jasna_gora/klasztor.jpg"
+          "thumb": "/assets/photo/czestochowa/jasna_gora/klasztor.thumb.jpg"
         },
         {
           "caption": {
@@ -37,7 +37,7 @@
             "pl": "Figura Matki Boskiej"
           },
           "src": "/assets/photo/czestochowa/jasna_gora/figura.jpg",
-          "thumb": "/assets/photo/czestochowa/jasna_gora/figura.jpg"
+          "thumb": "/assets/photo/czestochowa/jasna_gora/figura.thumb.jpg"
         },
         {
           "caption": {
@@ -45,7 +45,7 @@
             "pl": "Jedna z tajemnic różancowych dookoła klasztoru"
           },
           "src": "/assets/photo/czestochowa/jasna_gora/tajemnica.jpg",
-          "thumb": "/assets/photo/czestochowa/jasna_gora/tajemnica.jpg"
+          "thumb": "/assets/photo/czestochowa/jasna_gora/tajemnica.thumb.jpg"
         },
         {
           "caption": {
@@ -53,7 +53,7 @@
             "pl": "Pomnik prymasa Stefana Wyszyńskiego"
           },
           "src": "/assets/photo/czestochowa/jasna_gora/wyszynski.jpg",
-          "thumb": "/assets/photo/czestochowa/jasna_gora/wyszynski.jpg"
+          "thumb": "/assets/photo/czestochowa/jasna_gora/wyszynski.thumb.jpg"
         },
         {
           "caption": {
@@ -61,7 +61,7 @@
             "pl": "Brama klasztorna"
           },
           "src": "/assets/photo/czestochowa/jasna_gora/brama.jpg",
-          "thumb": "/assets/photo/czestochowa/jasna_gora/brama.jpg"
+          "thumb": "/assets/photo/czestochowa/jasna_gora/brama.thumb.jpg"
         },
         {
           "caption": {
@@ -70,7 +70,7 @@
           },
           "source": "https://en.wikipedia.org/wiki/File:O%C5%82tarz_g%C5%82%C3%B3wny_Bazyliki_Jasnog%C3%B3rskiej.jpg",
           "src": "/assets/photo/czestochowa/jasna_gora/oltarz.jpg",
-          "thumb": "/assets/photo/czestochowa/jasna_gora/oltarz.jpg"
+          "thumb": "/assets/photo/czestochowa/jasna_gora/oltarz.thumb.jpg"
         },
         {
           "caption": {
@@ -79,7 +79,7 @@
           },
           "source": "https://pl.wikipedia.org/wiki/Plik:Cz%C4%99stochowa_-_Jasna_G%C3%B3ra,_Kaplica_Naj%C5%9Bwi%C4%99tszej_Marii_Panny_AL15.JPG",
           "src": "/assets/photo/czestochowa/jasna_gora/kaplica.jpg",
-          "thumb": "/assets/photo/czestochowa/jasna_gora/kaplica.jpg"
+          "thumb": "/assets/photo/czestochowa/jasna_gora/kaplica.thumb.jpg"
         },
         {
           "caption": {
@@ -88,7 +88,7 @@
           },
           "source": "https://pl.wikipedia.org/wiki/Plik:Czestochowa_MB_Czestochowska.jpg",
           "src": "/assets/photo/czestochowa/jasna_gora/obraz.jpg",
-          "thumb": "/assets/photo/czestochowa/jasna_gora/obraz.jpg"
+          "thumb": "/assets/photo/czestochowa/jasna_gora/obraz.thumb.jpg"
         }
       ]
     },
@@ -108,7 +108,7 @@
             "pl": "Park"
           },
           "src": "/assets/photo/czestochowa/parki/park.jpg",
-          "thumb": "/assets/photo/czestochowa/parki/park.jpg"
+          "thumb": "/assets/photo/czestochowa/parki/park.thumb.jpg"
         },
         {
           "caption": {
@@ -116,7 +116,7 @@
             "pl": "Park"
           },
           "src": "/assets/photo/czestochowa/parki/park2.jpg",
-          "thumb": "/assets/photo/czestochowa/parki/park2.jpg"
+          "thumb": "/assets/photo/czestochowa/parki/park2.thumb.jpg"
         },
         {
           "caption": {
@@ -124,7 +124,7 @@
             "pl": "Park"
           },
           "src": "/assets/photo/czestochowa/parki/park3.jpg",
-          "thumb": "/assets/photo/czestochowa/parki/park3.jpg"
+          "thumb": "/assets/photo/czestochowa/parki/park3.thumb.jpg"
         },
         {
           "caption": {
@@ -132,7 +132,7 @@
             "pl": "Park"
           },
           "src": "/assets/photo/czestochowa/parki/park4.jpg",
-          "thumb": "/assets/photo/czestochowa/parki/park4.jpg"
+          "thumb": "/assets/photo/czestochowa/parki/park4.thumb.jpg"
         },
         {
           "caption": {
@@ -140,7 +140,7 @@
             "pl": "Obserwatorium astronomiczne"
           },
           "src": "/assets/photo/czestochowa/parki/obserwatorium.jpg",
-          "thumb": "/assets/photo/czestochowa/parki/obserwatorium.jpg"
+          "thumb": "/assets/photo/czestochowa/parki/obserwatorium.thumb.jpg"
         },
         {
           "caption": {
@@ -148,7 +148,7 @@
             "pl": "Pomnik dziewczyny"
           },
           "src": "/assets/photo/czestochowa/parki/dziewczyna.jpg",
-          "thumb": "/assets/photo/czestochowa/parki/dziewczyna.jpg"
+          "thumb": "/assets/photo/czestochowa/parki/dziewczyna.thumb.jpg"
         }
       ]
     },
@@ -168,7 +168,7 @@
             "pl": "Aleja Najświętszej Maryi Panny"
           },
           "src": "/assets/photo/czestochowa/aleja/aleja.jpg",
-          "thumb": "/assets/photo/czestochowa/aleja/aleja.jpg"
+          "thumb": "/assets/photo/czestochowa/aleja/aleja.thumb.jpg"
         },
         {
           "caption": {
@@ -176,7 +176,7 @@
             "pl": "Pomnik Jana Pawła II"
           },
           "src": "/assets/photo/czestochowa/aleja/jp2.jpg",
-          "thumb": "/assets/photo/czestochowa/aleja/jp2.jpg"
+          "thumb": "/assets/photo/czestochowa/aleja/jp2.thumb.jpg"
         },
         {
           "caption": {
@@ -184,7 +184,7 @@
             "pl": "Rynek"
           },
           "src": "/assets/photo/czestochowa/aleja/rynek.jpg",
-          "thumb": "/assets/photo/czestochowa/aleja/rynek.jpg"
+          "thumb": "/assets/photo/czestochowa/aleja/rynek.thumb.jpg"
         },
         {
           "caption": {
@@ -192,7 +192,7 @@
             "pl": "Ratusz"
           },
           "src": "/assets/photo/czestochowa/aleja/ratusz.jpg",
-          "thumb": "/assets/photo/czestochowa/aleja/ratusz.jpg"
+          "thumb": "/assets/photo/czestochowa/aleja/ratusz.thumb.jpg"
         },
         {
           "caption": {
@@ -200,7 +200,7 @@
             "pl": "Widok na rynek z wieży ratuszowej"
           },
           "src": "/assets/photo/czestochowa/aleja/rynek_ratusz.jpg",
-          "thumb": "/assets/photo/czestochowa/aleja/rynek_ratusz.jpg"
+          "thumb": "/assets/photo/czestochowa/aleja/rynek_ratusz.thumb.jpg"
         },
         {
           "caption": {
@@ -208,7 +208,7 @@
             "pl": "Pomnik Józefa Piłsudskiego"
           },
           "src": "/assets/photo/czestochowa/aleja/pilsudski.jpg",
-          "thumb": "/assets/photo/czestochowa/aleja/pilsudski.jpg"
+          "thumb": "/assets/photo/czestochowa/aleja/pilsudski.thumb.jpg"
         },
         {
           "caption": {
@@ -216,7 +216,7 @@
             "pl": "Mural \"Wieża Babel\""
           },
           "src": "/assets/photo/czestochowa/aleja/mural.jpg",
-          "thumb": "/assets/photo/czestochowa/aleja/mural.jpg"
+          "thumb": "/assets/photo/czestochowa/aleja/mural.thumb.jpg"
         },
         {
           "caption": {
@@ -224,7 +224,7 @@
             "pl": "Ławka Haliny Poświatowskiej"
           },
           "src": "/assets/photo/czestochowa/aleja/poswiatowska.jpg",
-          "thumb": "/assets/photo/czestochowa/aleja/poswiatowska.jpg"
+          "thumb": "/assets/photo/czestochowa/aleja/poswiatowska.thumb.jpg"
         },
         {
           "caption": {
@@ -232,7 +232,7 @@
             "pl": "Ławka Marka Perepeczki"
           },
           "src": "/assets/photo/czestochowa/aleja/perepeczko.jpg",
-          "thumb": "/assets/photo/czestochowa/aleja/perepeczko.jpg"
+          "thumb": "/assets/photo/czestochowa/aleja/perepeczko.thumb.jpg"
         }
       ]
     },
@@ -252,7 +252,7 @@
             "pl": "Stary Rynek"
           },
           "src": "/assets/photo/czestochowa/stary_rynek/rynek.jpg",
-          "thumb": "/assets/photo/czestochowa/stary_rynek/rynek.jpg"
+          "thumb": "/assets/photo/czestochowa/stary_rynek/rynek.thumb.jpg"
         },
         {
           "caption": {
@@ -260,7 +260,7 @@
             "pl": "Stary Rynek"
           },
           "src": "/assets/photo/czestochowa/stary_rynek/rynek2.jpg",
-          "thumb": "/assets/photo/czestochowa/stary_rynek/rynek2.jpg"
+          "thumb": "/assets/photo/czestochowa/stary_rynek/rynek2.thumb.jpg"
         },
         {
           "caption": {
@@ -268,7 +268,7 @@
             "pl": "Dzwonnik"
           },
           "src": "/assets/photo/czestochowa/stary_rynek/dzwonnik.jpg",
-          "thumb": "/assets/photo/czestochowa/stary_rynek/dzwonnik.jpg"
+          "thumb": "/assets/photo/czestochowa/stary_rynek/dzwonnik.thumb.jpg"
         },
         {
           "caption": {
@@ -276,7 +276,7 @@
             "pl": "Instalacje"
           },
           "src": "/assets/photo/czestochowa/stary_rynek/rzezby.jpg",
-          "thumb": "/assets/photo/czestochowa/stary_rynek/rzezby.jpg"
+          "thumb": "/assets/photo/czestochowa/stary_rynek/rzezby.thumb.jpg"
         }
       ]
     },
@@ -296,7 +296,7 @@
             "pl": "Przód"
           },
           "src": "/assets/photo/czestochowa/bazylika_swietej_rodziny/przod.jpg",
-          "thumb": "/assets/photo/czestochowa/bazylika_swietej_rodziny/przod.jpg"
+          "thumb": "/assets/photo/czestochowa/bazylika_swietej_rodziny/przod.thumb.jpg"
         },
         {
           "caption": {
@@ -304,7 +304,7 @@
             "pl": "Widok z tyłu"
           },
           "src": "/assets/photo/czestochowa/bazylika_swietej_rodziny/tyl.jpg",
-          "thumb": "/assets/photo/czestochowa/bazylika_swietej_rodziny/tyl.jpg"
+          "thumb": "/assets/photo/czestochowa/bazylika_swietej_rodziny/tyl.thumb.jpg"
         },
         {
           "caption": {
@@ -312,7 +312,7 @@
             "pl": "Skrzydło wschodnie"
           },
           "src": "/assets/photo/czestochowa/bazylika_swietej_rodziny/bok2.jpg",
-          "thumb": "/assets/photo/czestochowa/bazylika_swietej_rodziny/bok2.jpg"
+          "thumb": "/assets/photo/czestochowa/bazylika_swietej_rodziny/bok2.thumb.jpg"
         },
         {
           "caption": {
@@ -320,7 +320,7 @@
             "pl": "Skrzydło zachodnie, gargulce"
           },
           "src": "/assets/photo/czestochowa/bazylika_swietej_rodziny/bok.jpg",
-          "thumb": "/assets/photo/czestochowa/bazylika_swietej_rodziny/bok.jpg"
+          "thumb": "/assets/photo/czestochowa/bazylika_swietej_rodziny/bok.thumb.jpg"
         },
         {
           "caption": {
@@ -328,7 +328,7 @@
             "pl": "Kamień poświęcony żołnierzom Armii Krajowej"
           },
           "src": "/assets/photo/czestochowa/bazylika_swietej_rodziny/kamien.jpg",
-          "thumb": "/assets/photo/czestochowa/bazylika_swietej_rodziny/kamien.jpg"
+          "thumb": "/assets/photo/czestochowa/bazylika_swietej_rodziny/kamien.thumb.jpg"
         },
         {
           "caption": {
@@ -336,7 +336,7 @@
             "pl": "Wnetrze"
           },
           "src": "/assets/photo/czestochowa/bazylika_swietej_rodziny/wnetrze.jpg",
-          "thumb": "/assets/photo/czestochowa/bazylika_swietej_rodziny/wnetrze.jpg"
+          "thumb": "/assets/photo/czestochowa/bazylika_swietej_rodziny/wnetrze.thumb.jpg"
         },
         {
           "caption": {
@@ -344,7 +344,7 @@
             "pl": "Prezbiterium"
           },
           "src": "/assets/photo/czestochowa/bazylika_swietej_rodziny/prezbiterium.jpg",
-          "thumb": "/assets/photo/czestochowa/bazylika_swietej_rodziny/prezbiterium.jpg"
+          "thumb": "/assets/photo/czestochowa/bazylika_swietej_rodziny/prezbiterium.thumb.jpg"
         },
         {
           "caption": {
@@ -352,7 +352,7 @@
             "pl": "Organy"
           },
           "src": "/assets/photo/czestochowa/bazylika_swietej_rodziny/organy.jpg",
-          "thumb": "/assets/photo/czestochowa/bazylika_swietej_rodziny/organy.jpg"
+          "thumb": "/assets/photo/czestochowa/bazylika_swietej_rodziny/organy.thumb.jpg"
         },
         {
           "caption": {
@@ -360,7 +360,7 @@
             "pl": "Witraż"
           },
           "src": "/assets/photo/czestochowa/bazylika_swietej_rodziny/witraz.jpg",
-          "thumb": "/assets/photo/czestochowa/bazylika_swietej_rodziny/witraz.jpg"
+          "thumb": "/assets/photo/czestochowa/bazylika_swietej_rodziny/witraz.thumb.jpg"
         },
         {
           "caption": {
@@ -368,7 +368,7 @@
             "pl": "Widok z dystansu"
           },
           "src": "/assets/photo/czestochowa/bazylika_swietej_rodziny/dystans.jpg",
-          "thumb": "/assets/photo/czestochowa/bazylika_swietej_rodziny/dystans.jpg"
+          "thumb": "/assets/photo/czestochowa/bazylika_swietej_rodziny/dystans.thumb.jpg"
         }
       ]
     },
@@ -388,7 +388,7 @@
             "pl": "Tablica informacyjna"
           },
           "src": "/assets/photo/czestochowa/rezerwat_archeologiczny/tablica.jpg",
-          "thumb": "/assets/photo/czestochowa/rezerwat_archeologiczny/tablica.jpg"
+          "thumb": "/assets/photo/czestochowa/rezerwat_archeologiczny/tablica.thumb.jpg"
         },
         {
           "caption": {
@@ -396,7 +396,7 @@
             "pl": "Wykopaliska"
           },
           "src": "/assets/photo/czestochowa/rezerwat_archeologiczny/wykopaliska.jpg",
-          "thumb": "/assets/photo/czestochowa/rezerwat_archeologiczny/wykopaliska.jpg"
+          "thumb": "/assets/photo/czestochowa/rezerwat_archeologiczny/wykopaliska.thumb.jpg"
         },
         {
           "caption": {
@@ -404,7 +404,7 @@
             "pl": "Szkielet"
           },
           "src": "/assets/photo/czestochowa/rezerwat_archeologiczny/szkielet.jpg",
-          "thumb": "/assets/photo/czestochowa/rezerwat_archeologiczny/szkielet.jpg"
+          "thumb": "/assets/photo/czestochowa/rezerwat_archeologiczny/szkielet.thumb.jpg"
         },
         {
           "caption": {
@@ -412,7 +412,7 @@
             "pl": "Czaszka"
           },
           "src": "/assets/photo/czestochowa/rezerwat_archeologiczny/czaszka.jpg",
-          "thumb": "/assets/photo/czestochowa/rezerwat_archeologiczny/czaszka.jpg"
+          "thumb": "/assets/photo/czestochowa/rezerwat_archeologiczny/czaszka.thumb.jpg"
         },
         {
           "caption": {
@@ -420,7 +420,7 @@
             "pl": "Makieta wioski łużyckiej"
           },
           "src": "/assets/photo/czestochowa/rezerwat_archeologiczny/makieta.jpg",
-          "thumb": "/assets/photo/czestochowa/rezerwat_archeologiczny/makieta.jpg"
+          "thumb": "/assets/photo/czestochowa/rezerwat_archeologiczny/makieta.thumb.jpg"
         },
         {
           "caption": {
@@ -428,7 +428,7 @@
             "pl": "Wyroby z brązu"
           },
           "src": "/assets/photo/czestochowa/rezerwat_archeologiczny/wyroby.jpg",
-          "thumb": "/assets/photo/czestochowa/rezerwat_archeologiczny/wyroby.jpg"
+          "thumb": "/assets/photo/czestochowa/rezerwat_archeologiczny/wyroby.thumb.jpg"
         }
       ]
     },
@@ -448,7 +448,7 @@
             "pl": "Tablica informacyjna"
           },
           "src": "/assets/photo/czestochowa/muzeum_kolei/tablica.jpg",
-          "thumb": "/assets/photo/czestochowa/muzeum_kolei/tablica.jpg"
+          "thumb": "/assets/photo/czestochowa/muzeum_kolei/tablica.thumb.jpg"
         },
         {
           "caption": {
@@ -456,7 +456,7 @@
             "pl": "Wejscie"
           },
           "src": "/assets/photo/czestochowa/muzeum_kolei/wejscie.jpg",
-          "thumb": "/assets/photo/czestochowa/muzeum_kolei/wejscie.jpg"
+          "thumb": "/assets/photo/czestochowa/muzeum_kolei/wejscie.thumb.jpg"
         },
         {
           "caption": {
@@ -464,7 +464,7 @@
             "pl": "Telegraf"
           },
           "src": "/assets/photo/czestochowa/muzeum_kolei/telegraf.jpg",
-          "thumb": "/assets/photo/czestochowa/muzeum_kolei/telegraf.jpg"
+          "thumb": "/assets/photo/czestochowa/muzeum_kolei/telegraf.thumb.jpg"
         },
         {
           "caption": {
@@ -472,7 +472,7 @@
             "pl": "Proporce"
           },
           "src": "/assets/photo/czestochowa/muzeum_kolei/proporce.jpg",
-          "thumb": "/assets/photo/czestochowa/muzeum_kolei/proporce.jpg"
+          "thumb": "/assets/photo/czestochowa/muzeum_kolei/proporce.thumb.jpg"
         },
         {
           "caption": {
@@ -480,7 +480,7 @@
             "pl": "Czapki kolejowe"
           },
           "src": "/assets/photo/czestochowa/muzeum_kolei/czapki.jpg",
-          "thumb": "/assets/photo/czestochowa/muzeum_kolei/czapki.jpg"
+          "thumb": "/assets/photo/czestochowa/muzeum_kolei/czapki.thumb.jpg"
         }
       ]
     }
