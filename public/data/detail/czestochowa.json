@@ -28,18 +28,40 @@
             "en": "Shrine building",
             "pl": "Budynek Sanktuarium"
           },
-          "source": "https://en.wikipedia.org/wiki/File:Cz%C4%99stochowa_klasztor_Jasna_G%C3%B3ra-2162.jpg",
-          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cz%C4%99stochowa_klasztor_Jasna_G%C3%B3ra-2162.jpg/800px-Cz%C4%99stochowa_klasztor_Jasna_G%C3%B3ra-2162.jpg",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cz%C4%99stochowa_klasztor_Jasna_G%C3%B3ra-2162.jpg/320px-Cz%C4%99stochowa_klasztor_Jasna_G%C3%B3ra-2162.jpg"
+          "src": "/assets/photo/czestochowa/jasna_gora/klasztor.jpg",
+          "thumb": "/assets/photo/czestochowa/jasna_gora/klasztor.thumb.jpg"
         },
         {
           "caption": {
-            "en": "The main nave of the basilica ",
-            "pl": "Nawa główna bazyliki"
+            "en": "Figure of Our Lady",
+            "pl": "Figura Matki Boskiej"
           },
-          "source": "https://pl.wikipedia.org/wiki/Plik:Czestochowa-bazylika.jpg",
-          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Czestochowa-bazylika.jpg/389px-Czestochowa-bazylika.jpg",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Czestochowa-bazylika.jpg/155px-Czestochowa-bazylika.jpg"
+          "src": "/assets/photo/czestochowa/jasna_gora/figura.jpg",
+          "thumb": "/assets/photo/czestochowa/jasna_gora/figura.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "One of mysteries around monastery",
+            "pl": "Jedna z tajemnic różancowych dookoła klasztoru"
+          },
+          "src": "/assets/photo/czestochowa/jasna_gora/tajemnica.jpg",
+          "thumb": "/assets/photo/czestochowa/jasna_gora/tajemnica.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Polish primate Stefan Wyszyński's monument",
+            "pl": "Pomnik prymasa Stefana Wyszyńskiego"
+          },
+          "src": "/assets/photo/czestochowa/jasna_gora/wyszynski.jpg",
+          "thumb": "/assets/photo/czestochowa/jasna_gora/wyszynski.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Monastery gate",
+            "pl": "Brama klasztorna"
+          },
+          "src": "/assets/photo/czestochowa/jasna_gora/brama.jpg",
+          "thumb": "/assets/photo/czestochowa/jasna_gora/brama.thumb.jpg"
         },
         {
           "caption": {
@@ -47,8 +69,8 @@
             "pl": "Ołtarz Główny"
           },
           "source": "https://en.wikipedia.org/wiki/File:O%C5%82tarz_g%C5%82%C3%B3wny_Bazyliki_Jasnog%C3%B3rskiej.jpg",
-          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/O%C5%82tarz_g%C5%82%C3%B3wny_Bazyliki_Jasnog%C3%B3rskiej.jpg/450px-O%C5%82tarz_g%C5%82%C3%B3wny_Bazyliki_Jasnog%C3%B3rskiej.jpg",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/O%C5%82tarz_g%C5%82%C3%B3wny_Bazyliki_Jasnog%C3%B3rskiej.jpg/180px-O%C5%82tarz_g%C5%82%C3%B3wny_Bazyliki_Jasnog%C3%B3rskiej.jpg"
+          "src": "/assets/photo/czestochowa/jasna_gora/oltarz.jpg",
+          "thumb": "/assets/photo/czestochowa/jasna_gora/oltarz.thumb.jpg"
         },
         {
           "caption": {
@@ -56,8 +78,8 @@
             "pl": "Widok na ołtarz główny w kaplicy z obrazem Matki Boskiej Częstochowskiej"
           },
           "source": "https://pl.wikipedia.org/wiki/Plik:Cz%C4%99stochowa_-_Jasna_G%C3%B3ra,_Kaplica_Naj%C5%9Bwi%C4%99tszej_Marii_Panny_AL15.JPG",
-          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Cz%C4%99stochowa_-_Jasna_G%C3%B3ra%2C_Kaplica_Naj%C5%9Bwi%C4%99tszej_Marii_Panny_AL15.JPG/450px-Cz%C4%99stochowa_-_Jasna_G%C3%B3ra%2C_Kaplica_Naj%C5%9Bwi%C4%99tszej_Marii_Panny_AL15.JPG",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Cz%C4%99stochowa_-_Jasna_G%C3%B3ra%2C_Kaplica_Naj%C5%9Bwi%C4%99tszej_Marii_Panny_AL15.JPG/180px-Cz%C4%99stochowa_-_Jasna_G%C3%B3ra%2C_Kaplica_Naj%C5%9Bwi%C4%99tszej_Marii_Panny_AL15.JPG"
+          "src": "/assets/photo/czestochowa/jasna_gora/kaplica.jpg",
+          "thumb": "/assets/photo/czestochowa/jasna_gora/kaplica.thumb.jpg"
         },
         {
           "caption": {
@@ -65,95 +87,152 @@
             "pl": "Obraz w ujęciu ołtarzowym w kaplicy Matki Bożej"
           },
           "source": "https://pl.wikipedia.org/wiki/Plik:Czestochowa_MB_Czestochowska.jpg",
-          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Czestochowa_MB_Czestochowska.jpg/386px-Czestochowa_MB_Czestochowska.jpg",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Czestochowa_MB_Czestochowska.jpg/154px-Czestochowa_MB_Czestochowska.jpg"
+          "src": "/assets/photo/czestochowa/jasna_gora/obraz.jpg",
+          "thumb": "/assets/photo/czestochowa/jasna_gora/obraz.thumb.jpg"
         }
       ]
     },
     {
       "name": {
-        "en": "Jasna Góra Parks",
-        "pl": "Parki podjasnogórskie"
+        "en": "Stanisław Staszic Park",
+        "pl": "Park im. Stanisława Staszica"
       },
       "description": {
-        "en": "Two city parks (Stanisław Staszic Park and 3 May Park) located in the city centre, on the slope of Jasna Góra Hill.",
-        "pl": "Dwa parki miejskie w Częstochowie, w dzielnicy Podjasnogórskiej: Park im. Stanisława Staszica oraz Park 3 Maja"
+        "en": "Stanisław Staszic Park located in the city centre, on the slope of Jasna Góra Hill.",
+        "pl": "Park im. Stanisława Staszica u podnóża Jasnej Góry"
       },
       "photos": [
         {
           "caption": {
-            "en": "Parks seen from Jasna Góra",
-            "pl": "Parki widziane z Jasnej Góry"
+            "en": "Park",
+            "pl": "Park"
           },
-          "source": "https://pl.wikipedia.org/wiki/Plik:Panorama_of_Cz%C4%99stochowa.jpg",
-          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Panorama_of_Cz%C4%99stochowa.jpg/800px-Panorama_of_Cz%C4%99stochowa.jpg",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Panorama_of_Cz%C4%99stochowa.jpg/800px-Panorama_of_Cz%C4%99stochowa.jpg"
+          "src": "/assets/photo/czestochowa/parki/park.jpg",
+          "thumb": "/assets/photo/czestochowa/parki/park.thumb.jpg"
         },
         {
           "caption": {
-            "en": "Stanisław Staszic Park",
-            "pl": "Park Staszica"
+            "en": "Park",
+            "pl": "Park"
           },
-          "source": "https://en.wikipedia.org/wiki/File:Park_Staszica_Cz%C4%99stochowa.jpg",
-          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Park_Staszica_Cz%C4%99stochowa.jpg/800px-Park_Staszica_Cz%C4%99stochowa.jpg",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Park_Staszica_Cz%C4%99stochowa.jpg/320px-Park_Staszica_Cz%C4%99stochowa.jpg"
+          "src": "/assets/photo/czestochowa/parki/park2.jpg",
+          "thumb": "/assets/photo/czestochowa/parki/park2.thumb.jpg"
         },
         {
           "caption": {
-            "en": "Fountain in Stanisław Staszic Park",
-            "pl": "Fontanna w Parku Staszica"
+            "en": "Park",
+            "pl": "Park"
           },
-          "source": "https://pl.wikipedia.org/wiki/Plik:Cz%C4%99stochowa_Park_Staszica_Fontanna.JPG",
-          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Cz%C4%99stochowa_Park_Staszica_Fontanna.JPG/800px-Cz%C4%99stochowa_Park_Staszica_Fontanna.JPG",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Cz%C4%99stochowa_Park_Staszica_Fontanna.JPG/320px-Cz%C4%99stochowa_Park_Staszica_Fontanna.JPG"
+          "src": "/assets/photo/czestochowa/parki/park3.jpg",
+          "thumb": "/assets/photo/czestochowa/parki/park3.thumb.jpg"
         },
         {
           "caption": {
-            "en": "3 May Park",
-            "pl": "Park 3 Maja"
+            "en": "Park",
+            "pl": "Park"
           },
-          "source": "https://pl.wikipedia.org/wiki/Plik:Park_3_maja_w_Cz%C4%99stochowie.jpg",
-          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Park_3_maja_w_Cz%C4%99stochowie.jpg/800px-Park_3_maja_w_Cz%C4%99stochowie.jpg",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Park_3_maja_w_Cz%C4%99stochowie.jpg/320px-Park_3_maja_w_Cz%C4%99stochowie.jpg"
+          "src": "/assets/photo/czestochowa/parki/park4.jpg",
+          "thumb": "/assets/photo/czestochowa/parki/park4.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Astronomical observatory",
+            "pl": "Obserwatorium astronomiczne"
+          },
+          "src": "/assets/photo/czestochowa/parki/obserwatorium.jpg",
+          "thumb": "/assets/photo/czestochowa/parki/obserwatorium.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Girl monument",
+            "pl": "Pomnik dziewczyny"
+          },
+          "src": "/assets/photo/czestochowa/parki/dziewczyna.jpg",
+          "thumb": "/assets/photo/czestochowa/parki/dziewczyna.thumb.jpg"
         }
       ]
     },
     {
       "name": {
-        "en": "Częstochowa Museum",
-        "pl": "Muzeum Częstochowskie"
+        "en": "Saint Mary Avenue",
+        "pl": "Aleja Najświętszej Maryi Panny"
       },
       "description": {
-        "en": "The oldest cultural institution of the region.",
-        "pl": "Najstarsza instytucja kulturalna regionu częstochowskiego."
+        "en": "Main representative street in center of the city",
+        "pl": "Główna, reprezentacyjna ulica w centrum miasta."
       },
       "photos": [
         {
           "caption": {
-            "en": "Town Hall",
+            "en": "Saint Mary Avenue",
+            "pl": "Aleja Najświętszej Maryi Panny"
+          },
+          "src": "/assets/photo/czestochowa/aleja/aleja.jpg",
+          "thumb": "/assets/photo/czestochowa/aleja/aleja.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "John Paul II monument",
+            "pl": "Pomnik Jana Pawła II"
+          },
+          "src": "/assets/photo/czestochowa/aleja/jp2.jpg",
+          "thumb": "/assets/photo/czestochowa/aleja/jp2.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Market square",
+            "pl": "Rynek"
+          },
+          "src": "/assets/photo/czestochowa/aleja/rynek.jpg",
+          "thumb": "/assets/photo/czestochowa/aleja/rynek.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Market Hall",
             "pl": "Ratusz"
           },
-          "source": "https://pl.wikipedia.org/wiki/Plik:1%262DM_Workshop_Cz%C4%99stochowa.jpg",
-          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/1%262DM_Workshop_Cz%C4%99stochowa.jpg/800px-1%262DM_Workshop_Cz%C4%99stochowa.jpg",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/1%262DM_Workshop_Cz%C4%99stochowa.jpg/320px-1%262DM_Workshop_Cz%C4%99stochowa.jpg"
+          "src": "/assets/photo/czestochowa/aleja/ratusz.jpg",
+          "thumb": "/assets/photo/czestochowa/aleja/ratusz.thumb.jpg"
         },
         {
           "caption": {
-            "en": "Galeria Dobrej Sztuki",
-            "pl": "Galeria Dobrej Sztuki"
+            "en": "View on market hall from market hall's tower",
+            "pl": "Widok na rynek z wieży ratuszowej"
           },
-          "source": "https://pl.wikipedia.org/wiki/Plik:Pa%C5%82ac_biskupi_Cz%C4%99stochowa.JPG",
-          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Pa%C5%82ac_biskupi_Cz%C4%99stochowa.JPG/800px-Pa%C5%82ac_biskupi_Cz%C4%99stochowa.JPG",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Pa%C5%82ac_biskupi_Cz%C4%99stochowa.JPG/320px-Pa%C5%82ac_biskupi_Cz%C4%99stochowa.JPG"
+          "src": "/assets/photo/czestochowa/aleja/rynek_ratusz.jpg",
+          "thumb": "/assets/photo/czestochowa/aleja/rynek_ratusz.thumb.jpg"
         },
         {
           "caption": {
-            "en": "Museum of Iron Ore Mining",
-            "pl": "Muzeum Górnictwa Rud Żelaza"
+            "en": "Józef Piłsudski monument",
+            "pl": "Pomnik Józefa Piłsudskiego"
           },
-          "source": "https://pl.wikipedia.org/wiki/Plik:MGRZ3.jpg",
-          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/MGRZ3.jpg/800px-MGRZ3.jpg",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/MGRZ3.jpg/320px-MGRZ3.jpg"
+          "src": "/assets/photo/czestochowa/aleja/pilsudski.jpg",
+          "thumb": "/assets/photo/czestochowa/aleja/pilsudski.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Mural \"Tower of Babel\"",
+            "pl": "Mural \"Wieża Babel\""
+          },
+          "src": "/assets/photo/czestochowa/aleja/mural.jpg",
+          "thumb": "/assets/photo/czestochowa/aleja/mural.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Halina Poświatowska's bench",
+            "pl": "Ławka Haliny Poświatowskiej"
+          },
+          "src": "/assets/photo/czestochowa/aleja/poswiatowska.jpg",
+          "thumb": "/assets/photo/czestochowa/aleja/poswiatowska.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Marek Perepeczko's bench",
+            "pl": "Ławka Marka Perepeczki"
+          },
+          "src": "/assets/photo/czestochowa/aleja/perepeczko.jpg",
+          "thumb": "/assets/photo/czestochowa/aleja/perepeczko.thumb.jpg"
         }
       ]
     },
@@ -172,18 +251,236 @@
             "en": "Old Market",
             "pl": "Stary Rynek"
           },
-          "source": "https://pl.wikipedia.org/wiki/Plik:Cz%C4%99stochowa_4IX05_06.JPG",
-          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Cz%C4%99stochowa_4IX05_06.JPG/800px-Cz%C4%99stochowa_4IX05_06.JPG",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Cz%C4%99stochowa_4IX05_06.JPG/320px-Cz%C4%99stochowa_4IX05_06.JPG"
+          "src": "/assets/photo/czestochowa/stary_rynek/rynek.jpg",
+          "thumb": "/assets/photo/czestochowa/stary_rynek/rynek.thumb.jpg"
         },
         {
           "caption": {
-            "en": "North frontage",
-            "pl": "Północna pierzeja"
+            "en": "Old Market",
+            "pl": "Stary Rynek"
           },
-          "source": "https://pl.wikipedia.org/wiki/Plik:Cz%C4%99stochowa_Stary_Rynek_p%C3%B3%C5%82nocna_pierzeja_19.08.09_p.jpg",
-          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Cz%C4%99stochowa_Stary_Rynek_p%C3%B3%C5%82nocna_pierzeja_19.08.09_p.jpg/800px-Cz%C4%99stochowa_Stary_Rynek_p%C3%B3%C5%82nocna_pierzeja_19.08.09_p.jpg",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Cz%C4%99stochowa_Stary_Rynek_p%C3%B3%C5%82nocna_pierzeja_19.08.09_p.jpg/320px-Cz%C4%99stochowa_Stary_Rynek_p%C3%B3%C5%82nocna_pierzeja_19.08.09_p.jpg"
+          "src": "/assets/photo/czestochowa/stary_rynek/rynek2.jpg",
+          "thumb": "/assets/photo/czestochowa/stary_rynek/rynek2.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Bellringer",
+            "pl": "Dzwonnik"
+          },
+          "src": "/assets/photo/czestochowa/stary_rynek/dzwonnik.jpg",
+          "thumb": "/assets/photo/czestochowa/stary_rynek/dzwonnik.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Installations",
+            "pl": "Instalacje"
+          },
+          "src": "/assets/photo/czestochowa/stary_rynek/rzezby.jpg",
+          "thumb": "/assets/photo/czestochowa/stary_rynek/rzezby.thumb.jpg"
+        }
+      ]
+    },
+    {
+      "name": {
+        "en": "The Cathedral Basilica of the Holy Family",
+        "pl": "Bazylika Archikatedralna Świętej Rodziny"
+      },
+      "description": {
+        "en": "Built in the neo-Gothic style, three-nave church located on the street Krakowska in the city of Częstochowa",
+        "pl": "Neogotycka, trójnawowa świątynia rzymskokatolicka znajdująca się w Częstochowie"
+      },
+      "photos": [
+        {
+          "caption": {
+            "en": "Facade",
+            "pl": "Przód"
+          },
+          "src": "/assets/photo/czestochowa/bazylika_swietej_rodziny/przod.jpg",
+          "thumb": "/assets/photo/czestochowa/bazylika_swietej_rodziny/przod.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "View from the back",
+            "pl": "Widok z tyłu"
+          },
+          "src": "/assets/photo/czestochowa/bazylika_swietej_rodziny/tyl.jpg",
+          "thumb": "/assets/photo/czestochowa/bazylika_swietej_rodziny/tyl.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "East wing",
+            "pl": "Skrzydło wschodnie"
+          },
+          "src": "/assets/photo/czestochowa/bazylika_swietej_rodziny/bok2.jpg",
+          "thumb": "/assets/photo/czestochowa/bazylika_swietej_rodziny/bok2.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "West wing, gargoyles",
+            "pl": "Skrzydło zachodnie, gargulce"
+          },
+          "src": "/assets/photo/czestochowa/bazylika_swietej_rodziny/bok.jpg",
+          "thumb": "/assets/photo/czestochowa/bazylika_swietej_rodziny/bok.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Memorial stone to soldiers of the Home Army",
+            "pl": "Kamień poświęcony żołnierzom Armii Krajowej"
+          },
+          "src": "/assets/photo/czestochowa/bazylika_swietej_rodziny/kamien.jpg",
+          "thumb": "/assets/photo/czestochowa/bazylika_swietej_rodziny/kamien.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Interior",
+            "pl": "Wnetrze"
+          },
+          "src": "/assets/photo/czestochowa/bazylika_swietej_rodziny/wnetrze.jpg",
+          "thumb": "/assets/photo/czestochowa/bazylika_swietej_rodziny/wnetrze.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Chancel",
+            "pl": "Prezbiterium"
+          },
+          "src": "/assets/photo/czestochowa/bazylika_swietej_rodziny/prezbiterium.jpg",
+          "thumb": "/assets/photo/czestochowa/bazylika_swietej_rodziny/prezbiterium.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Pipe organ",
+            "pl": "Organy"
+          },
+          "src": "/assets/photo/czestochowa/bazylika_swietej_rodziny/organy.jpg",
+          "thumb": "/assets/photo/czestochowa/bazylika_swietej_rodziny/organy.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Stained glass window",
+            "pl": "Witraż"
+          },
+          "src": "/assets/photo/czestochowa/bazylika_swietej_rodziny/witraz.jpg",
+          "thumb": "/assets/photo/czestochowa/bazylika_swietej_rodziny/witraz.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "View from distance",
+            "pl": "Widok z dystansu"
+          },
+          "src": "/assets/photo/czestochowa/bazylika_swietej_rodziny/dystans.jpg",
+          "thumb": "/assets/photo/czestochowa/bazylika_swietej_rodziny/dystans.thumb.jpg"
+        }
+      ]
+    },
+    {
+      "name": {
+        "en": "Archaeological Reserve of Lusatian Culture",
+        "pl": "Rezerwat Archeologiczny Kultury Łużyckiej"
+      },
+      "description": {
+        "en": "2500-year-old burial ground was discovered in 1955 during construction works of Częstochowa's tram line",
+        "pl": "Trwale zakonserwowane cmentarzysko grupy śląsko-małopolskiej okresu halsztadzkiego kultury łużyckiej z wczesnej epoki żelaza (750-550 lat p.n.e.)"
+      },
+      "photos": [
+        {
+          "caption": {
+            "en": "Information board",
+            "pl": "Tablica informacyjna"
+          },
+          "src": "/assets/photo/czestochowa/rezerwat_archeologiczny/tablica.jpg",
+          "thumb": "/assets/photo/czestochowa/rezerwat_archeologiczny/tablica.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Excavations",
+            "pl": "Wykopaliska"
+          },
+          "src": "/assets/photo/czestochowa/rezerwat_archeologiczny/wykopaliska.jpg",
+          "thumb": "/assets/photo/czestochowa/rezerwat_archeologiczny/wykopaliska.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Skeleton",
+            "pl": "Szkielet"
+          },
+          "src": "/assets/photo/czestochowa/rezerwat_archeologiczny/szkielet.jpg",
+          "thumb": "/assets/photo/czestochowa/rezerwat_archeologiczny/szkielet.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Skull",
+            "pl": "Czaszka"
+          },
+          "src": "/assets/photo/czestochowa/rezerwat_archeologiczny/czaszka.jpg",
+          "thumb": "/assets/photo/czestochowa/rezerwat_archeologiczny/czaszka.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Model of lustatian village",
+            "pl": "Makieta wioski łużyckiej"
+          },
+          "src": "/assets/photo/czestochowa/rezerwat_archeologiczny/makieta.jpg",
+          "thumb": "/assets/photo/czestochowa/rezerwat_archeologiczny/makieta.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Bronze products",
+            "pl": "Wyroby z brązu"
+          },
+          "src": "/assets/photo/czestochowa/rezerwat_archeologiczny/wyroby.jpg",
+          "thumb": "/assets/photo/czestochowa/rezerwat_archeologiczny/wyroby.thumb.jpg"
+        }
+      ]
+    },
+    {
+      "name": {
+        "en": "Museum of Railway History",
+        "pl": "Muzeum Historii Kolei"
+      },
+      "description": {
+        "en": "Souvenirs, railway equipment and railway elements",
+        "pl": "Pamiątki, sprzęt i elementy wyposażenia kolejowego"
+      },
+      "photos": [
+        {
+          "caption": {
+            "en": "Information board",
+            "pl": "Tablica informacyjna"
+          },
+          "src": "/assets/photo/czestochowa/muzeum_kolei/tablica.jpg",
+          "thumb": "/assets/photo/czestochowa/muzeum_kolei/tablica.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Entry",
+            "pl": "Wejscie"
+          },
+          "src": "/assets/photo/czestochowa/muzeum_kolei/wejscie.jpg",
+          "thumb": "/assets/photo/czestochowa/muzeum_kolei/wejscie.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Telegraph",
+            "pl": "Telegraf"
+          },
+          "src": "/assets/photo/czestochowa/muzeum_kolei/telegraf.jpg",
+          "thumb": "/assets/photo/czestochowa/muzeum_kolei/telegraf.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Banners",
+            "pl": "Proporce"
+          },
+          "src": "/assets/photo/czestochowa/muzeum_kolei/proporce.jpg",
+          "thumb": "/assets/photo/czestochowa/muzeum_kolei/proporce.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Railroad hats",
+            "pl": "Czapki kolejowe"
+          },
+          "src": "/assets/photo/czestochowa/muzeum_kolei/czapki.jpg",
+          "thumb": "/assets/photo/czestochowa/muzeum_kolei/czapki.thumb.jpg"
         }
       ]
     }
