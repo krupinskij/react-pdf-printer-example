@@ -1,6 +1,6 @@
 import { createBrowserRouter, Navigate, RouterProvider } from 'react-router-dom';
 
-import { cities } from 'api';
+import { cities, DC } from 'api';
 import CityPage from 'pages/CityPage';
 import HomePage from 'pages/HomePage';
 import Layout from 'pages/Layout';
@@ -18,7 +18,7 @@ const router = createBrowserRouter(
         {
           path: '/city/:city',
           loader: ({ params }) => {
-            if (!cities.includes(params.city || '')) throw new Error();
+            if (!cities.includes(params.city as DC.ID)) throw new Error();
 
             return null;
           },

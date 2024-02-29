@@ -6,30 +6,14 @@ import {
   cityDetailsSchema,
   citySchema,
   detailsSchema,
+  idSchema,
   imageSchema,
-  supportedLngsSchema,
+  languageSchema,
 } from './schema';
 
-export const cities = [
-  'warsaw',
-  'krakow',
-  'wroclaw',
-  'lodz',
-  'poznan',
-  'gdansk',
-  'szczecin',
-  'bydgoszcz',
-  'lublin',
-  'bialystok',
-  'katowice',
-  'gdynia',
-  'czestochowa',
-  'radom',
-  'torun',
-  'rzeszow',
-];
+export type ID = z.infer<typeof idSchema>;
 
-export type SupportedLng = z.infer<typeof supportedLngsSchema>;
+export type Language = z.infer<typeof languageSchema>;
 
 export type City = z.infer<typeof citySchema>;
 

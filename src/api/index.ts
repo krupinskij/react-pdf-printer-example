@@ -1,8 +1,10 @@
 import { z } from 'zod';
 
-import { City, CityDetail, cities } from './model';
+import { City, CityDetail } from './model';
 import { QUERY } from './query';
-import { cityDetailsSchema, citySchema } from './schema';
+import { cityDetailsSchema, citySchema, idSchema } from './schema';
+
+const cities = idSchema.options.map((id) => id.value);
 
 const sleep = (ms: number) => new Promise((res) => setTimeout(() => res(''), ms));
 
@@ -35,4 +37,5 @@ const API = {
 
 export default API;
 export { QUERY };
+export * as DC from './model';
 export { cities };

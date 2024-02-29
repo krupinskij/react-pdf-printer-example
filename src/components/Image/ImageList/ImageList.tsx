@@ -2,13 +2,13 @@ import { MouseEvent, UIEvent, useEffect, useId, useRef, useState } from 'react';
 import { useTranslation } from 'react-i18next';
 import { usePrinter } from 'react-pdf-printer';
 
-import { Image } from 'api/model';
+import { DC } from 'api';
 import Modal from 'components/Modal';
 
 import * as Styled from './ImageList.styles';
 
 type Props = {
-  images: Image[];
+  images: DC.Image[];
   carousel?: boolean;
 };
 

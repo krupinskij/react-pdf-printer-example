@@ -2,9 +2,28 @@ import { z } from 'zod';
 
 import i18n from 'translations/i18n';
 
-import { SupportedLng } from './model';
+import { Language } from './model';
 
-export const supportedLngsSchema = z.union([z.literal('pl'), z.literal('en')]);
+export const idSchema = z.union([
+  z.literal('warsaw'),
+  z.literal('krakow'),
+  z.literal('wroclaw'),
+  z.literal('lodz'),
+  z.literal('poznan'),
+  z.literal('gdansk'),
+  z.literal('szczecin'),
+  z.literal('bydgoszcz'),
+  z.literal('lublin'),
+  z.literal('bialystok'),
+  z.literal('katowice'),
+  z.literal('gdynia'),
+  z.literal('czestochowa'),
+  z.literal('radom'),
+  z.literal('torun'),
+  z.literal('rzeszow'),
+]);
+
+export const languageSchema = z.union([z.literal('pl'), z.literal('en')]);
 
 const srcSchema = z
   .string()
@@ -12,9 +31,9 @@ const srcSchema = z
     /^((http|https):\/\/)/.test(value) ? value : `${import.meta.env.BASE_URL}${value}`
   );
 const translationSchema = z
-  .record(supportedLngsSchema, z.string())
-  .superRefine((value, ctx): value is Record<z.infer<typeof supportedLngsSchema>, string> => {
-    const lngSet = new Set<string>(supportedLngsSchema.options.map((option) => option.value));
+  .record(languageSchema, z.string())
+  .superRefine((value, ctx): value is Record<z.infer<typeof languageSchema>, string> => {
+    const lngSet = new Set<string>(languageSchema.options.map((option) => option.value));
     Object.keys(value).forEach((key) => lngSet.delete(key));
 
     if (lngSet.size > 0) {
@@ -26,7 +45,7 @@ const translationSchema = z
     }
     return z.NEVER;
   })
-  .transform((value) => value[i18n.language as SupportedLng]);
+  .transform((value) => value[i18n.language as Language]);
 
 export const imageSchema = z.object({
   caption: translationSchema,
@@ -38,7 +57,7 @@ export const imageSchema = z.object({
 export const backgroundImageSchema = imageSchema.omit({ thumb: true });
 
 export const citySchema = z.object({
-  id: z.string(),
+  id: idSchema,
   voivodeship: z.string(),
   area: z.number(),
   population: z.number(),
