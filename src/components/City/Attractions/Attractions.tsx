@@ -1,12 +1,12 @@
 import { usePrinter } from 'react-pdf-printer';
 
-import { Attraction } from 'api/model';
+import { DC } from 'api';
 import { ImageList } from 'components/Image';
 
 import * as Styled from './Attractions.styles';
 
 type Props = {
-  attractions: Attraction[];
+  attractions: DC.Attraction[];
 };
 
 const Tourism = ({ attractions }: Props) => {

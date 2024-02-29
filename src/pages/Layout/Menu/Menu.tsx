@@ -1,14 +1,13 @@
-import { useQuery } from '@tanstack/react-query';
 import { useTranslation } from 'react-i18next';
 
-import API, { QUERY } from 'api';
+import { useGetCityList } from 'api';
 
 import * as Styled from './Menu.styles';
 
 const Menu = () => {
   const { t } = useTranslation('cities');
 
-  const { data = [] } = useQuery([QUERY.CITIES_LIST], API.getCitiesList, {
+  const { data = [] } = useGetCityList({
     refetchOnWindowFocus: false,
   });
 

@@ -1,13 +1,13 @@
 import { useTranslation } from 'react-i18next';
 import { usePrinter } from 'react-pdf-printer';
 
-import { CityDetail } from 'api/model';
+import { DC } from 'api';
 
 import Background from './Background';
 import * as Styled from './Cover.styles';
 
-type Props = Pick<CityDetail, 'description' | 'position' | 'background'> & {
-  city: string;
+type Props = Pick<DC.CityDetails, 'description' | 'position' | 'background'> & {
+  city: DC.ID;
 };
 
 const Cover = ({ city, description, position, background }: Props) => {

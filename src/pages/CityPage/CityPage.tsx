@@ -1,21 +1,17 @@
-import { useQuery } from '@tanstack/react-query';
 import { useParams } from 'react-router-dom';
 
-import API, { QUERY } from 'api';
+import { DC, useGetCityDetails } from 'api';
 import { Cover, Info, Attractions } from 'components/City';
 import { Error, Spinner } from 'components/Info';
 
 import * as Styled from './CityPage.styles';
 
 const CityPage = () => {
-  const { city = '' } = useParams();
+  const { city } = useParams<{ city: DC.ID }>();
+  const { data, isLoading, isPending, isError, refetch } = useGetCityDetails(city as DC.ID);
 
-  const { data, isLoading, isError, refetch } = useQuery([QUERY.CITY, city], () =>
-    API.getCity(city)
-  );
-
-  if (isLoading) return <Spinner text />;
-  if (isError) return <Error onClick={refetch} />;
+  if (isLoading || isPending) return <Spinner text />;
+  if (isError || !city) return <Error onClick={refetch} />;
   return (
     <Styled.City>
       <Cover
