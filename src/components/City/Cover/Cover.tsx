@@ -6,8 +6,8 @@ import { DC } from 'api';
 import Background from './Background';
 import * as Styled from './Cover.styles';
 
-type Props = Pick<DC.CityDetail, 'description' | 'position' | 'background'> & {
-  city: string;
+type Props = Pick<DC.CityDetails, 'description' | 'position' | 'background'> & {
+  city: DC.ID;
 };
 
 const Cover = ({ city, description, position, background }: Props) => {

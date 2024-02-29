@@ -1,8 +1,10 @@
+import { DC } from 'api';
+
 import * as Styled from './Info.styles';
 import Symbols from './Symbols';
 
 type Props = {
-  city: string;
+  city: DC.ID;
   voivodeship: string;
   onlyCoa?: boolean;
 };

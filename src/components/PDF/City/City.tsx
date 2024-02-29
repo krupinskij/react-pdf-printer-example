@@ -1,30 +1,32 @@
-import { useQuery } from '@tanstack/react-query';
 import { useEffect } from 'react';
 import { Page, Pages, usePrinter } from 'react-pdf-printer';
 
-import API, { QUERY } from 'api';
+import { DC, useGetCityDetails } from 'api';
 import { Attractions, Cover, Info } from 'components/City';
 import { Error } from 'components/Info';
 
 type Props = {
-  city: string;
+  city: DC.ID;
 };
 
 const City = ({ city }: Props) => {
   const { subscribe, run } = usePrinter(city);
 
-  const { data, isLoading, isError } = useQuery([QUERY.CITY, city], () => API.getCity(city), {
+  const { data, isLoading, isPending, isError } = useGetCityDetails(city, {
     refetchOnWindowFocus: false,
-    onSettled: () => {
-      run();
-    },
   });
 
   useEffect(() => {
     subscribe();
   }, []);
 
-  if (isLoading) return null;
+  useEffect(() => {
+    if (!!data) {
+      run();
+    }
+  }, [data]);
+
+  if (isPending || isLoading) return null;
   if (isError)
     return (
       <Page>

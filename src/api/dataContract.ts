@@ -19,7 +19,7 @@ export type City = z.infer<typeof citySchema>;
 
 export type Detail = z.infer<typeof detailsSchema>;
 
-export type CityDetail = z.infer<typeof cityDetailsSchema>;
+export type CityDetails = z.infer<typeof cityDetailsSchema>;
 
 export type Image = z.infer<typeof imageSchema>;
 

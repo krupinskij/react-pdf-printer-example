@@ -1,9 +1,8 @@
-import { useQuery } from '@tanstack/react-query';
 import { useRef } from 'react';
 import { useTranslation } from 'react-i18next';
 import { Document, DocumentRef } from 'react-pdf-printer';
 
-import API, { QUERY } from 'api';
+import { useGetCityList } from 'api';
 import { Footer, Header } from 'components/Document';
 import { City } from 'components/PDF';
 
@@ -13,7 +12,7 @@ const ReportPage = () => {
   const { t } = useTranslation('pdf');
 
   const documentRef = useRef<DocumentRef>(null);
-  const { data = [] } = useQuery([QUERY.CITIES_LIST], API.getCitiesList, {
+  const { data = [] } = useGetCityList({
     refetchOnWindowFocus: false,
   });
 

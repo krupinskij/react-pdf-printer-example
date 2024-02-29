@@ -1,13 +1,13 @@
-import { useQuery } from '@tanstack/react-query';
 import { MouseEvent, useRef, useState } from 'react';
 import { useTranslation } from 'react-i18next';
 import { DocumentRef, PortalDocument, usePrinter } from 'react-pdf-printer';
 
-import API, { QUERY } from 'api';
+import { DC, useGetCityList } from 'api';
 import Button from 'components/Button';
 import { Footer, Header } from 'components/Document';
 import { City as PDFCity } from 'components/PDF';
 import { Column } from 'components/Table/Table';
+import { isCityId } from 'helpers';
 
 import * as Styled from './HomePage.styles';
 import { City, Voivodeship } from './TableItem';
@@ -15,24 +15,22 @@ import { City, Voivodeship } from './TableItem';
 const HomePage = () => {
   const { t } = useTranslation(['home', 'pdf']);
   const { isRendering } = usePrinter();
-  const { data, isLoading, isFetching, isError, refetch } = useQuery(
-    [QUERY.CITIES_LIST],
-    API.getCitiesList,
-    {
-      refetchOnWindowFocus: false,
-    }
-  );
+  const { data, isFetching, isLoading, isPending, isError, refetch } = useGetCityList({
+    refetchOnWindowFocus: false,
+  });
 
-  const [selectedCity, setSelectedCity] = useState<string>();
+  const [selectedCity, setSelectedCity] = useState<DC.ID>();
   const documentRef = useRef<DocumentRef>(null);
 
   const handlePrint = (event: MouseEvent<HTMLButtonElement>) => {
     const { city } = event.currentTarget.dataset;
-    setSelectedCity(city);
-    documentRef.current?.render();
+    if (isCityId(city)) {
+      setSelectedCity(city);
+      documentRef.current?.render();
+    }
   };
 
-  if (isLoading || (isError && isFetching)) return <Styled.Spinner text />;
+  if (isLoading || isPending || (isError && isFetching)) return <Styled.Spinner text />;
   if (isError) return <Styled.Error onClick={refetch} />;
 
   const columns: Column[] = [

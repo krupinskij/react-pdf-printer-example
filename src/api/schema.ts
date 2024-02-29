@@ -2,7 +2,7 @@ import { z } from 'zod';
 
 import i18n from 'translations/i18n';
 
-import { Language } from './model';
+import { Language } from './dataContract';
 
 export const idSchema = z.union([
   z.literal('warsaw'),
