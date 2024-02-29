@@ -1,1 +1,1 @@
-export { default, supportedLngs, type SupportedLng } from './i18n';
+export { default, supportedLngs } from './i18n';

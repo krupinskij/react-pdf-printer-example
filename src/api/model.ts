@@ -1,4 +1,14 @@
-import { SupportedLng } from 'translations';
+import { z } from 'zod';
+
+import {
+  attractionSchema,
+  backgroundImageSchema,
+  cityDetailsSchema,
+  citySchema,
+  detailsSchema,
+  imageSchema,
+  supportedLngsSchema,
+} from './schema';
 
 export const cities = [
   'warsaw',
@@ -19,59 +29,16 @@ export const cities = [
   'rzeszow',
 ];
 
-type Translated = Record<SupportedLng, string>;
+export type SupportedLng = z.infer<typeof supportedLngsSchema>;
 
-export type City = {
-  id: string;
-  voivodeship: string;
-  area: number;
-  population: number;
-};
+export type City = z.infer<typeof citySchema>;
 
-export type Detail = {
-  background: BackgroundImage;
-  description: string;
-  position: { x: number; y: number };
-  onlyCoa?: boolean;
-  attractions: Attraction[];
-};
+export type Detail = z.infer<typeof detailsSchema>;
 
-export type DetailDto = {
-  background: BackgroundImageDto;
-  description: Translated;
-  position: { x: number; y: number };
-  onlyCoa?: boolean;
-  attractions: AttractionDto[];
-};
+export type CityDetail = z.infer<typeof cityDetailsSchema>;
 
-export type CityDetail = City & Detail;
+export type Image = z.infer<typeof imageSchema>;
 
-export type Image = {
-  caption: string;
-  source?: string;
-  src: string;
-  thumb: string;
-};
+export type BackgroundImage = z.infer<typeof backgroundImageSchema>;
 
-export type BackgroundImage = Omit<Image, 'thumb'>;
-
-export type ImageDto = {
-  caption: Translated;
-  source?: string;
-  src: string;
-  thumb?: string;
-};
-
-export type BackgroundImageDto = Omit<ImageDto, 'thumb'>;
-
-export type Attraction = {
-  name: string;
-  description: string;
-  photos: Image[];
-};
-
-export type AttractionDto = {
-  name: Translated;
-  description: Translated;
-  photos: ImageDto[];
-};
+export type Attraction = z.infer<typeof attractionSchema>;

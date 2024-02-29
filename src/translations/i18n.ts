@@ -3,11 +3,10 @@ import LanguageDetector from 'i18next-browser-languagedetector';
 import Backend from 'i18next-http-backend';
 import { initReactI18next } from 'react-i18next';
 
+import { SupportedLng } from 'api/model';
 import { queryClient } from 'app/AppProviders';
 
-export const supportedLngs = ['pl', 'en'] as const;
-
-export type SupportedLng = (typeof supportedLngs)[number];
+export const supportedLngs: SupportedLng[] = ['pl', 'en'];
 
 i18n
   .use(Backend)
