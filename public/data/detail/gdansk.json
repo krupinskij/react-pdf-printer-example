@@ -25,30 +25,406 @@
       "photos": [
         {
           "caption": {
-            "en": "View of Długi Targ and Gdańsk Town Hall",
-            "pl": "Widok na Długi Targ z Ratuszem"
+            "en": "Długi Targ",
+            "pl": "Długi Targ"
           },
-          "source": "https://pl.wikipedia.org/wiki/Plik:Gda%C5%84sk,_D%C5%82ugi_Targ_(HB1).jpg",
-          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Gda%C5%84sk%2C_D%C5%82ugi_Targ_%28HB1%29.jpg/793px-Gda%C5%84sk%2C_D%C5%82ugi_Targ_%28HB1%29.jpg",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Gda%C5%84sk%2C_D%C5%82ugi_Targ_%28HB1%29.jpg/318px-Gda%C5%84sk%2C_D%C5%82ugi_Targ_%28HB1%29.jpg"
-        },
-        {
-          "caption": {
-            "en": "Neptune's Fountain",
-            "pl": "Fontanna Neptuna"
-          },
-          "source": "https://www.pexels.com/pl-pl/zdjecie/ulica-statua-rzezba-polska-4115669/",
-          "src": "/assets/photo/gdansk/fontanna_neptuna.jpg",
-          "thumb": "/assets/photo/gdansk/fontanna_neptuna_thumb.jpg"
+          "src": "/assets/photo/gdansk/dlugi_targ/dlugi_targ.jpg",
+          "thumb": "/assets/photo/gdansk/dlugi_targ/dlugi_targ.jpg"
         },
         {
           "caption": {
             "en": "Hall of the Main City",
             "pl": "Ratusz Głównego Miasta"
           },
-          "source": "https://pl.wikipedia.org/wiki/Plik:Gda%C5%84sk_-_Ratusz_G%C5%82%C3%B3wnego_Miasta_(by_Sfu).jpg",
-          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Gda%C5%84sk_-_Ratusz_G%C5%82%C3%B3wnego_Miasta_%28by_Sfu%29.jpg/343px-Gda%C5%84sk_-_Ratusz_G%C5%82%C3%B3wnego_Miasta_%28by_Sfu%29.jpg",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Gda%C5%84sk_-_Ratusz_G%C5%82%C3%B3wnego_Miasta_%28by_Sfu%29.jpg/137px-Gda%C5%84sk_-_Ratusz_G%C5%82%C3%B3wnego_Miasta_%28by_Sfu%29.jpg"
+          "src": "/assets/photo/gdansk/dlugi_targ/ratusz.jpg",
+          "thumb": "/assets/photo/gdansk/dlugi_targ/ratusz.jpg"
+        },
+        {
+          "caption": {
+            "en": "Neptune's Fountain",
+            "pl": "Fontanna Neptuna"
+          },
+          "src": "/assets/photo/gdansk/dlugi_targ/neptun.jpg",
+          "thumb": "/assets/photo/gdansk/dlugi_targ/neptun.jpg"
+        },
+        {
+          "caption": {
+            "en": "Długi Targ",
+            "pl": "Długi Targ"
+          },
+          "src": "/assets/photo/gdansk/dlugi_targ/dlugi_targ2.jpg",
+          "thumb": "/assets/photo/gdansk/dlugi_targ/dlugi_targ2.jpg"
+        },
+        {
+          "caption": {
+            "en": "Tenement houses",
+            "pl": "Kamienice"
+          },
+          "src": "/assets/photo/gdansk/dlugi_targ/kamienice.jpg",
+          "thumb": "/assets/photo/gdansk/dlugi_targ/kamienice.jpg"
+        },
+        {
+          "caption": {
+            "en": "Tenement houses",
+            "pl": "Kamienice"
+          },
+          "src": "/assets/photo/gdansk/dlugi_targ/kamienice2.jpg",
+          "thumb": "/assets/photo/gdansk/dlugi_targ/kamienice2.jpg"
+        }
+      ]
+    },
+    {
+      "name": {
+        "en": "Motława",
+        "pl": "Motława"
+      },
+      "description": {
+        "en": "Near Motławie seated sea port. Kayak trips on the river are offered.",
+        "pl": "Na Motławie znajdował się port morski. Na rzece organizowane są spływy kajakowe."
+      },
+      "photos": [
+        {
+          "caption": {
+            "en": "Żuraw",
+            "pl": "Brama Żuraw"
+          },
+          "src": "/assets/photo/gdansk/motlawa/brama_zuraw.jpg",
+          "thumb": "/assets/photo/gdansk/motlawa/brama_zuraw.jpg"
+        },
+        {
+          "caption": {
+            "en": "Motława ferry",
+            "pl": "Prom Motława na Motławie"
+          },
+          "source": "https://pl.wikipedia.org/wiki/Plik:Gda%C5%84sk_80.JPG",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Gda%C5%84sk_80.JPG/800px-Gda%C5%84sk_80.JPG",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Gda%C5%84sk_80.JPG/320px-Gda%C5%84sk_80.JPG"
+        },
+        {
+          "caption": {
+            "en": "SS Sołdek",
+            "pl": "SS Sołdek"
+          },
+          "src": "/assets/photo/gdansk/motlawa/soldek.jpg",
+          "thumb": "/assets/photo/gdansk/motlawa/soldek.jpg"
+        },
+        {
+          "caption": {
+            "en": "Drawbridge",
+            "pl": "Kładka zwodzona"
+          },
+          "src": "/assets/photo/gdansk/motlawa/kladka.jpg",
+          "thumb": "/assets/photo/gdansk/motlawa/kladka.jpg"
+        },
+        {
+          "caption": {
+            "en": "Gdańsk",
+            "pl": "Gdańsk"
+          },
+          "src": "/assets/photo/gdansk/motlawa/gdansk.jpg",
+          "thumb": "/assets/photo/gdansk/motlawa/gdansk.jpg"
+        }
+      ]
+    },
+    {
+      "name": {
+        "en": "Basilica of the Assumption of the Blessed Virgin Mary",
+        "pl": "Bazylika konkatedralna Wniebowzięcia Najświętszej Maryi Panny"
+      },
+      "description": {
+        "en": "The largest medieval building in Gdańsk, currently the largest historic church in Poland and the third largest brick temple in the world.",
+        "pl": "Największa budowla średniowieczna Gdańska, obecnie największy zabytkowy kościół w Polsce i trzecia największa ceglana świątynia na świecie."
+      },
+      "photos": [
+        {
+          "caption": {
+            "en": "Bazylika Mariacka",
+            "pl": "Bazylika Mariacka"
+          },
+          "source": "https://pl.wikipedia.org/wiki/Plik:Bazylika_Mariacka_DSC01870.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bazylika_Mariacka_DSC01870.jpg/1024px-Bazylika_Mariacka_DSC01870.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bazylika_Mariacka_DSC01870.jpg/320px-Bazylika_Mariacka_DSC01870.jpg"
+        },
+        {
+          "caption": {
+            "en": "Bazylika Mariacka",
+            "pl": "Bazylika Mariacka"
+          },
+          "src": "/assets/photo/gdansk/bazylika_mariacka/bok.jpg",
+          "thumb": "/assets/photo/gdansk/bazylika_mariacka/bok.jpg"
+        },
+        {
+          "caption": {
+            "en": "Model",
+            "pl": "Makieta"
+          },
+          "src": "/assets/photo/gdansk/bazylika_mariacka/makieta.jpg",
+          "thumb": "/assets/photo/gdansk/bazylika_mariacka/makieta.jpg"
+        },
+        {
+          "caption": {
+            "en": "Altar",
+            "pl": "Ołtarz"
+          },
+          "src": "/assets/photo/gdansk/bazylika_mariacka/oltarz.jpg",
+          "thumb": "/assets/photo/gdansk/bazylika_mariacka/oltarz.jpg"
+        },
+        {
+          "caption": {
+            "en": "Pipe organ",
+            "pl": "Organy"
+          },
+          "src": "/assets/photo/gdansk/bazylika_mariacka/organy.jpg",
+          "thumb": "/assets/photo/gdansk/bazylika_mariacka/organy.jpg"
+        },
+        {
+          "caption": {
+            "en": "Astronomical clock",
+            "pl": "Zegar astronomiczny"
+          },
+          "src": "/assets/photo/gdansk/bazylika_mariacka/zegar.jpg",
+          "thumb": "/assets/photo/gdansk/bazylika_mariacka/zegar.jpg"
+        }
+      ]
+    },
+    {
+      "name": {
+        "en": "National Museum in Gdańsk",
+        "pl": "Muzeum Narodowe"
+      },
+      "description": {
+        "en": "One of the main branches of Poland's national museum system.",
+        "pl": "Wielooddziałowa instytucja kultury prowadzona przez Ministerstwo Kultury i Dziedzictwa Narodowego."
+      },
+      "photos": [
+        {
+          "caption": {
+            "en": "Entry",
+            "pl": "Wejscie"
+          },
+          "src": "/assets/photo/gdansk/muzeum_narodowe/wejscie.jpg",
+          "thumb": "/assets/photo/gdansk/muzeum_narodowe/wejscie.jpg"
+        },
+        {
+          "caption": {
+            "en": "\"The Last Judgment\" - Hans Memling",
+            "pl": "\"Sąd Ostateczny\" - Hans Memling"
+          },
+          "src": "/assets/photo/gdansk/muzeum_narodowe/sad_ostateczny.jpg",
+          "thumb": "/assets/photo/gdansk/muzeum_narodowe/sad_ostateczny.jpg"
+        },
+        {
+          "caption": {
+            "en": "Dormition of the Blessed Virgin Mary",
+            "pl": "Zaśnięcie Najświętszej Maryi Panny"
+          },
+          "src": "/assets/photo/gdansk/muzeum_narodowe/zasniecie.jpg",
+          "thumb": "/assets/photo/gdansk/muzeum_narodowe/zasniecie.jpg"
+        },
+        {
+          "caption": {
+            "en": "The Virgin with Child",
+            "pl": "Madonna z Dzieciątkiem"
+          },
+          "src": "/assets/photo/gdansk/muzeum_narodowe/madonna.jpg",
+          "thumb": "/assets/photo/gdansk/muzeum_narodowe/madonna.jpg"
+        },
+        {
+          "caption": {
+            "en": "\"Joash Repairs the Temple\" - Anton Möller",
+            "pl": "\"Odbudowa świątyni przez króla Joasza\" - Anton Möller"
+          },
+          "src": "/assets/photo/gdansk/muzeum_narodowe/odbudowa_swiatyni.jpg",
+          "thumb": "/assets/photo/gdansk/muzeum_narodowe/odbudowa_swiatyni.jpg"
+        },
+        {
+          "caption": {
+            "en": "\"Vanitas Still Life\" - Philipp Sauerland",
+            "pl": "\"Martwa Natura wanitywna\" - Philipp Sauerland"
+          },
+          "src": "/assets/photo/gdansk/muzeum_narodowe/martwa_natura.jpg",
+          "thumb": "/assets/photo/gdansk/muzeum_narodowe/martwa_natura.jpg"
+        }
+      ]
+    },
+    {
+      "name": {
+        "en": "Museum of Amber",
+        "pl": "Muzeum Bursztynu"
+      },
+      "description": {
+        "en": "Crafts Museum in Gdańsk. It documents the history of amber and the history of amber craftsmanship in Poland.",
+        "pl": "Muzeum rzemiosła w Gdańsku. Dokumentuje historię bursztynu i dzieje bursztyniarstwa w Polsce."
+      },
+      "photos": [
+        {
+          "caption": {
+            "en": "Interior",
+            "pl": "Wnętrze"
+          },
+          "src": "/assets/photo/gdansk/muzeum_bursztynu/wnetrze.jpg",
+          "thumb": "/assets/photo/gdansk/muzeum_bursztynu/wnetrze.jpg"
+        },
+        {
+          "caption": {
+            "en": "Plant inclusions",
+            "pl": "Inkluzje roślinne"
+          },
+          "src": "/assets/photo/gdansk/muzeum_bursztynu/inkluzje_roslinne.jpg",
+          "thumb": "/assets/photo/gdansk/muzeum_bursztynu/inkluzje_roslinne.jpg"
+        },
+        {
+          "caption": {
+            "en": "Tarantula inclusion",
+            "pl": "Inkluzja ptasznika"
+          },
+          "src": "/assets/photo/gdansk/muzeum_bursztynu/inkluzja_ptasznika.jpg",
+          "thumb": "/assets/photo/gdansk/muzeum_bursztynu/inkluzja_ptasznika.jpg"
+        },
+        {
+          "caption": {
+            "en": "Local collection",
+            "pl": "Lokalne okazy"
+          },
+          "src": "/assets/photo/gdansk/muzeum_bursztynu/okazy.jpg",
+          "thumb": "/assets/photo/gdansk/muzeum_bursztynu/okazy.jpg"
+        },
+        {
+          "caption": {
+            "en": "Collection",
+            "pl": "Eksponaty"
+          },
+          "src": "/assets/photo/gdansk/muzeum_bursztynu/eksponat.jpg",
+          "thumb": "/assets/photo/gdansk/muzeum_bursztynu/eksponat.jpg"
+        },
+        {
+          "caption": {
+            "en": "Interactive table",
+            "pl": "Interaktywna tablica"
+          },
+          "src": "/assets/photo/gdansk/muzeum_bursztynu/interaktywna_wystawa.jpg",
+          "thumb": "/assets/photo/gdansk/muzeum_bursztynu/interaktywna_wystawa.jpg"
+        },
+        {
+          "caption": {
+            "en": "Mill",
+            "pl": "Młyn"
+          },
+          "src": "/assets/photo/gdansk/muzeum_bursztynu/mlyn.jpg",
+          "thumb": "/assets/photo/gdansk/muzeum_bursztynu/mlyn.jpg"
+        }
+      ]
+    },
+    {
+      "name": {
+        "en": "St. Catherine's Church",
+        "pl": "Kościół Rektorski Ojców Karmelitów pw. św. Katarzyny"
+      },
+      "description": {
+        "en": "The oldest church in Gdańsk.",
+        "pl": "Najstarszy kościół parafialny na Starym Mieście w Gdańsku"
+      },
+      "photos": [
+        {
+          "caption": {
+            "en": "Church",
+            "pl": "Elewacja południowa"
+          },
+          "source": "https://en.wikipedia.org/wiki/File:Gda%C5%84sk,_ko%C5%9Bci%C3%B3%C5%82_%C5%9Bw._Katarzyny_(HB1).jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Gda%C5%84sk%2C_ko%C5%9Bci%C3%B3%C5%82_%C5%9Bw._Katarzyny_%28HB1%29.jpg/485px-Gda%C5%84sk%2C_ko%C5%9Bci%C3%B3%C5%82_%C5%9Bw._Katarzyny_%28HB1%29.jpg",
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Gda%C5%84sk%2C_ko%C5%9Bci%C3%B3%C5%82_%C5%9Bw._Katarzyny_%28HB1%29.jpg/152px-Gda%C5%84sk%2C_ko%C5%9Bci%C3%B3%C5%82_%C5%9Bw._Katarzyny_%28HB1%29.jpg"
+        },
+        {
+          "caption": {
+            "en": "Interior",
+            "pl": "Wnętrze"
+          },
+          "src": "/assets/photo/gdansk/katarzyna/wnetrze.jpg",
+          "thumb": "/assets/photo/gdansk/katarzyna/wnetrze.jpg"
+        },
+        {
+          "caption": {
+            "en": "Triptych",
+            "pl": "Tryptyk"
+          },
+          "src": "/assets/photo/gdansk/katarzyna/tryptyk.jpg",
+          "thumb": "/assets/photo/gdansk/katarzyna/tryptyk.jpg"
+        },
+        {
+          "caption": {
+            "en": "Pulpit",
+            "pl": "Ambona"
+          },
+          "src": "/assets/photo/gdansk/katarzyna/ambona.jpg",
+          "thumb": "/assets/photo/gdansk/katarzyna/ambona.jpg"
+        },
+        {
+          "caption": {
+            "en": "Epitaph of the Henning family",
+            "pl": "Epitafium rodziny Henningów"
+          },
+          "src": "/assets/photo/gdansk/katarzyna/epitafium.jpg",
+          "thumb": "/assets/photo/gdansk/katarzyna/epitafium.jpg"
+        },
+        {
+          "caption": {
+            "en": "\"Entry of Christ into Jerusalem\"",
+            "pl": "\"Wjazd Chrystusa do Jerozolimy\""
+          },
+          "src": "/assets/photo/gdansk/katarzyna/wjazd.jpg",
+          "thumb": "/assets/photo/gdansk/katarzyna/wjazd.jpg"
+        }
+      ]
+    },
+    {
+      "name": {
+        "en": "Gradowa Mountain",
+        "pl": "Góra Gradowa"
+      },
+      "description": {
+        "en": "A hill in Gdańsk. Viewpoint in Śródmieście.",
+        "pl": "Wzniesienie w Gdańsku. Punkt widokowy w Śródmieściu."
+      },
+      "photos": [
+        {
+          "caption": {
+            "en": "North Gate",
+            "pl": "Brama Północna"
+          },
+          "src": "/assets/photo/gdansk/gora_gradowa/brama_polnocna.jpg",
+          "thumb": "/assets/photo/gdansk/gora_gradowa/brama_polnocna.jpg"
+        },
+        {
+          "caption": {
+            "en": "Millennium Cross",
+            "pl": "Krzyż Milenijny"
+          },
+          "src": "/assets/photo/gdansk/gora_gradowa/krzyz_milenijny.jpg",
+          "thumb": "/assets/photo/gdansk/gora_gradowa/krzyz_milenijny.jpg"
+        },
+        {
+          "caption": {
+            "en": "Fortification",
+            "pl": "Fort Góry Gradowej"
+          },
+          "src": "/assets/photo/gdansk/gora_gradowa/fort.jpg",
+          "thumb": "/assets/photo/gdansk/gora_gradowa/fort.jpg"
+        },
+        {
+          "caption": {
+            "en": "View on Gdańsk",
+            "pl": "Widok na Gdańsk"
+          },
+          "src": "/assets/photo/gdansk/gora_gradowa/widok.jpg",
+          "thumb": "/assets/photo/gdansk/gora_gradowa/widok.jpg"
+        },
+        {
+          "caption": {
+            "en": "Hevelion - Astronomer",
+            "pl": "Lew Hewelion - Astronom"
+          },
+          "src": "/assets/photo/gdansk/gora_gradowa/lew_hewelion.jpg",
+          "thumb": "/assets/photo/gdansk/gora_gradowa/lew_hewelion.jpg"
         }
       ]
     },
@@ -88,45 +464,6 @@
           "source": "https://en.wikipedia.org/wiki/File:Westerplatte_Nigdy_Wiecej_Wojny.jpg",
           "src": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Westerplatte_Nigdy_Wiecej_Wojny.jpg",
           "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Westerplatte_Nigdy_Wiecej_Wojny.jpg/320px-Westerplatte_Nigdy_Wiecej_Wojny.jpg"
-        }
-      ]
-    },
-    {
-      "name": {
-        "en": "Motława",
-        "pl": "Motława"
-      },
-      "description": {
-        "en": "Near Motławie seated sea port. Kayak trips on the river are offered.",
-        "pl": "Na Motławie znajdował się port morski. Na rzece organizowane są spływy kajakowe."
-      },
-      "photos": [
-        {
-          "caption": {
-            "en": "The Old Town of Gdańsk",
-            "pl": "Motława i Główne Miasto w Gdańsku"
-          },
-          "source": "https://en.wikipedia.org/wiki/File:Calle_Dlugie_Pobrzeze,_Gdansk,_Polonia,_2013-05-20,_DD_06.jpg",
-          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Calle_Dlugie_Pobrzeze%2C_Gdansk%2C_Polonia%2C_2013-05-20%2C_DD_06.jpg/800px-Calle_Dlugie_Pobrzeze%2C_Gdansk%2C_Polonia%2C_2013-05-20%2C_DD_06.jpg",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Calle_Dlugie_Pobrzeze%2C_Gdansk%2C_Polonia%2C_2013-05-20%2C_DD_06.jpg/320px-Calle_Dlugie_Pobrzeze%2C_Gdansk%2C_Polonia%2C_2013-05-20%2C_DD_06.jpg"
-        },
-        {
-          "caption": {
-            "en": "Motława ferry",
-            "pl": "Prom Motława na Motławie"
-          },
-          "source": "https://pl.wikipedia.org/wiki/Plik:Gda%C5%84sk_80.JPG",
-          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Gda%C5%84sk_80.JPG/800px-Gda%C5%84sk_80.JPG",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Gda%C5%84sk_80.JPG/320px-Gda%C5%84sk_80.JPG"
-        },
-        {
-          "caption": {
-            "en": "Żuraw",
-            "pl": "Brama Żuraw"
-          },
-          "source": "https://pl.wikipedia.org/wiki/Plik:635498_Gdansk_%C5%BBuraw_02.JPG",
-          "src": "https://upload.wikimedia.org/wikipedia/commons/6/6c/635498_Gdansk_%C5%BBuraw_02.JPG",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/635498_Gdansk_%C5%BBuraw_02.JPG/160px-635498_Gdansk_%C5%BBuraw_02.JPG"
         }
       ]
     }
