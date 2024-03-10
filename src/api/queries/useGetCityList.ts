@@ -2,7 +2,7 @@ import { useQuery } from '@tanstack/react-query';
 import { z } from 'zod';
 
 import { City } from 'api/dataContract';
-import { UseGetQueryOptions, cities } from 'api/helpers';
+import { UseGetQueryOptions, cities, sleep } from 'api/helpers';
 import { queryKeys } from 'api/keys';
 import { citySchema } from 'api/schema';
 
@@ -19,14 +19,12 @@ const getCitiesList = async (): Promise<City[]> => {
     .sort((c1, c2) => c2.population - c1.population);
 };
 
-const useGetCityList = <TSelect = City[]>(
-  options?: UseGetQueryOptions<City[], TSelect, ReturnType<typeof queryKeys.cityList>>
-) => {
+const useGetCityList = (options?: UseGetQueryOptions<'cityList', City[]>) => {
   const queryKey = queryKeys.cityList();
   return useQuery({
     ...options,
     queryKey,
-    queryFn: () => getCitiesList(),
+    queryFn: getCitiesList,
   });
 };
 
