@@ -29,7 +29,7 @@
             "pl": "Długi Targ"
           },
           "src": "/assets/photo/gdansk/dlugi_targ/dlugi_targ.jpg",
-          "thumb": "/assets/photo/gdansk/dlugi_targ/dlugi_targ.jpg"
+          "thumb": "/assets/photo/gdansk/dlugi_targ/dlugi_targ.thumb.jpg"
         },
         {
           "caption": {
@@ -37,7 +37,7 @@
             "pl": "Ratusz Głównego Miasta"
           },
           "src": "/assets/photo/gdansk/dlugi_targ/ratusz.jpg",
-          "thumb": "/assets/photo/gdansk/dlugi_targ/ratusz.jpg"
+          "thumb": "/assets/photo/gdansk/dlugi_targ/ratusz.thumb.jpg"
         },
         {
           "caption": {
@@ -45,7 +45,7 @@
             "pl": "Fontanna Neptuna"
           },
           "src": "/assets/photo/gdansk/dlugi_targ/neptun.jpg",
-          "thumb": "/assets/photo/gdansk/dlugi_targ/neptun.jpg"
+          "thumb": "/assets/photo/gdansk/dlugi_targ/neptun.thumb.jpg"
         },
         {
           "caption": {
@@ -53,7 +53,7 @@
             "pl": "Długi Targ"
           },
           "src": "/assets/photo/gdansk/dlugi_targ/dlugi_targ2.jpg",
-          "thumb": "/assets/photo/gdansk/dlugi_targ/dlugi_targ2.jpg"
+          "thumb": "/assets/photo/gdansk/dlugi_targ/dlugi_targ2.thumb.jpg"
         },
         {
           "caption": {
@@ -61,7 +61,7 @@
             "pl": "Kamienice"
           },
           "src": "/assets/photo/gdansk/dlugi_targ/kamienice.jpg",
-          "thumb": "/assets/photo/gdansk/dlugi_targ/kamienice.jpg"
+          "thumb": "/assets/photo/gdansk/dlugi_targ/kamienice.thumb.jpg"
         },
         {
           "caption": {
@@ -69,7 +69,7 @@
             "pl": "Kamienice"
           },
           "src": "/assets/photo/gdansk/dlugi_targ/kamienice2.jpg",
-          "thumb": "/assets/photo/gdansk/dlugi_targ/kamienice2.jpg"
+          "thumb": "/assets/photo/gdansk/dlugi_targ/kamienice2.thumb.jpg"
         }
       ]
     },
@@ -89,7 +89,7 @@
             "pl": "Brama Żuraw"
           },
           "src": "/assets/photo/gdansk/motlawa/brama_zuraw.jpg",
-          "thumb": "/assets/photo/gdansk/motlawa/brama_zuraw.jpg"
+          "thumb": "/assets/photo/gdansk/motlawa/brama_zuraw.thumb.jpg"
         },
         {
           "caption": {
@@ -106,7 +106,7 @@
             "pl": "SS Sołdek"
           },
           "src": "/assets/photo/gdansk/motlawa/soldek.jpg",
-          "thumb": "/assets/photo/gdansk/motlawa/soldek.jpg"
+          "thumb": "/assets/photo/gdansk/motlawa/soldek.thumb.jpg"
         },
         {
           "caption": {
@@ -114,7 +114,7 @@
             "pl": "Kładka zwodzona"
           },
           "src": "/assets/photo/gdansk/motlawa/kladka.jpg",
-          "thumb": "/assets/photo/gdansk/motlawa/kladka.jpg"
+          "thumb": "/assets/photo/gdansk/motlawa/kladka.thumb.jpg"
         },
         {
           "caption": {
@@ -122,7 +122,7 @@
             "pl": "Gdańsk"
           },
           "src": "/assets/photo/gdansk/motlawa/gdansk.jpg",
-          "thumb": "/assets/photo/gdansk/motlawa/gdansk.jpg"
+          "thumb": "/assets/photo/gdansk/motlawa/gdansk.thumb.jpg"
         }
       ]
     },
@@ -151,7 +151,7 @@
             "pl": "Bazylika Mariacka"
           },
           "src": "/assets/photo/gdansk/bazylika_mariacka/bok.jpg",
-          "thumb": "/assets/photo/gdansk/bazylika_mariacka/bok.jpg"
+          "thumb": "/assets/photo/gdansk/bazylika_mariacka/bok.thumb.jpg"
         },
         {
           "caption": {
@@ -159,7 +159,7 @@
             "pl": "Makieta"
           },
           "src": "/assets/photo/gdansk/bazylika_mariacka/makieta.jpg",
-          "thumb": "/assets/photo/gdansk/bazylika_mariacka/makieta.jpg"
+          "thumb": "/assets/photo/gdansk/bazylika_mariacka/makieta.thumb.jpg"
         },
         {
           "caption": {
@@ -167,7 +167,7 @@
             "pl": "Ołtarz"
           },
           "src": "/assets/photo/gdansk/bazylika_mariacka/oltarz.jpg",
-          "thumb": "/assets/photo/gdansk/bazylika_mariacka/oltarz.jpg"
+          "thumb": "/assets/photo/gdansk/bazylika_mariacka/oltarz.thumb.jpg"
         },
         {
           "caption": {
@@ -175,7 +175,7 @@
             "pl": "Organy"
           },
           "src": "/assets/photo/gdansk/bazylika_mariacka/organy.jpg",
-          "thumb": "/assets/photo/gdansk/bazylika_mariacka/organy.jpg"
+          "thumb": "/assets/photo/gdansk/bazylika_mariacka/organy.thumb.jpg"
         },
         {
           "caption": {
@@ -183,7 +183,7 @@
             "pl": "Zegar astronomiczny"
           },
           "src": "/assets/photo/gdansk/bazylika_mariacka/zegar.jpg",
-          "thumb": "/assets/photo/gdansk/bazylika_mariacka/zegar.jpg"
+          "thumb": "/assets/photo/gdansk/bazylika_mariacka/zegar.thumb.jpg"
         }
       ]
     },
@@ -203,7 +203,7 @@
             "pl": "Wejscie"
           },
           "src": "/assets/photo/gdansk/muzeum_narodowe/wejscie.jpg",
-          "thumb": "/assets/photo/gdansk/muzeum_narodowe/wejscie.jpg"
+          "thumb": "/assets/photo/gdansk/muzeum_narodowe/wejscie.thumb.jpg"
         },
         {
           "caption": {
@@ -211,7 +211,7 @@
             "pl": "\"Sąd Ostateczny\" - Hans Memling"
           },
           "src": "/assets/photo/gdansk/muzeum_narodowe/sad_ostateczny.jpg",
-          "thumb": "/assets/photo/gdansk/muzeum_narodowe/sad_ostateczny.jpg"
+          "thumb": "/assets/photo/gdansk/muzeum_narodowe/sad_ostateczny.thumb.jpg"
         },
         {
           "caption": {
@@ -219,7 +219,7 @@
             "pl": "Zaśnięcie Najświętszej Maryi Panny"
           },
           "src": "/assets/photo/gdansk/muzeum_narodowe/zasniecie.jpg",
-          "thumb": "/assets/photo/gdansk/muzeum_narodowe/zasniecie.jpg"
+          "thumb": "/assets/photo/gdansk/muzeum_narodowe/zasniecie.thumb.jpg"
         },
         {
           "caption": {
@@ -227,7 +227,7 @@
             "pl": "Madonna z Dzieciątkiem"
           },
           "src": "/assets/photo/gdansk/muzeum_narodowe/madonna.jpg",
-          "thumb": "/assets/photo/gdansk/muzeum_narodowe/madonna.jpg"
+          "thumb": "/assets/photo/gdansk/muzeum_narodowe/madonna.thumb.jpg"
         },
         {
           "caption": {
@@ -235,7 +235,7 @@
             "pl": "\"Odbudowa świątyni przez króla Joasza\" - Anton Möller"
           },
           "src": "/assets/photo/gdansk/muzeum_narodowe/odbudowa_swiatyni.jpg",
-          "thumb": "/assets/photo/gdansk/muzeum_narodowe/odbudowa_swiatyni.jpg"
+          "thumb": "/assets/photo/gdansk/muzeum_narodowe/odbudowa_swiatyni.thumb.jpg"
         },
         {
           "caption": {
@@ -243,7 +243,7 @@
             "pl": "\"Martwa Natura wanitywna\" - Philipp Sauerland"
           },
           "src": "/assets/photo/gdansk/muzeum_narodowe/martwa_natura.jpg",
-          "thumb": "/assets/photo/gdansk/muzeum_narodowe/martwa_natura.jpg"
+          "thumb": "/assets/photo/gdansk/muzeum_narodowe/martwa_natura.thumb.jpg"
         }
       ]
     },
@@ -263,7 +263,7 @@
             "pl": "Wnętrze"
           },
           "src": "/assets/photo/gdansk/muzeum_bursztynu/wnetrze.jpg",
-          "thumb": "/assets/photo/gdansk/muzeum_bursztynu/wnetrze.jpg"
+          "thumb": "/assets/photo/gdansk/muzeum_bursztynu/wnetrze.thumb.jpg"
         },
         {
           "caption": {
@@ -271,7 +271,7 @@
             "pl": "Inkluzje roślinne"
           },
           "src": "/assets/photo/gdansk/muzeum_bursztynu/inkluzje_roslinne.jpg",
-          "thumb": "/assets/photo/gdansk/muzeum_bursztynu/inkluzje_roslinne.jpg"
+          "thumb": "/assets/photo/gdansk/muzeum_bursztynu/inkluzje_roslinne.thumb.jpg"
         },
         {
           "caption": {
@@ -279,7 +279,7 @@
             "pl": "Inkluzja ptasznika"
           },
           "src": "/assets/photo/gdansk/muzeum_bursztynu/inkluzja_ptasznika.jpg",
-          "thumb": "/assets/photo/gdansk/muzeum_bursztynu/inkluzja_ptasznika.jpg"
+          "thumb": "/assets/photo/gdansk/muzeum_bursztynu/inkluzja_ptasznika.thumb.jpg"
         },
         {
           "caption": {
@@ -287,7 +287,7 @@
             "pl": "Lokalne okazy"
           },
           "src": "/assets/photo/gdansk/muzeum_bursztynu/okazy.jpg",
-          "thumb": "/assets/photo/gdansk/muzeum_bursztynu/okazy.jpg"
+          "thumb": "/assets/photo/gdansk/muzeum_bursztynu/okazy.thumb.jpg"
         },
         {
           "caption": {
@@ -295,7 +295,7 @@
             "pl": "Eksponaty"
           },
           "src": "/assets/photo/gdansk/muzeum_bursztynu/eksponat.jpg",
-          "thumb": "/assets/photo/gdansk/muzeum_bursztynu/eksponat.jpg"
+          "thumb": "/assets/photo/gdansk/muzeum_bursztynu/eksponat.thumb.jpg"
         },
         {
           "caption": {
@@ -303,7 +303,7 @@
             "pl": "Interaktywna tablica"
           },
           "src": "/assets/photo/gdansk/muzeum_bursztynu/interaktywna_wystawa.jpg",
-          "thumb": "/assets/photo/gdansk/muzeum_bursztynu/interaktywna_wystawa.jpg"
+          "thumb": "/assets/photo/gdansk/muzeum_bursztynu/interaktywna_wystawa.thumb.jpg"
         },
         {
           "caption": {
@@ -311,7 +311,7 @@
             "pl": "Młyn"
           },
           "src": "/assets/photo/gdansk/muzeum_bursztynu/mlyn.jpg",
-          "thumb": "/assets/photo/gdansk/muzeum_bursztynu/mlyn.jpg"
+          "thumb": "/assets/photo/gdansk/muzeum_bursztynu/mlyn.thumb.jpg"
         }
       ]
     },
@@ -332,7 +332,7 @@
           },
           "source": "https://en.wikipedia.org/wiki/File:Gda%C5%84sk,_ko%C5%9Bci%C3%B3%C5%82_%C5%9Bw._Katarzyny_(HB1).jpg",
           "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Gda%C5%84sk%2C_ko%C5%9Bci%C3%B3%C5%82_%C5%9Bw._Katarzyny_%28HB1%29.jpg/485px-Gda%C5%84sk%2C_ko%C5%9Bci%C3%B3%C5%82_%C5%9Bw._Katarzyny_%28HB1%29.jpg",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Gda%C5%84sk%2C_ko%C5%9Bci%C3%B3%C5%82_%C5%9Bw._Katarzyny_%28HB1%29.jpg/152px-Gda%C5%84sk%2C_ko%C5%9Bci%C3%B3%C5%82_%C5%9Bw._Katarzyny_%28HB1%29.jpg"
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Gda%C5%84sk%2C_ko%C5%9Bci%C3%B3%C5%82_%C5%9Bw._Katarzyny_%28HB1%29.jpg/152px-Gda%C5%84sk%2C_ko%C5%9Bci%C3%B3%C5%82_%C5%9Bw._Katarzyny_%28HB1%29.thumb.jpg"
         },
         {
           "caption": {
@@ -340,7 +340,7 @@
             "pl": "Wnętrze"
           },
           "src": "/assets/photo/gdansk/katarzyna/wnetrze.jpg",
-          "thumb": "/assets/photo/gdansk/katarzyna/wnetrze.jpg"
+          "thumb": "/assets/photo/gdansk/katarzyna/wnetrze.thumb.jpg"
         },
         {
           "caption": {
@@ -348,7 +348,7 @@
             "pl": "Tryptyk"
           },
           "src": "/assets/photo/gdansk/katarzyna/tryptyk.jpg",
-          "thumb": "/assets/photo/gdansk/katarzyna/tryptyk.jpg"
+          "thumb": "/assets/photo/gdansk/katarzyna/tryptyk.thumb.jpg"
         },
         {
           "caption": {
@@ -356,7 +356,7 @@
             "pl": "Ambona"
           },
           "src": "/assets/photo/gdansk/katarzyna/ambona.jpg",
-          "thumb": "/assets/photo/gdansk/katarzyna/ambona.jpg"
+          "thumb": "/assets/photo/gdansk/katarzyna/ambona.thumb.jpg"
         },
         {
           "caption": {
@@ -364,7 +364,7 @@
             "pl": "Epitafium rodziny Henningów"
           },
           "src": "/assets/photo/gdansk/katarzyna/epitafium.jpg",
-          "thumb": "/assets/photo/gdansk/katarzyna/epitafium.jpg"
+          "thumb": "/assets/photo/gdansk/katarzyna/epitafium.thumb.jpg"
         },
         {
           "caption": {
@@ -372,7 +372,7 @@
             "pl": "\"Wjazd Chrystusa do Jerozolimy\""
           },
           "src": "/assets/photo/gdansk/katarzyna/wjazd.jpg",
-          "thumb": "/assets/photo/gdansk/katarzyna/wjazd.jpg"
+          "thumb": "/assets/photo/gdansk/katarzyna/wjazd.thumb.jpg"
         }
       ]
     },
@@ -392,7 +392,7 @@
             "pl": "Brama Północna"
           },
           "src": "/assets/photo/gdansk/gora_gradowa/brama_polnocna.jpg",
-          "thumb": "/assets/photo/gdansk/gora_gradowa/brama_polnocna.jpg"
+          "thumb": "/assets/photo/gdansk/gora_gradowa/brama_polnocna.thumb.jpg"
         },
         {
           "caption": {
@@ -400,7 +400,7 @@
             "pl": "Krzyż Milenijny"
           },
           "src": "/assets/photo/gdansk/gora_gradowa/krzyz_milenijny.jpg",
-          "thumb": "/assets/photo/gdansk/gora_gradowa/krzyz_milenijny.jpg"
+          "thumb": "/assets/photo/gdansk/gora_gradowa/krzyz_milenijny.thumb.jpg"
         },
         {
           "caption": {
@@ -408,7 +408,7 @@
             "pl": "Fort Góry Gradowej"
           },
           "src": "/assets/photo/gdansk/gora_gradowa/fort.jpg",
-          "thumb": "/assets/photo/gdansk/gora_gradowa/fort.jpg"
+          "thumb": "/assets/photo/gdansk/gora_gradowa/fort.thumb.jpg"
         },
         {
           "caption": {
@@ -416,7 +416,7 @@
             "pl": "Widok na Gdańsk"
           },
           "src": "/assets/photo/gdansk/gora_gradowa/widok.jpg",
-          "thumb": "/assets/photo/gdansk/gora_gradowa/widok.jpg"
+          "thumb": "/assets/photo/gdansk/gora_gradowa/widok.thumb.jpg"
         },
         {
           "caption": {
@@ -424,7 +424,7 @@
             "pl": "Lew Hewelion - Astronom"
           },
           "src": "/assets/photo/gdansk/gora_gradowa/lew_hewelion.jpg",
-          "thumb": "/assets/photo/gdansk/gora_gradowa/lew_hewelion.jpg"
+          "thumb": "/assets/photo/gdansk/gora_gradowa/lew_hewelion.thumb.jpg"
         }
       ]
     },
