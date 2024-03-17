@@ -236,7 +236,7 @@
             "pl": "Pałac w Wilanowie"
           },
           "src": "/assets/photo/warsaw/wilanow/palac.jpg",
-          "thumb": "/assets/photo/warsaw/wilanow/palac.jpg"
+          "thumb": "/assets/photo/warsaw/wilanow/palac.thumb.jpg"
         },
         {
           "caption": {
@@ -271,7 +271,7 @@
             "pl": "Pomnik Jana III Sobieskiego"
           },
           "src": "/assets/photo/warsaw/wilanow/pomnik.jpg",
-          "thumb": "/assets/photo/warsaw/wilanow/pomnik.jpg"
+          "thumb": "/assets/photo/warsaw/wilanow/pomnik.thumb.jpg"
         },
         {
           "caption": {
@@ -279,7 +279,7 @@
             "pl": "Mauzoleum Potockich"
           },
           "src": "/assets/photo/warsaw/wilanow/mauzoleum.jpg",
-          "thumb": "/assets/photo/warsaw/wilanow/mauzoleum.jpg"
+          "thumb": "/assets/photo/warsaw/wilanow/mauzoleum.thumb.jpg"
         },
         {
           "caption": {
@@ -287,7 +287,7 @@
             "pl": "Kościół pw. św. Anny"
           },
           "src": "/assets/photo/warsaw/wilanow/anna.jpg",
-          "thumb": "/assets/photo/warsaw/wilanow/anna.jpg"
+          "thumb": "/assets/photo/warsaw/wilanow/anna.thumb.jpg"
         }
       ]
     },
