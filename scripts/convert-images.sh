@@ -43,9 +43,9 @@ for file in $files; do
         continue
     fi
 
-    if [[ $file == $path*"/"*".jpg" ]]; then
-        convertattr $file
-    else
+    if [[ $file == *".bg.jpg" ]]; then
         convertbg $file
+    else
+        convertattr $file
     fi
 done
