@@ -10,7 +10,7 @@
       "pl": "Syrenka Warszawska"
     },
     "source": "https://commons.wikimedia.org/wiki/File:Warszawska_Syrenka_-_01.jpg",
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Warszawska_Syrenka_-_01.jpg/1280px-Warszawska_Syrenka_-_01.jpg"
+    "src": "/assets/photo/warsaw/syrenka.bg.jpg"
   },
   "attractions": [
     {
@@ -235,9 +235,8 @@
             "en": "Palace at Wilanów",
             "pl": "Pałac w Wilanowie"
           },
-          "source": "https://commons.wikimedia.org/wiki/File:Pa%C5%82ac_Kr%C3%B3la_Jana_III_Sobieskiego_w_Wilanowie_14.JPG",
-          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Pa%C5%82ac_Kr%C3%B3la_Jana_III_Sobieskiego_w_Wilanowie_14.JPG/1024px-Pa%C5%82ac_Kr%C3%B3la_Jana_III_Sobieskiego_w_Wilanowie_14.JPG",
-          "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Pa%C5%82ac_Kr%C3%B3la_Jana_III_Sobieskiego_w_Wilanowie_14.JPG/320px-Pa%C5%82ac_Kr%C3%B3la_Jana_III_Sobieskiego_w_Wilanowie_14.JPG"
+          "src": "/assets/photo/warsaw/wilanow/palac.jpg",
+          "thumb": "/assets/photo/warsaw/wilanow/palac.thumb.jpg"
         },
         {
           "caption": {
@@ -265,6 +264,30 @@
           "source": "https://commons.wikimedia.org/wiki/File:2018-07-06_Pa%C5%82ac_w_Wilanowie_13.jpg",
           "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/2018-07-06_Pa%C5%82ac_w_Wilanowie_13.jpg/1024px-2018-07-06_Pa%C5%82ac_w_Wilanowie_13.jpg",
           "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/2018-07-06_Pa%C5%82ac_w_Wilanowie_13.jpg/320px-2018-07-06_Pa%C5%82ac_w_Wilanowie_13.jpg"
+        },
+        {
+          "caption": {
+            "en": "Jan III Sobieski monument",
+            "pl": "Pomnik Jana III Sobieskiego"
+          },
+          "src": "/assets/photo/warsaw/wilanow/pomnik.jpg",
+          "thumb": "/assets/photo/warsaw/wilanow/pomnik.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "Mausoleum of Potocki family",
+            "pl": "Mauzoleum Potockich"
+          },
+          "src": "/assets/photo/warsaw/wilanow/mauzoleum.jpg",
+          "thumb": "/assets/photo/warsaw/wilanow/mauzoleum.thumb.jpg"
+        },
+        {
+          "caption": {
+            "en": "St. Anne's Church",
+            "pl": "Kościół pw. św. Anny"
+          },
+          "src": "/assets/photo/warsaw/wilanow/anna.jpg",
+          "thumb": "/assets/photo/warsaw/wilanow/anna.thumb.jpg"
         }
       ]
     },
