@@ -10,7 +10,7 @@
       "pl": "Sukiennice"
     },
     "source": "https://commons.wikimedia.org/wiki/File:20200516_Sukiennice_w_Krakowie_0909_9963.jpg",
-    "src": "/assets/photo/krakow/sukiennice.jpg"
+    "src": "/assets/photo/krakow/sukiennice.bg.jpg"
   },
   "attractions": [
     {
@@ -38,7 +38,7 @@
             "pl": "Wawel z bulwarów Wisły"
           },
           "src": "/assets/photo/krakow/wawel/bulwary.jpg",
-          "thumb": "/assets/photo/krakow/wawel/bulwary.jpg"
+          "thumb": "/assets/photo/krakow/wawel/bulwary.thumb.jpg"
         },
         {
           "caption": {
@@ -54,7 +54,7 @@
             "pl": "Jadalnia"
           },
           "src": "/assets/photo/krakow/wawel/jadalnia.jpg",
-          "thumb": "/assets/photo/krakow/wawel/jadalnia.jpg"
+          "thumb": "/assets/photo/krakow/wawel/jadalnia.thumb.jpg"
         },
         {
           "caption": {
@@ -62,7 +62,7 @@
             "pl": "Sypialnia"
           },
           "src": "/assets/photo/krakow/wawel/sypialnia.jpg",
-          "thumb": "/assets/photo/krakow/wawel/sypialnia.jpg"
+          "thumb": "/assets/photo/krakow/wawel/sypialnia.thumb.jpg"
         },
         {
           "caption": {
@@ -70,7 +70,7 @@
             "pl": "Arras"
           },
           "src": "/assets/photo/krakow/wawel/arras.jpg",
-          "thumb": "/assets/photo/krakow/wawel/arras.jpg"
+          "thumb": "/assets/photo/krakow/wawel/arras.thumb.jpg"
         },
         {
           "caption": {
@@ -78,7 +78,7 @@
             "pl": "\"Ukrzyżowanie\", porcelana"
           },
           "src": "/assets/photo/krakow/wawel/ukrzyzowanie.jpg",
-          "thumb": "/assets/photo/krakow/wawel/ukrzyzowanie.jpg"
+          "thumb": "/assets/photo/krakow/wawel/ukrzyzowanie.thumb.jpg"
         },
         {
           "caption": {
@@ -107,7 +107,7 @@
             "pl": "Bazylika"
           },
           "src": "/assets/photo/krakow/bazylika/bazylika.jpg",
-          "thumb": "/assets/photo/krakow/bazylika/bazylika.jpg"
+          "thumb": "/assets/photo/krakow/bazylika/bazylika.thumb.jpg"
         },
         {
           "caption": {
@@ -115,7 +115,7 @@
             "pl": "Dzwon Zygmunta"
           },
           "src": "/assets/photo/krakow/bazylika/dzwon.jpg",
-          "thumb": "/assets/photo/krakow/bazylika/dzwon.jpg"
+          "thumb": "/assets/photo/krakow/bazylika/dzwon.thumb.jpg"
         },
         {
           "caption": {
@@ -217,7 +217,7 @@
             "pl": "Sukiennice"
           },
           "src": "/assets/photo/krakow/sukiennice/sukiennice.jpg",
-          "thumb": "/assets/photo/krakow/sukiennice/sukiennice.jpg"
+          "thumb": "/assets/photo/krakow/sukiennice/sukiennice.thumb.jpg"
         },
         {
           "caption": {
@@ -225,7 +225,7 @@
             "pl": "Wnętrze"
           },
           "src": "/assets/photo/krakow/sukiennice/wnetrze.jpg",
-          "thumb": "/assets/photo/krakow/sukiennice/wnetrze.jpg"
+          "thumb": "/assets/photo/krakow/sukiennice/wnetrze.thumb.jpg"
         },
         {
           "caption": {
@@ -233,7 +233,7 @@
             "pl": "Pomnik Adama Mickiewicza"
           },
           "src": "/assets/photo/krakow/sukiennice/mickiewicz.jpg",
-          "thumb": "/assets/photo/krakow/sukiennice/mickiewicz.jpg"
+          "thumb": "/assets/photo/krakow/sukiennice/mickiewicz.thumb.jpg"
         },
         {
           "caption": {
@@ -241,7 +241,7 @@
             "pl": "Makieta"
           },
           "src": "/assets/photo/krakow/sukiennice/makieta.jpg",
-          "thumb": "/assets/photo/krakow/sukiennice/makieta.jpg"
+          "thumb": "/assets/photo/krakow/sukiennice/makieta.thumb.jpg"
         }
       ]
     },
@@ -270,7 +270,7 @@
             "pl": "Wnętrze"
           },
           "src": "/assets/photo/krakow/franciszek/wnetrze.jpg",
-          "thumb": "/assets/photo/krakow/franciszek/wnetrze.jpg"
+          "thumb": "/assets/photo/krakow/franciszek/wnetrze.thumb.jpg"
         },
         {
           "caption": {
@@ -278,7 +278,7 @@
             "pl": "Ołtarz"
           },
           "src": "/assets/photo/krakow/franciszek/oltarz.jpg",
-          "thumb": "/assets/photo/krakow/franciszek/oltarz.jpg"
+          "thumb": "/assets/photo/krakow/franciszek/oltarz.thumb.jpg"
         },
         {
           "caption": {
@@ -295,7 +295,7 @@
             "pl": "Polichromy \"Lilie\" - Stanisław Wyspiański"
           },
           "src": "/assets/photo/krakow/franciszek/polichromy.jpg",
-          "thumb": "/assets/photo/krakow/franciszek/polichromy.jpg"
+          "thumb": "/assets/photo/krakow/franciszek/polichromy.thumb.jpg"
         }
       ]
     },
@@ -333,7 +333,7 @@
             "pl": "Brama Floriańska"
           },
           "src": "/assets/photo/krakow/florianska/brama.jpg",
-          "thumb": "/assets/photo/krakow/florianska/brama.jpg"
+          "thumb": "/assets/photo/krakow/florianska/brama.thumb.jpg"
         },
         {
           "caption": {
@@ -341,7 +341,7 @@
             "pl": "Obraz Maryi"
           },
           "src": "/assets/photo/krakow/florianska/obraz.jpg",
-          "thumb": "/assets/photo/krakow/florianska/obraz.jpg"
+          "thumb": "/assets/photo/krakow/florianska/obraz.thumb.jpg"
         },
         {
           "caption": {
