@@ -38,6 +38,11 @@ convertpath () {
 path=$(convertpath $1)
 files=$(find $path -type f)
 
+if [[ $TINIFY_API_KE == '' ]]; then
+  printf "ERROR: No TINIFY_API_KEY environment variable set\n" >&2
+  exit 126
+fi
+
 for file in $files; do
     if [[ $file == *".thumb.jpg" ]]; then
         continue
